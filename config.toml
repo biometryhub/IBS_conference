@@ -1,7 +1,15 @@
-baseurl = "/"
+baseurl = "ausbiometric2019.org/"
 title = "Biometrics by the Botanic Gardens"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+# To Do list
+
+
+
+
+
 
 languageCode = "en-au"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -9,7 +17,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-120222240-1"
+googleAnalytics = "UA-123499055-4"
 
 # Define the number of posts per page
 paginate = 10
@@ -84,39 +92,37 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "biometrytraining@adelaide.edu.au"
+    email = "sagi_enquiries@adelaide.edu.au"
 
-    about_us = "<p>The Ranked Set Sampling Symposium is bringing together theoretical and applied statisticians and practitioners interested in promoting and enabling the uptake of new statistical methods in agriculture and environmental field research and computations. The discussion will be focused on identifying best ways for adopting the ranked set sampling (RSS) methodology by the natural resources industries and research organizations. </p>"
-    copyright = "&copy; 2018, The Biometry Hub, University of Adelaide; All rights reserved."
+    about_us = "Website is currently under construction. Please check back soon! If you require further information, please use the [contact form](/contact)."
+    copyright = "&copy; 2019, The Biometry Hub, University of Adelaide; All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    #logo = "" 
-	#"img/logo.png"
+    logo = "img/logo.png"
 	
-    address = """<p><strong>The Biometry Hub</strong>
-        <br>Level 2, Main Waite Building
-        <br>Waite Road
-        <br>Waite Campus
-        <br>Urrbrae 5064
-        <br>
-        <strong>South Australia</strong>
-      </p>
-      """
+    address = """<strong><a href="mailto:olena.kravchuk@adelaide.edu.au">Dr Olena Kravchuk</a></strong>, University of Adelaide<br><br>"""
+    
+    #"""<p><strong>The Biometry Hub</strong>
+    #    <br>Level 2, Main Waite Building
+    #    <br>Waite Road
+    #    <br>Waite Campus
+    #    <br>Urrbrae 5064
+    #    <br>
+    #    <strong>South Australia</strong>
+    #  </p>
+    #  """
 	  
-	orgcom = """<strong><a href="mailto:olena.kravchuk@adelaide.edu.au">Dr Olena Kravchuk</a> (Chair) </strong>, University of Adelaide
-        <br><strong>Prof Jennifer Brown</strong>, University of Canterbury
-        <br><strong>Dr Ray Correll</strong>, Rho Environmetrics
-        <br><strong>Mr Peter Kasprzak</strong>, University of Adelaide
-      """
+	orgcom = """<strong><a href="mailto:olena.kravchuk@adelaide.edu.au">Dr Olena Kravchuk</a></strong>, University of Adelaide
+	"""
 	  
 	# Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyAEWfK0x75ZQTAxRdqp7oNQxVSZ4FEG0gI"
   
-    latitude = "-34.968994" 
-    longitude = "138.637424"
-	direction = "Plant Genomics Centre, Urrbrae SA"
+    latitude = "-34.919619" 
+    longitude = "138.613999"
+	direction = "National Wine Centre, Adelaide SA"
 
 [Permalinks]
     blog = "/post/:year/:month/:day/:filename/"
