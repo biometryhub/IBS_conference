@@ -32,10 +32,10 @@ paginate = 10
     url  = "/"
     weight = 1
 
-#[[menu.main]]
-#    name = "Registration"
-#    url  = "/registration/"
-#    weight = 2	
+[[menu.main]]
+    name = "Registration"
+    url  = "/registration/"
+    weight = 2	
 
 #[[menu.main]]
 #    name = "Submit Abstract"

@@ -5,7 +5,9 @@ description = "Schedule for the Symposium and link to abstracts"
 
 Please click on a talk title for the abstract.
 
-## Day 1 - Thursday 27th September 2018
+
+
+## Conference Day 1 - Tuesday 3rd December 2019
 
 <table class="cll">
 <col style="width:15%">
@@ -161,7 +163,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 
 
 
-## Day 2 - Friday 28th September 2018
+## Conference Day 2 - Wednesday 4th December 2019
 
 <table class="cll">
 <col style="width:15%">

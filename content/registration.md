@@ -10,7 +10,14 @@ description = "Registration page"
   
 <!-- Please note that the registration page does not work if you are using Internet Explorer.  Please register using Safari, Chrome, or Firefox  -->
 
+## Important Dates
 
+Registration will open on 1st June 2019.
+
+Other important dates will be announced shortly, so please check back soon!
+
+
+<!--
 ### Registration Options
 - Student with dinner: **$200.00 + GST**
 - Student without dinner: **$130.00 + GST**
@@ -29,6 +36,11 @@ Plant Genomics building - Waite Agricultural University [E 4 grid](https://www.a
 ### Dinner will be at the [Edinburgh Hotel](https://www.edinburgh.com.au/) .
 
 <p class="text-large">Registration is now closed</p>
+
+
+
+
+
 <!--
 <div class="col-sm-12 text-center">
 <p class="text-large">
