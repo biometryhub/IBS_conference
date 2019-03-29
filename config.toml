@@ -47,10 +47,10 @@ paginate = 10
     url  = "/speakers/"
     weight = 3
 
-[[menu.main]]
-    name = "Programme"
-    url  = "/programme/"
-    weight = 4
+#[[menu.main]]
+#    name = "Programme"
+#    url  = "/programme/"
+#    weight = 4
 	
 [[menu.main]]
     name = "Travel and Accomodation"
