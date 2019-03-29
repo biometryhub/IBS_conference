@@ -5,7 +5,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 # To Do list
-
+# Invited Speakers profiles
+# 
 
 
 
@@ -41,20 +42,20 @@ paginate = 10
 #    url  = "/abstract/"
 #	weight = 3
 	
-#[[menu.main]]
-#    name = "Speakers"
-#    url  = "/speakers/"
-#    weight = 3
+[[menu.main]]
+    name = "Speakers"
+    url  = "/speakers/"
+    weight = 3
 
-#[[menu.main]]
-#    name = "Programme"
-#    url  = "/programme/"
-#    weight = 4
+[[menu.main]]
+    name = "Programme"
+    url  = "/programme/"
+    weight = 4
 	
-#[[menu.main]]
-#    name = "Travel and Accomodation"
-#    url  = "/travel/"
-#    weight = 5
+[[menu.main]]
+    name = "Travel and Accomodation"
+    url  = "/travel/"
+    weight = 5
 	
 #[[menu.main]]
 #    name = "Sponsors"

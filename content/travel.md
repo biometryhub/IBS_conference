@@ -3,38 +3,47 @@ title = "Travel"
 description = "some travel tips"
 +++
 
-World renowned for it's wine, a visit to SA is not complete without a wine tour.
-<img style="float: right;" src="/img/barossa.jpg", class="responsive">
+There are plenty of things to see and do in Adelaide and South Australia! Some suggestions are listed below, and for more general information on South Australia including Whale watching, zoos, and festivals, visit [the tourism centre](http://southaustralia.com/). 
+
+
+<img style="float: right;" src="/img/IMGP3981.JPG", class="responsive">
 <!-- ![Barossa Valley](/img/barossa.jpg) -->
 
-## Wine Regions
+### Wine Regions
+
+World renowned for it's wine, a visit to SA is not complete without a wine tour.
+
 - [Clare Valley Wine District](http://clarevalley.com.au/)
 - [Adelaide Hils Wine District](https://www.adelaidehillswine.com.au/)
 - [Barossa Valley Wine District](https://www.barossa.com/wine/)
 - [McLaren Vale Wine District](https://mclarenvale.info/)
 
+### Adelaide Gardens
+
 Adelaide is a lovely city to visit with stunning gardens dotted throughout the city.
 
-## Adelaide Gardens
-<img style="float: right;" src="/img/adelaide-botanic-garden.jpg", class="responsive">
+<img style="float: right;" src="/img/adelaide-botanic-garden.JPG", class="responsive">
 <!-- ![Botanic gardens](/img/adelaide-botanic-garden.jpg) -->
 
-- [Waite University Gardens](https://www.adelaide.edu.au/waite-historic/gardens/)
+- [Waite Gardens and Arboretum](https://www.adelaide.edu.au/waite-historic/gardens/)
 - [Adelaide Botanic Gardens](https://www.environment.sa.gov.au/botanicgardens/home)
+
+# Accomodation
 
 [Trip advisor](https://www.tripadvisor.com.au/Hotels-g255093-Adelaide_Greater_Adelaide_South_Australia-Hotels.html) recommends the following near by hotels.
 
-## Recommended stays
+### Recommended stays
 - [Majestic Roof Garden](https://www.roofgardenhotel.com.au/)
+- [Adabco Boutique Hotel](https://www.adabcohotel.com.au/)
 
-## Luxury stays
+### Luxury stays
 - [Intercontinental Hotel](https://www.ihg.com/intercontinental/hotels/gb/en/adelaide/adlha/hoteldetail)
 - [Hilton Hotel](http://www3.hilton.com/en/hotels/south-australia/hilton-adelaide-ADLHITW/index.html)
 - [The Playford Hotel](https://theplayford.com.au/)
 
-## Affordable stays
+### Affordable stays
 - [Hostel 109 Flashpackers](http://hostel109.com.au/)
 - [Backpack OZ](http://backpackoz.com.au/)
 - [Adelaide’s Shakespeare Backpackers International Hostel](http://shakeys.com.au/)
 
-For more general information on South Australia including Whale watching, zoos, and festivals, visit [the tourism centre](http://southaustralia.com/). 
+<br><br>
