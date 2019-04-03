@@ -1,5 +1,5 @@
 +++
-title = "Registration"
+title = "Registration & Key Dates"
 description = "Registration page"
 +++
 
@@ -11,11 +11,50 @@ description = "Registration page"
 <!-- Please note that the registration page does not work if you are using Internet Explorer.  Please register using Safari, Chrome, or Firefox  -->
 
 ## Important Dates
+<!--
+<table class="tab">
+  <tr>
+    <td>Registration opens</td>
+    <td>1st June 2019</td>
+  </tr>
+  <tr>
+    <td>Early bird registration closes</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Abstract submission closes</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Registration closes</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pre-conference workshops</td>
+    <td>1st and 2nd December 2019</td>
+  </tr>
+  <tr>
+    <td>Conference starts</td>
+    <td>3rd December 2019</td>
+  </tr>
+  <tr>
+    <td>Conference closes</td>
+    <td>6th December 2019</td>
+  </tr>
+</table>
+-->
 
-Registration will open on 1st June 2019.
+
+- **Registration opens**: 1st June 2019
+- Early bird registration closes: TBA
+- Abstract submission closes: TBA
+- Registration closes: TBA
+- **Pre-conference workshops**: 1st/2nd December 2019
+- **Conference starts**: 3rd December 2019
+- **Conference closes**: 6th December 2019
 
 Other important dates will be announced shortly, so please check back soon!
-
+<br><br>
 
 <!--
 ### Registration Options
