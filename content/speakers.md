@@ -7,10 +7,9 @@ description = "Speaker Bios"
 
 <br>
 
-## [Blair Robertson](https://www.canterbury.ac.nz/engineering/contact-us/people/blair-robertson.html) <img src="/img/speakers/Robertson.jpg", class="responsive-speaker">
-#### University of Canterbury, New Zealand
-
-Blair Robertson is a Senior Lecturer at the University of Canterbury, New Zealand. He obtained his PhD in mathematics at the University of Canterbury in 2011. Before taking his current position, he was an Assistant Professor at the University of Wyoming, United States. Blair was awarded the Worsley Early Career Research Award by the New Zealand Statistical Association in 2015 for outstanding research from a statistician in the early stages of their career. His recent research has concentrated on spatially balanced sampling designs, classification trees and random search optimization.
+## [Marti Anderson](http://www.massey.ac.nz/massey/expertise/profile.cfm?stref=204040) <img src="/img/speakers/Anderson_long.png", class="responsive-speaker">
+#### Massey University, New Zealand
+Distinguished Professor Marti J. Anderson is an ecological statistician whose work spans several disciplines, from ecology to mathematical statistics. A Fellow of the Royal Society of New Zealand, and a recent recipient of a prestigious James Cook Fellowship, she holds the Professorial Chair in Statistics in the New Zealand Institute for Advanced Study (NZIAS) at Massey University in Auckland. Her core research is in community ecology, biodiversity, multivariate analysis, models of ecological count data, experimental design and resampling methods, with a special focus on creating new applied statistics for ecology that can yield new insights into global patterns of biodiversity. Marti is also the Director of PRIMER-e (Quest Researcher Limited), a boutique research and software development company that creates user-friendly software (PRIMER and PERMANOVA+) to implement robust multivariate statistical methods for ecological analysis and synthesis.
 
 <br>
 
@@ -20,24 +19,14 @@ Blair Robertson is a Senior Lecturer at the University of Canterbury, New Zealan
 Daniela Bustos-Korts works as a researcher at Biometris, Wageningen University (NL). She graduated with a BSc in Agriculture and an MSc in Crop Physiology from the Universidad Austral de Chile. In 2017, she obtained her PhD from Wageningen University. Her PhD thesis was about the use of statistical and crop growth models for phenotype prediction across multiple environments. Her research interests are in the development of strategies that combine statistical and crop growth models to help breeders designing effective phenotyping and prediction schemes that will help them improving response to selection. These strategies involve the use of crop growth models like APSIM and linear mixed models for multi-trait and multi-environment genomic prediction.
 
 <br>
-## [Joanne De Faveri](https://www.researchgate.net/scientific-contributions/2082945346_Joanne_De_Faveri) 
-<img src="/img/speakers/De_Faveri.jpg", class="responsive-speaker">
-#### CSIRO & SAGI-North, Australia
-Dr Joanne De Faveri is an applied statistician with interest in the application of statistical methods to agricultural research, especially plant breeding. She has worked most of her career in the Department of Agriculture and Fisheries as a Biometrician in Far North Queensland working with Horticulture breeding programs such as strawberry, pineapple, macadamia, mango and citrus. More recently she joined CSIRO as part of SAGI-North, the Statistics for the Australian Grains Industry project, where she develops and applies statistical methods to GRDC funded grains projects. 
-She completed her PhD at the University of Adelaide in “Spatial and Temporal Modelling for Perennial Crop Variety Selection Trials” and has research interests in Linear Mixed Models, spatio-temporal modelling in field trials, statistical genetics and more recently statistics for High Throughput Phenomics (HTP).  Currently she is most interested in developing statistical methodology to best integrate HTP (including aerial image, sensor and hyperspectral) data into crop breeding programs for better variety predictions. 
-She enjoys the collaborative side of statistics in agriculture and applying new ideas to get the most out of research data. 
 
+## [James Carpenter](https://www.lshtm.ac.uk/aboutus/people/carpenter.james) {#carpenter} <img src="/img/speakers/Carpenter.jpg", class="responsive-speaker">
+#### London School of Hygiene & Tropical Medicine
+
+James Carpenter is professor of medical statistics at the London School of Hygiene & Tropical Medicine, and has a 50% secondment to the MRC Clinical Trials Unit at UCL. Research interests include: missing observations (both outcomes and covariates), in particular the method of multiple imputation and sensitivity analysis; meta-analysis; multilevel modelling and bootstrap methods, with social and medical applications.
 
 <br>
 
-## [Max  Moldovan](https://www.sahmriresearch.org/our-research/themes/infection-immunity/our-team/dr-max-moldovan) <img src="/img/speakers/Moldovan.png", class="responsive-speaker">
-#### Registry of Older South Australians, Australia
-Max obtained his PhD in computational statistics from the University of Melbourne in 2008, with his doctoral thesis dedicated to the design and implementation of novel exact inference procedures. Being passionate about identifying hidden functional patterns contained in empirical datasets, Max is experienced in applying statistical learning and network analyses to -omics and medical/healthcare records datasets.
-
-Max is currently employed as a Senior Data Scientist by the Registry of Older South Australians (ROSA), focusing on the analysis of large complex empirical datasets possessed by ROSA and the partners.
-
-
-<br>
 ## [Claudia Czado](http://www.professoren.tum.de/en/czado-claudia/) 
 <img src="/img/speakers/Czado.jpg", class="responsive-speaker">
 #### Technical University of Munich, Germany
@@ -46,12 +35,32 @@ The research activities of Professor Claudia Czado are in statistics. Her specia
 After studying mathematics in Göttingen, Germany, Professor Claudia Czado obtained her doctorate in 1989 at Cornell University, USA,  in Operations Research and Industrial Engineering. She then became an Assistant Professor and 1995 Associate Professor of Statistics at York University, Toronto, Canada. In 1998 she was appointed to the Technical University of Munich, Germany,  in the field of Applied Mathematical Statistics. Professor Claudia Czado is the author or co-author of more than 120 publications. She is also co-founder/coordinator of the junior research program "Global Challenges for Women in Math Science" at the Technical University of Munich.
 
 <br>
-## [Marti Anderson](http://www.massey.ac.nz/massey/expertise/profile.cfm?stref=204040) 
-<img src="/img/speakers/Anderson_long.png", class="responsive-speaker">
-#### Massey University, New Zealand
-Distinguished Professor Marti J. Anderson is an ecological statistician whose work spans several disciplines, from ecology to mathematical statistics. A Fellow of the Royal Society of New Zealand, and a recent recipient of a prestigious James Cook Fellowship, she holds the Professorial Chair in Statistics in the New Zealand Institute for Advanced Study (NZIAS) at Massey University in Auckland. Her core research is in community ecology, biodiversity, multivariate analysis, models of ecological count data, experimental design and resampling methods, with a special focus on creating new applied statistics for ecology that can yield new insights into global patterns of biodiversity. Marti is also the Director of PRIMER-e (Quest Researcher Limited), a boutique research and software development company that creates user-friendly software (PRIMER and PERMANOVA+) to implement robust multivariate statistical methods for ecological analysis and synthesis.
+
+## [Joanne De Faveri](https://www.researchgate.net/scientific-contributions/2082945346_Joanne_De_Faveri) <img src="/img/speakers/De_Faveri.jpg", class="responsive-speaker">
+#### CSIRO & SAGI-North, Australia
+Dr Joanne De Faveri is an applied statistician with interest in the application of statistical methods to agricultural research, especially plant breeding. She has worked most of her career in the Department of Agriculture and Fisheries as a Biometrician in Far North Queensland working with Horticulture breeding programs such as strawberry, pineapple, macadamia, mango and citrus. More recently she joined CSIRO as part of SAGI-North, the Statistics for the Australian Grains Industry project, where she develops and applies statistical methods to GRDC funded grains projects. 
+She completed her PhD at the University of Adelaide in “Spatial and Temporal Modelling for Perennial Crop Variety Selection Trials” and has research interests in Linear Mixed Models, spatio-temporal modelling in field trials, statistical genetics and more recently statistics for High Throughput Phenomics (HTP).  Currently she is most interested in developing statistical methodology to best integrate HTP (including aerial image, sensor and hyperspectral) data into crop breeding programs for better variety predictions. 
+She enjoys the collaborative side of statistics in agriculture and applying new ideas to get the most out of research data. 
+
 
 <br>
+
+## [Max  Moldovan](https://www.sahmriresearch.org/our-research/themes/infection-immunity/our-team/dr-max-moldovan) <img src="/img/speakers/Moldovan.jpg", class="responsive-speaker">
+#### Registry of Older South Australians, Australia
+Max obtained his PhD in computational statistics from the University of Melbourne in 2008, with his doctoral thesis dedicated to the design and implementation of novel exact inference procedures. Being passionate about identifying hidden functional patterns contained in empirical datasets, Max is experienced in applying statistical learning and network analyses to -omics and medical/healthcare records datasets.
+
+Max is currently employed as a Senior Data Scientist by the Registry of Older South Australians (ROSA), focusing on the analysis of large complex empirical datasets possessed by ROSA and the partners.
+
+
+<br>
+
+## [Blair Robertson](https://www.canterbury.ac.nz/engineering/contact-us/people/blair-robertson.html) <img src="/img/speakers/Robertson.jpg", class="responsive-speaker">
+#### University of Canterbury, New Zealand
+
+Blair Robertson is a Senior Lecturer at the University of Canterbury, New Zealand. He obtained his PhD in mathematics at the University of Canterbury in 2011. Before taking his current position, he was an Assistant Professor at the University of Wyoming, United States. Blair was awarded the Worsley Early Career Research Award by the New Zealand Statistical Association in 2015 for outstanding research from a statistician in the early stages of their career. His recent research has concentrated on spatially balanced sampling designs, classification trees and random search optimization.
+
+<br>
+
 ## [Christopher K. Wikle](https://www.stat.missouri.edu/people/wikle) 
 <img src="/img/speakers/Wikle.jpg", class="responsive-speaker">
 #### University of Missouri, USA
