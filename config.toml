@@ -5,10 +5,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 # To Do list
-# Invited Speakers profiles
-# 
-
-
+# Programme 
+# Workshop
+# Colour cells in table
+# Sponsors
+#    - GRDC
+#    - University of Adelaide
+#    - SAHMRI
+# Workshops
+# Compress photos
+# Contact for conference scientific Committee, (Petra)
+# Put it on twitter (??)
+#    - 
+# Book of Abstracts only as pdf
+# Registration dates in table with no border
 
 
 
@@ -33,7 +43,7 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Registration"
+    name = "Registration & Key Dates"
     url  = "/registration/"
     weight = 2	
 
@@ -51,11 +61,16 @@ paginate = 10
 #    name = "Programme"
 #    url  = "/programme/"
 #    weight = 4
+    
+[[menu.main]]
+    name = "Workshops"
+    url  = "/workshops/"
+    weight = 5
 	
 [[menu.main]]
     name = "Travel and Accomodation"
     url  = "/travel/"
-    weight = 5
+    weight = 6
 	
 #[[menu.main]]
 #    name = "Sponsors"
@@ -66,7 +81,7 @@ paginate = 10
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 7
+    weight = 8
 
 
 [params]
