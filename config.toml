@@ -67,8 +67,8 @@ paginate = 10
 	
 	
 [[menu.main]]
-    name = "Coming to Adelaide"
-    identifier = "travel"
+    name = "Visiting Adelaide"
+    identifier = "tourism"
     url  = "#"
     weight = 6
 	
@@ -76,13 +76,13 @@ paginate = 10
 [[menu.main]]
     name = "Things to do"
     url  = "/tourism/"
-    parent = "travel"
+    parent = "tourism"
     weight = 2
     
 [[menu.main]]
     name = "Accomodation"
     url  = "/accomodation/"
-    parent = "travel"
+    parent = "tourism"
     weight = 2
 	
 #[[menu.main]]
