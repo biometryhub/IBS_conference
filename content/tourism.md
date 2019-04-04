@@ -12,7 +12,7 @@ There is something for everyone to see and do in Adelaide and South Australia! S
 
 World renowned for it's wine, a visit to SA is not complete without a wine tour. The locations listed below are ordered by driving time from Adelaide CBD. All are located less than 2 hours drive from Adelaide CBD, and some as close as 30 mintues!
 
-- [Adelaide Hils Wine District](https://www.adelaidehillswine.com.au/) (~30 minutes)
+- [Adelaide Hills Wine District](https://www.adelaidehillswine.com.au/) (~30 minutes)
 - [McLaren Vale Wine District](https://mclarenvale.info/) (~45 minutes)
 - [Barossa Valley Wine District](https://www.barossa.com/wine/) (~1 hour)
 - [Clare Valley Wine District](http://clarevalley.com.au/) (~2 hours)
@@ -38,7 +38,7 @@ The [Adelaide zoo](https://www.adelaidezoo.com.au/) is the only zoo in Australia
 
 - The [tram in Adelaide](https://adelaidemetro.com.au/timetables/trams) is free to ride within the CBD boundaries and out to the Entertainment Centre.
 - There is a free [City Connector bus](https://www.adelaidemetro.com.au/Timetables-Maps/Special-Services/Free-City-Services) which loops both directions around the CBD.
-- There are also [Free Bikes](https://www.bikesa.asn.au/adelaidefreebikes) scattered around the CBD if pedal power is more your style. Adelaide is very bike friendly with a very flat cbd with plenty of bike lanes.
+- There are also [Free Bikes](https://www.bikesa.asn.au/adelaidefreebikes) scattered around the CBD if pedal power is more your style. Adelaide is very bike friendly with a very flat CBD with plenty of bike lanes.
 
 ## Travelling further 
 
