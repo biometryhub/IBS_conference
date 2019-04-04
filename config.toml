@@ -6,14 +6,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # To Do list
 # Programme 
-# Workshop
 # Colour cells in table
 # Sponsors
 #    - GRDC
 #    - University of Adelaide
 #    - SAHMRI
-# Workshops
-# Compress photos
+# Update Workshop details
 # Contact for conference scientific Committee, (Petra)
 # Put it on twitter (??)
 #    - 
@@ -67,10 +65,25 @@ paginate = 10
     url  = "/workshops/"
     weight = 5
 	
+	
 [[menu.main]]
-    name = "Travel and Accomodation"
-    url  = "/travel/"
+    name = "Coming to Adelaide"
+    identifier = "travel"
+    url  = "#"
     weight = 6
+	
+	
+[[menu.main]]
+    name = "Things to do"
+    url  = "/tourism/"
+    parent = "travel"
+    weight = 2
+    
+[[menu.main]]
+    name = "Accomodation"
+    url  = "/accomodation/"
+    parent = "travel"
+    weight = 2
 	
 #[[menu.main]]
 #    name = "Sponsors"
