@@ -11,39 +11,6 @@ description = "Registration page"
 <!-- Please note that the registration page does not work if you are using Internet Explorer.  Please register using Safari, Chrome, or Firefox  -->
 
 ## Important Dates
-<!--
-<table class="tab">
-  <tr>
-    <td>Registration opens</td>
-    <td>1st June 2019</td>
-  </tr>
-  <tr>
-    <td>Early bird registration closes</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Abstract submission closes</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Registration closes</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Pre-conference workshops</td>
-    <td>1st and 2nd December 2019</td>
-  </tr>
-  <tr>
-    <td>Conference starts</td>
-    <td>3rd December 2019</td>
-  </tr>
-  <tr>
-    <td>Conference closes</td>
-    <td>6th December 2019</td>
-  </tr>
-</table>
--->
-
 
 - **Registration opens**: 1st June 2019
 - Early bird registration closes: TBA
@@ -53,21 +20,23 @@ description = "Registration page"
 - **Conference starts**: 3rd December 2019
 - **Conference closes**: 6th December 2019
 
-Other important dates will be announced shortly, so please check back soon!
+Other important dates and registraion prices will be announced shortly, so please check back soon!
 <br><br>
 
-<!--
+<!---
 ### Registration Options
-- Student with dinner: **$200.00 + GST**
-- Student without dinner: **$130.00 + GST**
-- Non Student with dinner: **$400.00 + GST**
-- Non Student without dinner: **$330.00 + GST**
-- One Day with dinner : **270.00 + GST**
-- One Day without dinner : **$200.00 + GST**
 
+| Options    | Early Bird Full Rate | Full Rate | Student Rate |
+|------------|----------------------|-----------|--------------|
+| Workshops  |                      |           |              |
+| Conference |                      |           |              |
+| Dinner     |                      |           |              |
+| One-day    |                      |           |              |
+
+<br>
 All prices are in Australian Dollars (AUD). Proof of Student enrollment must be provided upon registration as a student.
 
-
+<!--
 ### Symposium venue
 Plant Genomics building - Waite Agricultural University [E 4 grid](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf)
 

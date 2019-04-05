@@ -5,8 +5,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 # To Do list
-# Programme 
-# Colour cells in table
 # Sponsors
 #    - GRDC
 #    - University of Adelaide
@@ -16,7 +14,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Put it on twitter (??)
 #    - 
 # Book of Abstracts only as pdf
-# Registration dates in table with no border
+# Programme table fix first column
+# 
+
 
 
 
@@ -55,41 +55,47 @@ paginate = 10
     url  = "/speakers/"
     weight = 3
 
-#[[menu.main]]
-#    name = "Programme"
-#    url  = "/programme/"
-#    weight = 4
-    
 [[menu.main]]
-    name = "Workshops"
-    url  = "/workshops/"
-    weight = 5
+    name = "Programme"
+    identifier = "prog"
+    url  = "#"
+    weight = 4
 	
+    [[menu.main]]
+        name = "Programme Outline"
+        url  = "/outline/"
+        parent = "prog"
+        weight = 2
+        
+    [[menu.main]]
+        name = "Workshops"
+        url  = "/workshops/"
+        parent = "prog"
+        weight = 2
 	
 [[menu.main]]
     name = "Visiting Adelaide"
     identifier = "tourism"
     url  = "#"
-    weight = 6
+    weight = 5
 	
-	
-[[menu.main]]
-    name = "Things to do"
-    url  = "/tourism/"
-    parent = "tourism"
-    weight = 2
-    
-[[menu.main]]
-    name = "Accomodation"
-    url  = "/accomodation/"
-    parent = "tourism"
-    weight = 2
+    [[menu.main]]
+        name = "Things to do"
+        url  = "/tourism/"
+        parent = "tourism"
+        weight = 2
+        
+    [[menu.main]]
+        name = "Accomodation"
+        url  = "/accomodation/"
+        parent = "tourism"
+        weight = 2
 	
 #[[menu.main]]
 #    name = "Sponsors"
 #    identifier = "sponsors"
 #    url  = "/sponsors/"
-#    weight = 6
+#    weight = 7
 
 [[menu.main]]
     name = "Contact"
@@ -100,7 +106,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/post/"
     author = "The Biometry Hub"
-    defaultKeywords = ["ranked set sampling", "statistics"]
+    defaultKeywords = ["conference", "statistics", "biometrics", "biometry"]
     #defaultDescription = "Site template made by devcows using hugo"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet

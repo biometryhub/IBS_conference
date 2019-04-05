@@ -183,6 +183,18 @@ a.heading:active {
         margin-bottom: 150px;
         font-size: 36px;
     }
+    
+    /*.tg {
+        width: auto !important;
+        max-width: 100%;
+    }
+    .tg col {
+        width: auto !important;
+    }
+    .tg-wrap {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;*/
+    }
 }
 
 /* Mid size screen */
@@ -242,6 +254,20 @@ a.heading:active {
     .home-carousel h2 {
         margin-bottom: 150px;
         font-size: 36px;
+    }
+    
+    .tg {
+        width: auto !important;
+        max-width: 100%;
+    }
+
+    .tg col {
+        width: auto !important;
+        
+    }
+    .tg-wrap {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
   
 }
@@ -326,11 +352,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
   text-align: left;*/
 }
 
-.tab {
-    /*border: 0px !important;*/
-    border-collapse: collapse !important;
-}
-
 /* For images on the travel page */
 
 .responsive {
@@ -410,3 +431,88 @@ iframe {
     margin: 0 auto;
 	display: block;
 }
+
+.tg  {
+    border-collapse:collapse;
+    border-spacing:0;
+    color:#000000;
+    border-color:inherit;
+    max-width: 100%;
+}
+
+.tg td{
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    border-color:black;
+}
+.tg th{
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    border-color:black;
+}
+.tg .tg-c3ow{
+    text-align:center;
+    vertical-align:top
+}
+
+.tg .tg-rbmo{
+    color:#000000;
+    background-color:#aabcfe;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-0pky{
+    text-align:left;
+    vertical-align:top
+    position: absolute;
+}
+
+.tg .tg-elvq{
+    color:#000000;
+    background-color:#fffc9e;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-tu0f{
+    color:#000000;
+    background-color:#6aae7a;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-smvl{
+    color:#000000;
+    background-color:#fd6864;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-qs5d {
+    color:#000000;
+    background-color:#ac95d4;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-0lax {
+    color:#000000;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-og4q {
+    color:#000000;
+    background-color:#fd6864;
+    text-align:left;
+    vertical-align:top
+}
+
+

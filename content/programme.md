@@ -1,8 +1,12 @@
 +++
-title = "Program and abstracts"
-description = "Schedule for the Symposium and link to abstracts"
+title = "Program Details"
+description = "Schedule for the conference and link to abstracts"
 +++
 
+
+
+
+<!---
 Please click on a talk title for the abstract.
 
 
@@ -126,7 +130,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>14:00 – 14:30</td>
 <td>Working together on creating Ranked Set Sampling designs: <br>researcher-statistician knowledge transfer</td>
 <td>Olena Kravchuk</td>
-<td><!--  Download --></td>
+<td><!--  Download </td>
 </tr>
 
 <tr class="out budgets 6collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -313,7 +317,7 @@ Developing tailored solutions for field sampling in industry and research would 
 <td>14:20 – 14:30</td>
 <td>PMapp functionality improved and new smart-phone app for assessing grapevine diseases, pests and disorders</td>
 <td>Eileen Scott</td>
-<td><!--  Download --></td>
+<td>  Download </td>
 </tr>
 
 <tr class="out budgets 212collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -370,7 +374,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 		This presentation points out the importance of incorporating the latency of response in the prediction model of fruit yield. The plant does not respond to changes in environmental factors immediately. To illustrate this, the response time of crop yield to a variety of environmental factors, including temperature, solar radiation and humidity, etc. is studied in particular. The field data used in this research is collected on farms so as to minimize the negative influence of uncontrolled factors on the accuracy of statistical analysis. Five farms participating in this research are located in South Korea.
 </td></tr>
 
-<tr><!-- class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed"> -->
+<tr><!-- class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed">
 <td>16:00 – 17:00</td>
 <td>Round-table discussion on sampling and survey methodology in the practice of agriculture research and education in South-East Asia</td>
 <td>Ray Correll, Chris De Ieso, Oula Bouphakaly, Khonesavanh  Phialathounheuane, Bounsanong Chouangthavy</td>
@@ -396,7 +400,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>19:30 – 21:30</td>
 <td>Webinar, reflecting on the discussions in the Symposium</td>
 <td>Facilitators: Jennifer Brown and Olena Kravchuk</td>
-<td><!--  Download --></td>
+<td><!--  Download </td>
 </tr>
 </tbody>
 </table>
@@ -480,6 +484,6 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 </tr>
 </tbody>
 </table>
-
+--->
 
 <br>
