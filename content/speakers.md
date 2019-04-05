@@ -21,7 +21,7 @@ Daniela Bustos-Korts works as a researcher at Biometris, Wageningen University (
 <br>
 
 ## [James Carpenter](https://www.lshtm.ac.uk/aboutus/people/carpenter.james) {#carpenter} <img src="/img/speakers/Carpenter.jpg", class="responsive-speaker">
-#### London School of Hygiene & Tropical Medicine
+#### London School of Hygiene & Tropical Medicine, UK
 
 James Carpenter is professor of medical statistics at the London School of Hygiene & Tropical Medicine, and has a 50% secondment to the MRC Clinical Trials Unit at UCL. Research interests include: missing observations (both outcomes and covariates), in particular the method of multiple imputation and sensitivity analysis; meta-analysis; multilevel modelling and bootstrap methods, with social and medical applications.
 
@@ -37,7 +37,7 @@ After studying mathematics in Göttingen, Germany, Professor Claudia Czado obtai
 <br>
 
 ## [Joanne De Faveri](https://www.researchgate.net/scientific-contributions/2082945346_Joanne_De_Faveri) <img src="/img/speakers/De_Faveri.jpg", class="responsive-speaker">
-#### CSIRO & SAGI-North, Australia
+#### CSIRO & SAGI-North/DAF, Australia
 Dr Joanne De Faveri is an applied statistician with interest in the application of statistical methods to agricultural research, especially plant breeding. She has worked most of her career in the Department of Agriculture and Fisheries as a Biometrician in Far North Queensland working with Horticulture breeding programs such as strawberry, pineapple, macadamia, mango and citrus. More recently she joined CSIRO as part of SAGI-North, the Statistics for the Australian Grains Industry project, where she develops and applies statistical methods to GRDC funded grains projects. 
 She completed her PhD at the University of Adelaide in “Spatial and Temporal Modelling for Perennial Crop Variety Selection Trials” and has research interests in Linear Mixed Models, spatio-temporal modelling in field trials, statistical genetics and more recently statistics for High Throughput Phenomics (HTP).  Currently she is most interested in developing statistical methodology to best integrate HTP (including aerial image, sensor and hyperspectral) data into crop breeding programs for better variety predictions. 
 She enjoys the collaborative side of statistics in agriculture and applying new ideas to get the most out of research data. 
