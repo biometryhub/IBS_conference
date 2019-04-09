@@ -138,6 +138,10 @@ a.heading:active {
     .home-carousel h3 {
         font-size: 18px;
     }
+    .home-carousel {
+      background: url('../img/bg_small.png') center center repeat fixed;
+    }
+    
 }
 
 
@@ -166,6 +170,9 @@ a.heading:active {
     }
     .home-carousel h3 {
         font-size: 20px;
+    }
+    .home-carousel {
+      background: url('../img/bg_small.png') center center repeat fixed;
     }
 }
 
