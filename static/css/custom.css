@@ -140,6 +140,7 @@ a.heading:active {
     }
     .home-carousel {
       background: url('../img/bg_small.jpg') center center repeat fixed;
+      background-size: cover;
     }
     
     .jumbotron {
@@ -176,6 +177,7 @@ a.heading:active {
     }
     .home-carousel {
       background: url('../img/bg_small.jpg') center center repeat fixed;
+      background-size: cover;
     }
     .jumbotron {
         background: url('../img/bg_small.jpg') center center repeat fixed;
