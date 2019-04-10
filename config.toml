@@ -98,11 +98,11 @@ paginate = 10
         parent = "tourism"
         weight = 2
         
-    #[[menu.main]]
-    #    name = "About the Venue"
-    #    url  = "/venue/"
-    #    parent = "tourism"
-    #    weight = 3
+    [[menu.main]]
+        name = "About the Venue"
+        url  = "/venue/"
+        parent = "tourism"
+        weight = 3
 	
 #[[menu.main]]
 #    name = "Sponsors"
