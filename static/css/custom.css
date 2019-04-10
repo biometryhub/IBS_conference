@@ -25,7 +25,7 @@
   padding: 30px;
   margin-bottom: 0;
   position: relative;
-  background: url('../img/bg.png') center center repeat fixed;
+  background: url('../img/bg_small.jpg') center center repeat fixed;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -44,7 +44,7 @@
 
 .home-carousel {
   position: relative;
-  background: url('../img/bg.png') center center repeat fixed;
+  background: url('../img/bg_small.jpg') center center repeat fixed;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
