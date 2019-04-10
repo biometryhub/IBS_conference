@@ -73,6 +73,12 @@ paginate = 10
         url  = "/workshops/"
         parent = "prog"
         weight = 2
+        
+    [[menu.main]]
+        name = "Social Programme"
+        url  = "/social/"
+        parent = "prog"
+        weight = 3
 	
 [[menu.main]]
     name = "Visiting Adelaide"
@@ -91,6 +97,12 @@ paginate = 10
         url  = "/accomodation/"
         parent = "tourism"
         weight = 2
+        
+    #[[menu.main]]
+    #    name = "About the Venue"
+    #    url  = "/venue/"
+    #    parent = "tourism"
+    #    weight = 3
 	
 #[[menu.main]]
 #    name = "Sponsors"
@@ -130,7 +142,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "ausbiometric2019@adelaide.edu.au"
 
-    about_us = "Website is currently under construction. Please check back soon! If you require further information, please use the [contact form](/contact)."
+    about_us = "Website is currently under construction. Please check back soon! If you require further information, please use the [contact form](/contact). The full list of people who made this conference happen can be found [here](/acknowledgements/)"
     copyright = "&copy; 2019, The Biometry Hub, University of Adelaide; All rights reserved."
 
     # Format dates with Go's time formatting
