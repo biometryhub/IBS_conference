@@ -139,7 +139,7 @@ a.heading:active {
         font-size: 18px;
     }
     .home-carousel {
-      background: url('../img/bg_small.png') center center repeat fixed;
+      background: url('../img/bg_small.jpg') center center repeat fixed;
     }
     
 }
@@ -172,7 +172,7 @@ a.heading:active {
         font-size: 20px;
     }
     .home-carousel {
-      background: url('../img/bg_small.png') center center repeat fixed;
+      background: url('../img/bg_small.jpg') center center repeat fixed;
     }
 }
 
