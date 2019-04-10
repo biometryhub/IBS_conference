@@ -37,8 +37,8 @@ description = "Schedule for the conference and link to abstracts"
   </tr>
   <tr>
     <td class="tg-0pky">9:00</td>
-    <td class="tg-elvq">Workshops</td>
-    <td class="tg-elvq">Workshops</td>
+    <td class="tg-elvq"><a href="/workshops/" style="color: #0a4719;">Workshops</a></td>
+    <td class="tg-elvq"><a href="/workshops/" style="color: #0a4719;">Workshops</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10:45-11:15</td>
@@ -63,7 +63,7 @@ description = "Schedule for the conference and link to abstracts"
   <tr>
     <td class="tg-0pky">1:45</td>
     <td class="tg-tu0f">Contributed Sessions</td>
-    <td class="tg-smvl" rowspan="3">Excursions</td>
+    <td class="tg-smvl" rowspan="3"><a href="/social/" style="color: #0a4719;">Excursions</a></td>
     <td class="tg-tu0f">Contributed Sessions</td>
     <td class="tg-tu0f">Contributed Sessions</td>
   </tr>
@@ -83,7 +83,7 @@ description = "Schedule for the conference and link to abstracts"
   <tr>
     <td class="tg-0pky">19:00</td>
     <td class="tg-0pky"></td>
-    <td class="tg-smvl">Reception</td>
+    <td class="tg-smvl"><a href="/social/" style="color: #0a4719;">Reception</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -95,7 +95,7 @@ description = "Schedule for the conference and link to abstracts"
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-og4q">Conference Dinner</td>
+    <td class="tg-og4q"><a href="/social/" style="color: #0a4719;">Conference Dinner</a></td>
     <td class="tg-0lax"></td>
   </tr>
 </table>
