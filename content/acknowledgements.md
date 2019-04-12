@@ -18,6 +18,7 @@ Chair of scientific committee: Dr Petra Kuhnert
 ## Local Organising Committee
 
 Chair of local organising committee: Dr Olena Kravchuk  
+Conference Dinner Organisation: Dr Helena Oakey
 Website development: Sam Rogers
 
 <br><br><br>
