@@ -142,7 +142,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "ausbiometric2019@adelaide.edu.au"
 
-    about_us = "Website is currently under construction. Please check back soon! If you require further information, please use the [contact form](/contact). The full list of people who made this conference happen can be found [here](/acknowledgements/)"
+    about_us = "Website is currently under construction. Please check back soon! If you require further information, please use the [contact form](/contact). The full list of people who made this conference happen can be found [here](/acknowledgements/)."
     copyright = "&copy; 2019, The Biometry Hub, University of Adelaide; All rights reserved."
 
     # Format dates with Go's time formatting
@@ -161,12 +161,8 @@ paginate = 10
     #    <strong>South Australia</strong>
     #  </p>
     #  """
-	  
-    #orgcom = """<strong><a href="mailto:Alan.Welsh@anu.edu.au">Prof Alan Welsh</a> Chair of the conference organising committee</strong> 
-	#      <br>Dr Petra Kuhnert, Chair of the scientific committee
-    #    <br>Dr Olena Kravchuk, Chair of the local organising committee
-    #    <br>Mr Warren Muller, Treasurer
-    #  """
+      
+    scicom = """<strong><a href="mailto:Petra.Kuhnert@data61.csiro.au">Dr Petra Kuhnert</a></strong>, Chair of scientific committee"""  
       
     orgcom = """<strong><a href="mailto:Alan.Welsh@anu.edu.au">Prof Alan Welsh</a></strong>, Chair of conference organising committee 
 	    <br><strong><a href="mailto:Petra.Kuhnert@data61.csiro.au">Dr Petra Kuhnert</a></strong>, Chair of scientific committee
