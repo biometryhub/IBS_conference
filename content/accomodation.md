@@ -3,6 +3,7 @@ title = "Accomodation"
 description = "Some accomodation options"
 +++
 
+Special conference accomodation rates are currently under negotiation, however in the mean time, feel free to check out some options below.
 
 # Accomodation
 
