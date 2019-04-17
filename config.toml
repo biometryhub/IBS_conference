@@ -142,9 +142,9 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "ausbiometric2019@adelaide.edu.au"
 
-    about_us = "Website is currently under construction. Please check back soon! If you require further information, please use the [contact form](/contact). The full list of people who made this conference happen can be found [here](/acknowledgements/)."
-    copyright = "&copy; 2019, The Biometry Hub, University of Adelaide; All rights reserved."
-
+    about_us = "Website is currently under construction. Please check back soon for more details! If you require further information, please use the [contact form](/contact). The full list of people who made this conference happen can be found [here](/acknowledgements/)."
+    copyright = "&copy; 2019, [The Biometry Hub](https://biometryhubwaite.com), University of Adelaide; All rights reserved."
+    
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
