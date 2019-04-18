@@ -103,6 +103,7 @@ paginate = 10
         url  = "/venue/"
         parent = "tourism"
         weight = 3
+
 	
 #[[menu.main]]
 #    name = "Sponsors"
@@ -110,11 +111,31 @@ paginate = 10
 #    url  = "/sponsors/"
 #    weight = 7
 
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    weight = 8
+#[[menu.main]]
+#    name = "Contact"
+#    url  = "/contact/"
+#    weight = 8
 
+	
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url  = "#"
+    weight = 8
+	
+    [[menu.main]]
+        name = "Contact"
+        url  = "/contact/"
+        parent = "about"
+        weight = 2
+        
+    [[menu.main]]
+        name = "Code of Conduct"
+        url  = "/conduct/"
+        parent = "about"
+        weight = 3
+        
+        
 
 [params]
     viewMorePostLink = "/post/"
