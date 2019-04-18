@@ -167,6 +167,3 @@ This course will present an introduction to deep models in ML from a statisticia
 
 </tbody>
 </table>
-
-
-<br>

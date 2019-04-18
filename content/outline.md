@@ -100,6 +100,3 @@ description = "Schedule for the conference and link to abstracts"
   </tr>
 </table>
 </div>
-
-
-<br>

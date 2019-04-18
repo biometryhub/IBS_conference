@@ -93,7 +93,8 @@ Other important dates and registraion prices will be announced shortly, so pleas
 <!--End mc_embed_signup-->
 
 
-<br><br>
+
+
 
 <!---
 ### Registration Options

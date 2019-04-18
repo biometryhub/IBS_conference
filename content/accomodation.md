@@ -24,4 +24,3 @@ Special conference accomodation rates are currently under negotiation, however i
 - [Backpack OZ](http://backpackoz.com.au/)
 - [Adelaide’s Shakespeare Backpackers International Hostel](http://shakeys.com.au/)
 
-<br><br>

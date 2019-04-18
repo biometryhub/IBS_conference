@@ -44,4 +44,3 @@ Harassment is demeaning or threatening behaviour directed at an individual, or a
 If you are being harassed by a member of the IBS-AR, notice that someone else is being harassed, or have any other concerns, please contact the designated safety officers in the IBS-AR council  in person or by email. The current safety officer(s) in IBS-AR regional council can be found at http://www.biometrics.org.au/council.html. If the person who is harassing you is one of the safety officers, they will recuse themselves from handling your incident  and will not be given any information without your explicit consent. We will respond as promptly as we can.
 
 
-<br><br><br>

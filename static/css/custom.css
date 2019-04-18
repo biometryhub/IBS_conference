@@ -115,6 +115,10 @@ a.heading:active {
     text-decoration: underline;
 }
 
+div#content {
+    margin-bottom: 50px;
+}
+
 
 /* tiny screens */
 @media (max-width: 359px) {
