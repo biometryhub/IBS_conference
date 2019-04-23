@@ -46,20 +46,25 @@ ing. Thus also the term pair copula construction was coined by Aas et al. (2009)
 The course starts with background on multivariate and conditional distributions and copulas. Basic bivariate dependence measures are then discussed.  Bivariate parametric classes of elliptical, Archimedean are introduced and graphical tools for the identification of sensible bivariate copula models to data are developed. The decomposition and construction principle of vines is first given in three dimensions and then extended to the special cases of draw able (D-) and canonical (C-) vines. Finally, the general case of regular (R-) vines is developed. Simulation algorithms and parameter estimation methods will be constructed. Model selection methods for vine models are considered. The short course closes with a case study. Computations are facilitated using the freely available package VineCopula of Schepsmeier et al. (2017) package in R (see R Core Team (2017)). Further resources on vine models can be found under vine-copula.org
 </td></tr>
 
-
 <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
-
-<td>Lachlan Mitchel and Peter Kasprzak</td>
-<td>Shiny App Development</td>
+<td>Emi Tanaka</td>
+<td>R Tidyverse Workshop</td>
 <td>TBA</td>
 <td><a href=""></a></td>
 </tr>
 
 <tr class="out budgets 2collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="4">
-        TBA
-</td></tr>
+        R is a programming language, with particular emphasis in statistical computing and graphics, that first appeared in 1993, i.e. 26 years ago. Over this time, R has grown exponentially in use and the R developers and users, collectively called the R community, have become diverse.
+        
+<br><br>
 
+R has evolved significantly, particularly driven by a suite of R packages, collectively called tidyverse, that adopt a common design philosophy, grammar, and data structures. Additionally, R packages such as rmarkdown allow for seamless integration of the R language to produce various outputs including interactive html documents or applications. The increased use of these tools are shown in the increasing number of citations.
+        
+<br><br>
+
+Many members of the biometrics community use R, however, modern evolvement of R means that many recent contributions are yet to be well adopted within the community. This workshop has a potential to raise the modern statistical programming literacy by teaching key tools and best practices that is increasingly adopted.
+</td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
 <td>Julian Taylor</td>
@@ -129,24 +134,18 @@ The course covers those basic concepts in experimental design that are necessary
 
 
 <tr class="clickable" data-toggle="collapse" id="6" data-target=".6collapsed">
-<td>Emi Tanaka</td>
-<td>Introduction to R</td>
+
+<td>Lachlan Mitchel and Peter Kasprzak</td>
+<td>Shiny App Development</td>
 <td>TBA</td>
 <td><a href=""></a></td>
 </tr>
 
 <tr class="out budgets 6collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="4">
-        R is a programming language, with particular emphasis in statistical computing and graphics, that first appeared in 1993, i.e. 26 years ago. Over this time, R has grown exponentially in use and the R developers and users, collectively called the R community, have become diverse.
-        
-<br><br>
-
-R has evolved significantly, particularly driven by a suite of R packages, collectively called tidyverse, that adopt a common design philosophy, grammar, and data structures. Additionally, R packages such as rmarkdown allow for seamless integration of the R language to produce various outputs including interactive html documents or applications. The increased use of these tools are shown in the increasing number of citations.
-        
-<br><br>
-
-Many members of the biometrics community use R, however, modern evolvement of R means that many recent contributions are yet to be well adopted within the community. This workshop has a potential to raise the modern statistical programming literacy by teaching key tools and best practices that is increasingly adopted.
+        TBA
 </td></tr>
+
 
 <tr class="clickable" data-toggle="collapse" id="7" data-target=".7collapsed">
 <td>Christopher K. Wikle and Dan Pagendam</td>
