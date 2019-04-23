@@ -28,7 +28,7 @@ At The Adelaide Hills Convention Centre their 5 Star Chefs select the very best 
 
 A guided library tour, talk and afternoon tea in the [Rare Collection of the Barr Smith Library](https://www.adelaide.edu.au/library/special/) to see the work by Fisher preserved in the library and learn about his last years in Adelaide, 1959 – 1962.  
 
-This will follow by a short stroll from the University through North Adelaide to [St Peter’s Cathedral](http://www.stpeters-cathedral.org.au/) and a guided tour there to visit the place of Sir Fisher ashes and hear about the significance of that for the Cathedral. You are welcome to stay in the Cathedral for a 6pm School Carols Concert, or to bus back to the central Adelaide.  
+This will follow by a short stroll from the University through North Adelaide to [St Peter’s Cathedral](http://www.stpeters-cathedral.org.au/) and a guided tour there to visit the place of Sir Fisher ashes and hear about the significance of that for the Cathedral.
 
 Cost: $40 pp, including afternoon tea and a souvenir from the Cathedral.  
 Contact person: [Ms Annie Conway](mailto:annie.conway@adelaide.edu.au)
