@@ -47,7 +47,7 @@ The course starts with background on multivariate and conditional distributions 
 </td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
-<td>Emi Tanaka</td>
+<td>Emi Tanaka and Annie Conway</td>
 <td>R Tidyverse Workshop</td>
 <td>TBA</td>
 <td><a href=""></a></td>

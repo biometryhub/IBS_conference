@@ -45,7 +45,7 @@ Contact person: [Ms Annie Conway](mailto:annie.conway@adelaide.edu.au)
 #### Bus tour of Fleurieu Peninsula
 
 
-#### Wine tasting at the Wine Centre
+#### Wine tasting
 
 
 #### Something active (TBD)
