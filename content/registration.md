@@ -12,7 +12,7 @@ description = "Registration page"
 
 ## Important Dates
 
-- **Registration opens**: 1st June 2019
+- **Registration opens**: 7th June 2019
 - Early bird registration closes: TBA
 - Abstract submission closes: TBA
 - Registration closes: TBA

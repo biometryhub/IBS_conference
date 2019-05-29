@@ -198,14 +198,14 @@ div#content {
 /* Wide screen */
 @media(min-width:992px) {
     .owl-item {
-        margin-top: 200px;
+        margin-top: 100px;
         margin-bottom: 300px;
     }
     .home-carousel h1 {
         margin-bottom: 100px;
     }
     .home-carousel h2 {
-        margin-bottom: 150px;
+        margin-bottom: 50px;
         font-size: 36px;
     }
     
