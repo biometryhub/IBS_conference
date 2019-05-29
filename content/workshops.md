@@ -67,7 +67,7 @@ Many members of the biometrics community use R, however, modern evolvement of R 
 </td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
-<td>Julian Taylor</td>
+<td>Julian Taylor and Beata Sznajder</td>
 <td>Whole Genome Analysis with wgaim</td>
 <td>TBA</td>
 <td><a href=""></a></td>
