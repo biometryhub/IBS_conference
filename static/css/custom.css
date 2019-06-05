@@ -545,3 +545,6 @@ iframe {
     color: #fff !important;
 }
 
+ol {
+    list-style-type: lower-alpha;
+}
