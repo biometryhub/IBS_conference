@@ -7,7 +7,7 @@ Special conference accomodation rates are currently under negotiation, however i
 
 # Accomodation
 
-[Trip advisor](https://www.tripadvisor.com.au/Hotels-g255093-Adelaide_Greater_Adelaide_South_Australia-Hotels.html) recommends the following near by hotels.
+[Trip advisor](https://www.tripadvisor.com.au/Hotels-g255093-Adelaide_Greater_Adelaide_South_Australia-Hotels.html) recommends the following near by hotels:
 
 ### Recommended stays
 - [Majestic Roof Garden](https://www.roofgardenhotel.com.au/)
