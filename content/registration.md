@@ -26,18 +26,22 @@ description = "Registration page"
 - **Conference starts**: 3rd December 2019
 - **Conference closes**: 6th December 2019
 
-Other important dates and registraion prices will be announced shortly, so please check back soon or register below to receive updates!  
-**NB:** The form below is not for conference registration, just to indicate you would like to receive notifications of important dates and events for the conference.
+
+
+<script type="text/javascript" src="https://form.jotform.co/jsform/91481428555867"></script>
+
+
+
+<div style="text-align: center">
+<h4>If you are not quite ready to register, but would like to be kept up to date with important conference <br>
+announcements (such as approaching closing dates), please use the form below.</h4>
+</div>
+
 <br><br>
-
-
-
-
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; border:0.5px solid #999999; border-radius: 15px;}
+	#mc_embed_signup{background:#fff; clear:left; border:0.5px solid #999999; border-radius: 15px; width: 800px; margin-left: auto; margin-right: auto;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
