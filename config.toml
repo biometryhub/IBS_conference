@@ -79,6 +79,12 @@ paginate = 10
         url  = "/social/"
         parent = "prog"
         weight = 3
+        
+    [[menu.main]]
+        name = "Australia and New Zealand School Poster Competition"
+        url  = "/school-posters/"
+        parent = "prog"
+        weight = 4
 	
 [[menu.main]]
     name = "Visiting Adelaide"
