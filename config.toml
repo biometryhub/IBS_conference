@@ -43,13 +43,21 @@ paginate = 10
 
 [[menu.main]]
     name = "Registration & Key Dates"
-    url  = "/registration/"
+    url  = "#"
     weight = 2	
+    identifier = "rego"
+    
+    [[menu.main]]
+        name = "Register"
+        url  = "/registration/"
+        weight = 1	
+        parent = "rego"
 
-#[[menu.main]]
-#    name = "Submit Abstract"
-#    url  = "/abstract/"
-#	weight = 3
+    [[menu.main]]
+        name = "Submit Abstract"
+        url  = "/abstract/"
+    	weight = 2
+    	parent = "rego"
 	
 [[menu.main]]
     name = "Speakers"
