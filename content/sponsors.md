@@ -6,7 +6,7 @@ keywords = ["Sponsors","Who","money"]
 
 
 
-<h4 class="sponsors-text">Special thanks goes to the generous support of our sponsors listed below, without whom this conference could not have taken place! </h4>
+<h4 class="sponsors-text">Special thanks for the generous support of our sponsors listed below, without whom this conference could not have taken place! </h4>
 <br>
 
 <span class="sponsors-text">
