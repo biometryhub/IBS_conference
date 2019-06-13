@@ -387,11 +387,31 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 .sponsors {
     width: 100%;
-    max-width: 150px;
+    max-width: 400px;
     height: auto;
 	display: block;
     margin-left: auto;  /* Change to 20% to move left */
     margin-right: auto;
+    text-align: center;
+}
+
+.sponsors-smaller {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+	display: block;
+    margin-left: auto;  /* Change to 20% to move left */
+    margin-right: auto;
+    text-align: center;
+}
+
+.sponsors-text {
+    width: 100%;
+    height: auto;
+	display: block;
+    margin-left: auto;  /* Change to 20% to move left */
+    margin-right: auto;
+    text-align: center;
 }
 
 .btn-template-main-big {
