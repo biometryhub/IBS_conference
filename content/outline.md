@@ -6,6 +6,8 @@ description = "Schedule for the conference and link to abstracts"
 
 ### Draft conference outline
 
+**Please note**: The program is still subject to change.
+
 <div class="table-responsive">
 <table class="tg table-fixed" data-tablesaw-mode="columntoggle">
 <colgroup>
