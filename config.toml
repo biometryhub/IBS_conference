@@ -184,7 +184,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "ausbiometric2019@adelaide.edu.au"
 
-    about_us = "Website is currently under construction. Please check back soon for more details! If you require further information, please use the [contact form](/contact). The full list of people who made this conference happen can be found [here](/acknowledgements/)."
+    about_us = 'The <a href="http://www.biometrics.org.au" target="_blank">International Biometric Society (IBS)</a> is devoted to the development and application of statistical and mathematical theory and methods in the Biosciences, including agriculture, biomedical science and public health, ecology, environmental sciences, forestry, and allied disciplines. It welcomes as members statisticians, mathematicians, biological scientists, and others devoted to interdisciplinary efforts in advancing the collection and interpretation of information in the biosciences. If you require further information, please use the [contact form](/contact). The full list of people who made this conference happen can be found [here](/acknowledgements/).'
     copyright = "&copy; 2019, [The Biometry Hub](https://biometryhubwaite.com), University of Adelaide; All rights reserved."
     
     # Format dates with Go's time formatting
@@ -210,6 +210,8 @@ paginate = 10
 	    <br><strong><a href="mailto:Petra.Kuhnert@data61.csiro.au">Dr Petra Kuhnert</a></strong>, Chair of scientific committee
         <br><strong><a href="mailto:olena.kravchuk@adelaide.edu.au">Dr Olena Kravchuk</a></strong>, Chair of local organising committee
         <br><strong><a href="mailto:warren.muller@csiro.au">Mr Warren Muller</a></strong>, Treasurer
+        <br><br>
+        <a href="http://www.biometrics.org.au" target="_blank">International Biometric Society Australasian Region</a>
       """
       
 	# Google Maps API key (if not set will default to not passing a key.)

@@ -5,7 +5,7 @@ description = "Conference Code of Conduct"
 
 ## IBS-AR Conference Code of Conduct
 
-The International Biometrics Society Australasian Region (IBS-AR) is dedicated to providing a welcoming and harassment-free experience for everyone. We do not tolerate unprofessional or inappropriate conduct, which includes discrimination and harassment, sexual or otherwise. Conference participants should always work towards maintaining an environment free of harassment and discrimination. At the discretion of the IBS-AR conference organisers and/or IBS-AR council, any participants violating these rules may be asked to leave the conference, without any fee refund.
+The <a href="http://www.biometrics.org.au" target="_blank">International Biometric Society Australasian Region (IBS-AR)</a> is dedicated to providing a welcoming and harassment-free experience for everyone. We do not tolerate unprofessional or inappropriate conduct, which includes discrimination and harassment, sexual or otherwise. Conference participants should always work towards maintaining an environment free of harassment and discrimination. At the discretion of the IBS-AR conference organisers and/or IBS-AR council, any participants violating these rules may be asked to leave the conference, without any fee refund.
 
 Participants agree to: 
 
