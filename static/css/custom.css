@@ -565,6 +565,6 @@ iframe {
     color: #fff !important;
 }
 
-ol {
+.alpha-list ol {
     list-style-type: lower-alpha;
 }

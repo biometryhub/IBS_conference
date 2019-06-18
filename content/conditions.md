@@ -3,6 +3,8 @@ title = "Terms and Conditions of Registration"
 description = "Terms and Conditions of Registration"
 +++
 
+<div class="alpha-list">
+{{% md %}}
 ## IBS-AR Terms and Conditions of Registration
 
 ### 1. Registration and payment
@@ -103,3 +105,6 @@ To ensure security of information, particularly credit card details, faxing form
 
 ### 11.	Questions
 1. 	Please contact the local organizing committee through the website (ausbiometric2019.org/contact) or via email [ausbiometric2019@adelaide.edu.au](mailto:ausbiometric2019@adelaide.edu.au).
+
+{{% /md %}}
+</div>
