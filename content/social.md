@@ -30,7 +30,7 @@ A guided library tour, talk and afternoon tea in the [Rare Collection of the Bar
 
 This will follow by a short stroll from the University through North Adelaide to [St Peter’s Cathedral](http://www.stpeters-cathedral.org.au/) and a guided tour there to visit the place of Sir Fisher ashes and hear about the significance of that for the Cathedral.
 
-Cost: $40 pp, including afternoon tea and a souvenir from the Cathedral.  
+Cost: $20 pp, including afternoon tea.  
 Contact person: [Ms Annie Conway](mailto:annie.conway@adelaide.edu.au)
 
 
@@ -48,6 +48,8 @@ Contact person: [Ms Annie Conway](mailto:annie.conway@adelaide.edu.au)
 #### Wine tasting
 
 
-#### Something active (TBD)
+#### Indoor Bouldering
+
+
 
 
