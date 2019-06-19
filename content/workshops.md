@@ -135,7 +135,7 @@ The course covers those basic concepts in experimental design that are necessary
 
 <tr class="clickable" data-toggle="collapse" id="6" data-target=".6collapsed">
 
-<td>Lachlan Mitchel and Peter Kasprzak</td>
+<td>Lachlan Mitchell and Peter Kasprzak</td>
 <td>Shiny App Development</td>
 <td>TBA</td>
 <td><a href=""></a></td>
@@ -143,7 +143,10 @@ The course covers those basic concepts in experimental design that are necessary
 
 <tr class="out budgets 6collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="4">
-        TBA
+        Shiny is a tool purpose-built for the R programming language that makes it quick and easy to create interactive web applications for data exploration. By leveraging the full power of R, apps can quickly be prototyped from your existing scripts with very little additional overhead.  
+<br><br>
+In this short course, we will approach Shiny from a beginner's perspective, walking through the basics of how a Shiny application works and how to build one. Towards the conclusion of the workshop, we will discuss methods for publishing and distributing applications, as well as more advanced techniques for building Shiny programs in a future-proof and maintainable fashion. A basic level of R knowledge is assumed.
+
 </td></tr>
 
 
