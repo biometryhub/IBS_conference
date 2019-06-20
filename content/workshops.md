@@ -75,7 +75,10 @@ Many members of the biometrics community use R, however, modern evolvement of R 
 
 <tr class="out budgets 3collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="4">
-        TBA
+        The advent of high-throughput genotyping methods has allowed the low-cost generation of high dimensional genetic marker sets for dissection and analysis. In plant and animal breeding research these analyses usually involve the incorporation of the complete set of genetic markers into a complex linear mixed model (LMM). In these models the goal is usually to determine the underlying genetic architecture of phenotypic traits through various whole genome analysis techniques such as quantitative trait loci (QTL) analysis, genome wide association studies (GWAS) or genomic selection (GS).
+<br><br>
+There are many LMM methods for QTL, GWAS and GS analysis. This course will provide a theoretical and computational introduction to the newly updated genetic analysis R package, <b>WGAIM</b>, that builds on the highly flexible LMM computational architecture of ASReml-R V4. The course will initially introduce LMM theory and the necessary extensions required for QTL, GWAS and GS analysis approaches. The functionality of the package will then be exemplified through a walk-through of the computational genetic analysis pipeline. Workshop participants will have a chance to gain hands on experience with the package features through practical sessions. A good working knowledge of R is assumed.
+
 </td></tr>
 
 </tbody>
