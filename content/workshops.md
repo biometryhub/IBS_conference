@@ -26,7 +26,7 @@ description = "Schedule for the pre-conference workshops and link to any supplem
 
 <td>Claudia Czado</td>
 <td>Analyzing dependent data with vine copulas</td>
-<td>TBA</td>
+<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" target=_blank>University of Adelaide North Tce Campus</a> Room TBA</td>
 <td><a href=""></a></td>
 </tr>
 
@@ -49,7 +49,7 @@ The course starts with background on multivariate and conditional distributions 
 <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
 <td>Emi Tanaka and Annie Conway</td>
 <td>R Tidyverse Workshop</td>
-<td>TBA</td>
+<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" target=_blank>University of Adelaide North Tce Campus</a> Room TBA</td>
 <td><a href=""></a></td>
 </tr>
 
@@ -69,7 +69,7 @@ Many members of the biometrics community use R, however, modern evolvement of R 
 <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
 <td>Julian Taylor and Beata Sznajder</td>
 <td>Whole Genome Analysis with wgaim</td>
-<td>TBA</td>
+<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" target=_blank>University of Adelaide North Tce Campus</a> Room TBA</td>
 <td><a href=""></a></td>
 </tr>
 
@@ -107,7 +107,7 @@ There are many LMM methods for QTL, GWAS and GS analysis. This course will provi
 
 <td>Chris Brien and Sam Rogers</td>
 <td>Identifying, randomizing, canonically analyzing and formulating mixed models for designs for comparative experiments using R</td>
-<td>TBA</td>
+<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" target=_blank>University of Adelaide Waite Campus</a><br>Room TBA</td>
 <td><a href=""></a></td>
 </tr>
 
@@ -126,7 +126,7 @@ The course covers those basic concepts in experimental design that are necessary
 
 <td>James Carpenter</td>
 <td>Handling missing data in administrative studies: multiple imputation and inverse probability weighting</td>
-<td>TBA</td>
+<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" target=_blank>University of Adelaide Waite Campus</a><br>Room TBA</td>
 <td><a href=""></a></td>
 </tr>
 
@@ -140,7 +140,7 @@ The course covers those basic concepts in experimental design that are necessary
 
 <td>Lachlan Mitchell and Peter Kasprzak</td>
 <td>Shiny App Development</td>
-<td>TBA</td>
+<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" target=_blank>University of Adelaide Waite Campus</a><br>Room TBA</td>
 <td><a href=""></a></td>
 </tr>
 
@@ -156,7 +156,7 @@ In this short course, we will approach Shiny from a beginner's perspective, walk
 <tr class="clickable" data-toggle="collapse" id="7" data-target=".7collapsed">
 <td>Christopher K. Wikle and Dan Pagendam</td>
 <td>An Introduction to Deep Learning with Biometric and Environmetric Applications</td>
-<td>TBA</td>
+<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" target=_blank>University of Adelaide Waite Campus</a><br>Room TBA</td>
 <td><a href=""></a></td>
 </tr>
 

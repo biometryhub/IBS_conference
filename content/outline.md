@@ -5,20 +5,23 @@ description = "Schedule for the conference and link to abstracts"
 
 ### Draft conference outline
 
-
+<!--- See example at https://codepen.io/paulobrien/pen/gWoVzN for scrolling table -->
 
 
 **Please note**: The program is still subject to change.
+
+
+#### [Venue Map](https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf)
 
 <div class="table-responsive">
 <table id="outline" class="tg table-fixed" data-tablesaw-mode="columntoggle">
 <colgroup>
 <col style="width: 9%">
 <col style="width: 11%">
-<col style="width: 12%">
+<col style="width: 11%">
 <col style="width: 16%">
 <col style="width: 19%">
-<col style="width: 17%">
+<col style="width: 18%">
 <col style="width: 16%">
 </colgroup>
   <thead>
@@ -41,16 +44,19 @@ description = "Schedule for the conference and link to abstracts"
   </tr>
   <tr>
     <td class="tg-0pky">8:30</td>
-    <td class="tg-c3ow" colspan="2">Registration desk open</td>
-    <td class="tg-rbmo" rowspan="2">Invited Sessions(Medical)<br><br>Carpenter and Moldovan<br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;"><b>Exhibition Hall</b></a></td>
-    <td class="tg-rbmo" rowspan="2">Invited Sessions(Environmental)<br><br>Wikle and Robertson<br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;"><b>Exhibition Hall</b></td>
-    <td class="tg-rbmo" rowspan="2">Invited Sessions(Agriculture)<br><br>Bustos-Korts and De Faveri<br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;"><b>Exhibition Hall</b></td>
-    <td class="tg-rbmo" rowspan="2">Invited Sessions(Methods)<br><br>Czado and Anderson<br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;"><b>Exhibition Hall</b></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-rbmo" rowspan="2"><b>Invited Sessions(Medical)<br><br>Carpenter and Moldovan</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</a></td>
+    <td class="tg-rbmo" rowspan="2"><b>Invited Sessions(Environmental)<br><br>Wikle and Robertson</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</a></td>
+    <td class="tg-rbmo" rowspan="2"><b>Invited Sessions(Agriculture)<br><br>Bustos-Korts and De Faveri</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</a></td>
+    <td class="tg-rbmo" rowspan="2"><b>Invited Sessions(Methods)<br><br>Czado and Anderson</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</td>
   </tr>
   <tr>
     <td class="tg-0pky">9:00 - 10:30</td>
-    <td class="tg-elvq"><a href="/workshops/" style="color: #0a4719;">Workshops</a></td>
-    <td class="tg-elvq"><a href="/workshops/" style="color: #0a4719;">Workshops</a></td>
+    <td class="tg-elvq"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a>
+    <br><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" style="color: #0a4719;" target=_blank>University of Adelaide North Tce Campus</a></td>
+    <td class="tg-elvq"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a>
+    <br><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" style="color: #0a4719;" target=_blank>University of Adelaide Waite Campus</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30 - 11:00</td>
@@ -60,27 +66,35 @@ description = "Schedule for the conference and link to abstracts"
     <td class="tg-0pky">11:00 - 12:30</td>
     <td class="tg-elvq"></td>
     <td class="tg-elvq"></td>
-    <td class="tg-tu0f">Contributed Sessions</td>
-    <td class="tg-tu0f">Contributed Sessions</td>
-    <td class="tg-tu0f">Contributed Sessions</td>
-    <td class="tg-tu0f">Contributed Sessions</td>
+    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
+    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
+    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
+    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12:30 - 13:30</td>
+    <td class="tg-0pky" rowspan="2">12:30 - 13:30</td>
+    <td class="tg-c3ow" rowspan="2" colspan="2">Lunch</td>
+    <td class="tg-c3ow" rowspan="2">Lunch round table discussion topics</td>
+    <td class="tg-c3ow" rowspan="2">Packed lunch</td>
+    <td class="tg-c3ow" rowspan="2">AGM Lunch</td>
+    <td class="tg-qs5d"><b>School poster competition</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</td>
+  </tr>
+  <tr>
+    <!--<td class="tg-0pky">12:30 - 13:30</td>
     <td class="tg-c3ow" colspan="2">Lunch</td>
     <td class="tg-c3ow">Lunch round table discussion topics</td>
     <td class="tg-c3ow">Packed lunch</td>
-    <td class="tg-c3ow">AGM Lunch</td>
-    <td>Conference close<br>Sandwich lunch and farewell drinks<br></td>
+    <td class="tg-c3ow">AGM Lunch</td>-->
+    <td>Conference close<br>Sandwich lunch and farewell drinks</td>
   </tr>
   <tr>
     <td class="tg-0pky">13:30 - 15:00</td>
     <td class="tg-elvq"></td>
     <td class="tg-elvq"></td>
-    <td class="tg-tu0f">Contributed Sessions</td>
-    <td class="tg-smvl" rowspan="4"><a href="/social/" style="color: #0a4719;">Excursions</a></td>
-    <td class="tg-tu0f">Contributed Sessions</td>
-    <td rowspan="5"></td>
+    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
+    <td class="tg-smvl" rowspan="4"><a href="/social/" style="color: #0a4719;"><b>Excursions</b></a></td>
+    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
+    <td rowspan="6"></td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00 - 15:30</td>
@@ -91,31 +105,40 @@ description = "Schedule for the conference and link to abstracts"
     <td class="tg-0pky">15:30 - 17:00</td>
     <td class="tg-elvq"></td>
     <td class="tg-elvq"></td>
-    <td class="tg-qs5d">Poster session<br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;"><b>Exhibition Hall</b></td>
-    <td class="tg-tu0f">Contributed Sessions</td>
+    <td class="tg-qs5d"><b>Poster session</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</td>
+    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
   </tr>
   <tr>
     <td class="tg-0pky">17:00 - 17:30</td>
     <td></td>
     <td></td>
-    <td class="tg-qs5d">School poster competition<br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;"><b>Exhibition Hall</b></td>
+    <td></td>
     <td></td>
   </tr>
+  
+  <tr>
+    <td class="tg-0pky">17:30 - 18:30</td>
+    <td></td>
+    <td>Regestration Desk Open</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
   <tr>
     <td class="tg-0pky">19:00</td>
     <td></td>
-    <td class="tg-smvl"><a href="/social/" style="color: #0a4719;">Welcome Reception</a></td>
-    <td class="tg-smvl"><a href="/social/" style="color: #0a4719;">Young statisticians dinner</a></td>
+    <td class="tg-smvl" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Welcome Reception</b></a></td>
+    <td class="tg-smvl" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Young statisticians dinner</b></a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="tg-0lax">19:30</td>
+    <!--<td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>-->
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-og4q"><a href="/social/" style="color: #0a4719;">Conference dinner and awards session</a></td>
+    <td class="tg-og4q"><a href="/social/" style="color: #0a4719;"><b>Conference dinner and awards session</b></a></td>
     <td class="tg-0lax"></td>
   </tr>
   </tbody>
