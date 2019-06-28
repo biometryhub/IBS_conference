@@ -6,18 +6,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # To Do list
 # Sponsors
-#    - GRDC
 #    - University of Adelaide
 #    - SAHMRI
-# Update Workshop details
-# Contact for conference scientific Committee, (Petra)
-# Put it on twitter (??)
-#    - 
 # Book of Abstracts only as pdf
 # Programme table fixed first column
-# Add dinner details and venue
-# Page for social programme
-
+# Fix h2 font size between 768 and 991 pixels (should be 30pt not 40)
 
 
 
