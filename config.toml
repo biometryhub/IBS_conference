@@ -51,6 +51,12 @@ paginate = 10
         url  = "/abstract/"
     	weight = 2
     	parent = "rego"
+    	
+    [[menu.main]]
+        name = "Conditions of Registration"
+        url  = "/conditions/"
+        parent = "rego"
+        weight = 3
 	
 [[menu.main]]
     name = "Speakers"
@@ -143,11 +149,7 @@ paginate = 10
         parent = "about"
         weight = 3
         
-    [[menu.main]]
-        name = "Conditions of Registration"
-        url  = "/conditions/"
-        parent = "about"
-        weight = 4
+
         
         
 
