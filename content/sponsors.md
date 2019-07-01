@@ -36,7 +36,7 @@ The Australasian Region of the International Biometric Society gratefully acknow
 </span>  
 
 <a href="https://www.adelaide.edu.au/waite-research-institute/">
-<img style="float: center;" src="/img/sponsors/WRI.jpg", class="sponsors">
+<img style="float: center;" src="/img/sponsors/UoA_WRI_logo_horiz.png", class="sponsors">
 </a>
 <br>
 <br>
