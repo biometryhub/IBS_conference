@@ -72,29 +72,32 @@ description = "Schedule for the conference and link to abstracts"
     <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="2">12:30 - 13:30</td>
+    <td class="tg-0pky">12:30 - 13:00</td>
     <td class="tg-c3ow" rowspan="2" colspan="2">Lunch</td>
     <td class="tg-c3ow" rowspan="2">Lunch round table discussion topics</td>
     <td class="tg-c3ow" rowspan="2">Packed lunch</td>
     <td class="tg-c3ow" rowspan="2">AGM Lunch</td>
-    <td class="tg-qs5d"><b>School poster competition</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</td>
+    <td class="tg-c3ow">Conference close</td>
   </tr>
   <tr>
-    <!--<td class="tg-0pky">12:30 - 13:30</td>
-    <td class="tg-c3ow" colspan="2">Lunch</td>
+    <td class="tg-0pky">13:00 - 13:30</td>
+    <!--<td class="tg-c3ow" colspan="2">Lunch</td>
     <td class="tg-c3ow">Lunch round table discussion topics</td>
     <td class="tg-c3ow">Packed lunch</td>
     <td class="tg-c3ow">AGM Lunch</td>-->
-    <td>Conference close<br>Sandwich lunch and farewell drinks</td>
+    <td class="tg-qs5d" rowspan="2"><b>School poster competition<br>Sandwich lunch, farewell drinks</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</td>
   </tr>
   <tr>
-    <td class="tg-0pky">13:30 - 15:00</td>
-    <td class="tg-elvq"></td>
-    <td class="tg-elvq"></td>
-    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
-    <td class="tg-smvl" rowspan="4"><a href="/social/" style="color: #0a4719;"><b>Excursions</b></a></td>
-    <td class="tg-tu0f"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
-    <td rowspan="6"></td>
+  <td class="tg-0pky">13:30 - 14:00</td>
+  <td class="tg-elvq" rowspan="2"></td>
+  <td class="tg-elvq" rowspan="2"></td>
+    <td class="tg-tu0f" rowspan="2"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
+    <td class="tg-smvl" rowspan="5"><a href="/social/" style="color: #0a4719;"><b>Excursions</b></a></td>
+    <td class="tg-tu0f" rowspan="2"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:00 - 15:00</td>
+    <td class="tg-og4h" rowspan="3">Biometry for Science Teachers – satellite event</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00 - 15:30</td>
@@ -114,12 +117,15 @@ description = "Schedule for the conference and link to abstracts"
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   
   <tr>
     <td class="tg-0pky">17:30 - 18:30</td>
     <td></td>
     <td>Regestration Desk Open</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -131,9 +137,10 @@ description = "Schedule for the conference and link to abstracts"
     <td class="tg-smvl" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Young statisticians dinner</b></a></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0lax">19:30</td>
+    <td class="tg-0pky">19:30</td>
     <!--<td class="tg-0lax"></td>
     <td class="tg-0lax"></td>-->
     <td class="tg-0lax"></td>

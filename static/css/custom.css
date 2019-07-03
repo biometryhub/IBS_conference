@@ -515,7 +515,7 @@ iframe {
 .tg .tg-rbmo{
     color:#000000;
     background-color:#aabcfe;
-    text-align:left;
+    text-align:center;
     vertical-align:top
 }
 
@@ -528,14 +528,14 @@ iframe {
 .tg .tg-elvq{
     color:#000000;
     background-color:#fffc9e;
-    text-align:left;
+    text-align:center;
     vertical-align:top
 }
 
 .tg .tg-tu0f{
     color:#000000;
     background-color:#6aae7a;
-    text-align:left;
+    text-align:center;
     vertical-align:top
 }
 
@@ -549,22 +549,31 @@ iframe {
 .tg .tg-qs5d {
     color:#000000;
     background-color:#ac95d4;
-    text-align:left;
+    text-align:center;
     vertical-align:top
 }
 
 .tg .tg-0lax {
     color:#000000;
-    text-align:left;
+    text-align:center;
     vertical-align:top
 }
 
 .tg .tg-og4q {
     color:#000000;
     background-color:#fd6864;
-    text-align:left;
+    text-align:center;
     vertical-align:top
 }
+
+.tg .tg-og4h {
+    color:#000000;
+    background-color:#facb96;
+    text-align:center;
+    vertical-align:top
+}
+
+
 
 .addeventatc:hover {
     background-color: #6aae7a !important;
