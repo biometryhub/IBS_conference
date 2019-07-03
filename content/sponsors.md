@@ -7,7 +7,7 @@ keywords = ["Sponsors","Who","money"]
 
 
 <h4 class="sponsors-text">
-The Australasian Region of the International Biometric Society gratefully acknowledge the support offered by the following organisations to the Biometrics by the Botanic Gardens conference.</h4>
+The Australasian Region of the International Biometric Society gratefully acknowledges the support offered by the following organisations to the Biometrics by the Botanic Gardens conference.</h4>
 <br>
 
 <span class="sponsors-text">
