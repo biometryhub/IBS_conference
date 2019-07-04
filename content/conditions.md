@@ -70,19 +70,12 @@ description = "Terms and Conditions of Registration"
 
 The following people are eligible to use the concessional rates to register for the conference and workshops:  
 
-1. 	Full-time students – Full-time students who are already student members of the IBS Australasian Region will be identified by the Treasurer. Other full-time students need to have a member of academic staff at the institution where they are enrolled complete the declaration below and include this declaration with their registration form.
+1. 	Full-time students – Full-time students who are already student members of the IBS Australasian Region will be identified by the Treasurer. Other full-time students need to have a member of academic staff at the institution where they are enrolled complete the declaration below and include this declaration with their registration form. The student declaration form can be found at https://ausbiometric2019.org/data/Student_Declaration.pdf.
 
 1. 	Senior Retiree IBS members – Australasian Region members in the ‘Senior Retiree’ category will be identified by the Treasurer. IBS Senior Retiree members of other regions should inform the Treasurer which region they belong to when submitting their registration form.
 
 1. 	Developing Country (DC) residents – Members or non-members who live in a country classified as DC by the IBS. DC countries are those classified by the World Bank as ‘Low income’ or ‘Lower middle income’. Further details are available at http://www.biometricsociety.org/regions/.
 
-I declare that …………………………………………………………………………………….
-
-is a full-time student at ....................................................................................................................
-
-Signed  .......................................................           Position   ...........................................................
-
-Staff member’s name (PRINT IN CAPITALS): ............................................................................
 
 ### 9. Code of conduct
 
