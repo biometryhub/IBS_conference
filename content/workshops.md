@@ -3,8 +3,17 @@ title = "Workshops"
 description = "Schedule for the pre-conference workshops and link to any supplementary materials"
 +++
 
-
 ## Workshops Day 1 - Sunday 1st December 2019
+
+### Location
+
+Sunday Workshops will be held at the [University of Adelaide North Tce Campus](https://www.google.com/maps/place/The+University+of+Adelaide/@-34.9194115,138.6039513,18.06z/data=!4m5!3m4!1s0x6ab0ced27ef95329:0xb46ee5f583fae2bf!8m2!3d-34.920603!4d138.6062277). The listings in the location column contain a link to the location of the building on Google maps. A pdf copy of the campus map with room listings is available [here](https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf). The campus is a short walk from the suggested accomodation options.
+
+#### Parking
+
+There is plenty of parking nearby the University, with much of it having reduced Sunday rates. The most likely place to find on-street parking is to the North of the campus on [Victoria Drive](https://www.google.com/maps/place/Victoria+Dr,+Adelaide+SA+5000/@-34.9204714,138.6038083,16.81z/data=!4m5!3m4!1s0x6ab0c92b156eea6b:0x2be42866d17959d9!8m2!3d-34.9174082!4d138.6020806), and there is plenty of high-rise parking off [North Tce](https://www.google.com/maps/dir//-34.921269,138.6056662/@-34.9192677,138.6015355,17z) or [Rundle Street](https://www.google.com/maps/dir//-34.9226321,138.6062223/@-34.9228605,138.6075143,16.81z). Note that if you are planning on using the high-rise car parking, you will need to approach from the East heading West, as is it along the southern side of North Tce, and there is a tram line which prevents turning in from the far side of the road in most cases.
+
+<br>
 
 <table class="cll">
 <col style="width:25%">
@@ -26,7 +35,7 @@ description = "Schedule for the pre-conference workshops and link to any supplem
 
 <td>Claudia Czado</td>
 <td>Analyzing dependent data with vine copulas</td>
-<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" target=_blank>University of Adelaide North Tce Campus</a> Room TBA</td>
+<td><a href="https://www.google.com.au/maps/dir//-34.918762,138.6054143/@-34.9197566,138.6052004,17.57z" target=_blank>University of Adelaide North Tce Campus, Ingkarni Wardli 7.15 Conference Room</a></td>
 <td><a href=""></a></td>
 </tr>
 
@@ -49,7 +58,7 @@ The course starts with background on multivariate and conditional distributions 
 <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
 <td>Emi Tanaka and Annie Conway</td>
 <td>R Tidyverse Workshop</td>
-<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" target=_blank>University of Adelaide North Tce Campus</a> Room TBA</td>
+<td><a href="https://www.google.com.au/maps/dir//-34.9198926,138.6044309/@-34.9201722,138.6042604,17.86z" target=_blank>University of Adelaide North Tce Campus, Hughes 322 Teaching Room</a></td>
 <td><a href=""></a></td>
 </tr>
 
@@ -69,7 +78,7 @@ Many members of the biometrics community use R, however, modern evolvement of R 
 <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
 <td>Julian Taylor and Beata Sznajder</td>
 <td>Whole Genome Analysis with wgaim</td>
-<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" target=_blank>University of Adelaide North Tce Campus</a> Room TBA</td>
+<td><a href="https://www.google.com.au/maps/dir//-34.9195567,138.6045386/@-34.9197931,138.6039874,17.88z" target=_blank>University of Adelaide North Tce Campus, Barr Smith South 2052 Teaching Room</a></td>
 <td><a href=""></a></td>
 </tr>
 
@@ -86,6 +95,18 @@ There are many LMM methods for QTL, GWAS and GS analysis. This course will provi
 
 
 ## Workshops Day 2 - Monday 2nd December 2019
+
+### Location
+
+Monday Workshops will be held at the [University of Adelaide Waite Campus](https://www.google.com/maps/place/The+University+of+Adelaide+-+Waite+Campus/@-34.967,138.6338113,17z/data=!3m1!4b1!4m5!3m4!1s0x6ab0ce875dbab4d7:0xf03365545bac8d0!8m2!3d-34.967!4d138.636). The listings in the location column of the table below contain a link to the location of the building on Google maps. A pdf copy of the campus map with room listings is available [here](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf). The campus is a 15 minute drive or 40 minute bus ride ([on the 170 bus](https://www.google.com/maps/dir/-34.9209039,138.6054353/The+University+of+Adelaide+-+Waite+Campus,+Urrbrae+SA+5064/@-34.9439498,138.5506326,12z/data=!3m1!4b1!4m13!4m12!1m0!1m5!1m1!1s0x6ab0ce875dbab4d7:0xf03365545bac8d0!2m2!1d138.636!2d-34.967!2m3!6e1!7e2!8j1575277200!3e3)) from the Adelaide CBD, North Tce campus and the suggested accomodation options.
+
+#### Parking
+
+Parking at Waite is free, with ample parking places available off Waite Rd.
+
+
+
+<br>
 
 <table class="cll">
 <col style="width:25%">
@@ -140,7 +161,7 @@ The course covers those basic concepts in experimental design that are necessary
 
 <td>Lachlan Mitchell and Peter Kasprzak</td>
 <td>Shiny App Development</td>
-<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" target=_blank>University of Adelaide Waite Campus</a><br>Room TBA</td>
+<td><a href="https://www.google.com.au/maps/dir//-34.9680263,138.6351788/@-34.9671704,138.6360118,16.34z" target=_blank>University of Adelaide Waite Campus<br>Biometry Hub Meeting room</a></td>
 <td><a href=""></a></td>
 </tr>
 
