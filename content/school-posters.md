@@ -15,7 +15,7 @@ The Australasian Region of the International Biometric Society will hold a speci
 
 Prizes will be awarded to the top 3 entries that can demonstrate a clear statistical enquiry to a Biometrics problem (examples listed above).  Prize amounts consist of:  1st Prize $300, 2nd Prize $200, 3rd Prize $100.  
 
-Posters can be submitted through the SSA National Schools Poster Competition website (new website TBA), which will house a special check button for this competition. Winners will be announced at the 2019 Australasian Region Biometrics Conference, where students and their teachers/carers can "zoom in" to virtually attend the awards ceremony.  
+Posters can be submitted through the [SSA National Schools Poster Competition website](https://www.ssaipostercomp.info/schools/), which will house a special check button for this competition. Winners will be announced at the 2019 Australasian Region Biometrics Conference, where students and their teachers/carers can "zoom in" to virtually attend the awards ceremony.  
 All posters submitted to this special section of the SSA National Poster Competition will be on display throughout the conference for conference participants to view.
 
 ## More information
