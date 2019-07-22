@@ -57,22 +57,25 @@ The course starts with background on multivariate and conditional distributions 
 
 <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
 <td>Emi Tanaka and Annie Conway</td>
-<td>R Tidyverse Workshop</td>
+<td>Tidyverse & R Markdown Workshop</td>
 <td><a href="https://www.google.com.au/maps/dir//-34.9198926,138.6044309/@-34.9201722,138.6042604,17.86z" target=_blank>University of Adelaide North Tce Campus, Hughes 322 Teaching Room</a></td>
 <td><a href=""></a></td>
 </tr>
 
 <tr class="out budgets 2collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="4">
-        R is a programming language, with particular emphasis in statistical computing and graphics, that first appeared in 1993, i.e. 26 years ago. Over this time, R has grown exponentially in use and the R developers and users, collectively called the R community, have become diverse.
-        
+Tidyverse is a collection of R packages that share a common philosophy to perform various data science tasks. In this hands-on workshop, you will learn data wrangling and data visualisation using the ggplot2, dplyr and tidyr packages as well as touch on function programming using purrr to aid coding for repetitive tasks. 
 <br><br>
 
-R has evolved significantly, particularly driven by a suite of R packages, collectively called tidyverse, that adopt a common design philosophy, grammar, and data structures. Additionally, R packages such as rmarkdown allow for seamless integration of the R language to produce various outputs including interactive html documents or applications. The increased use of these tools are shown in the increasing number of citations.
-        
-<br><br>
+R Markdown is a tool that allows you to easily integrate text, code and its output into one document. You will learn various usage of R Markdown, including producing pretty & dynamic documents, using xaringan to build html presentations, and using bookdown to build your own reproducible book.
+This workshop will be suitable for people with some basic knowledge and familiarity of R. 
 
-Many members of the biometrics community use R, however, modern evolvement of R means that many recent contributions are yet to be well adopted within the community. This workshop has a potential to raise the modern statistical programming literacy by teaching key tools and best practices that is increasingly adopted.
+<br><br>
+{{% md %}}
+
+##### Biography of Instructor
+Dr. Emi Tanaka has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his [popular blog](https://yihui.name/en/2018/07/emi-tanaka/). She has given a number of tutorials and workshop related to the topics of this workshop.
+{{% /md %}}
 </td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
