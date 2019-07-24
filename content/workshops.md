@@ -105,7 +105,7 @@ Monday Workshops will be held at the [University of Adelaide Waite Campus](https
 
 #### Parking
 
-Parking at Waite is free, with ample parking places available off Waite Rd.
+Parking at Waite is free, with ample parking places available off Waite Rd. See the [campus map](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf) for parking locations.
 
 
 
