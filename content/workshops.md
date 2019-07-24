@@ -23,7 +23,7 @@ There is plenty of parking nearby the University, with much of it having reduced
 <thead>
 <tr>
 <th>Presenter</th>
-<th>Title</th>
+<th>Title (Click to see Abstract)</th>
 <th>Location</th>
 <th>Materials</th>
 </tr>
@@ -119,7 +119,7 @@ Parking at Waite is free, with ample parking places available off Waite Rd.
 <thead>
 <tr>
 <th>Presenter</th>
-<th>Title</th>
+<th>Title (Click to see Abstract)</th>
 <th>Location</th>
 <th>Materials</th>
 </tr>
