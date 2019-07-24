@@ -131,7 +131,7 @@ Parking at Waite is free, with ample parking places available off Waite Rd.
 
 <td>Chris Brien and Sam Rogers</td>
 <td>Identifying, randomizing, canonically analyzing and formulating mixed models for designs for comparative experiments using R</td>
-<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" target=_blank>University of Adelaide Waite Campus</a><br>Room TBA</td>
+<td><a href="https://www.google.com.au/maps/dir//-34.9688048,138.6388042/@-34.9680507,138.6387428,16.19z" target=_blank>University of Adelaide Waite Campus<br>Plant Research Centre Auditorium</a></td>
 <td><a href=""></a></td>
 </tr>
 
@@ -164,7 +164,7 @@ The course covers those basic concepts in experimental design that are necessary
 
 <td>Lachlan Mitchell and Peter Kasprzak</td>
 <td>Shiny App Development</td>
-<td><a href="https://www.google.com.au/maps/dir//-34.9680263,138.6351788/@-34.9671704,138.6360118,16.34z" target=_blank>University of Adelaide Waite Campus<br>Biometry Hub Meeting room</a></td>
+<td><a href="https://www.google.com.au/maps/dir//-34.9680263,138.6351788/@-34.9671704,138.6360118,16.34z" target=_blank>University of Adelaide Waite Campus<br>Biometry Hub Meeting room<br>Room 204 Waite Building</a></td>
 <td><a href=""></a></td>
 </tr>
 
@@ -180,7 +180,7 @@ In this short course, we will approach Shiny from a beginner's perspective, walk
 <tr class="clickable" data-toggle="collapse" id="7" data-target=".7collapsed">
 <td>Christopher K. Wikle and Dan Pagendam</td>
 <td>An Introduction to Deep Learning with Biometric and Environmetric Applications</td>
-<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" target=_blank>University of Adelaide Waite Campus</a><br>Room TBA</td>
+<td><a href="https://www.google.com.au/maps/dir//-34.9688661,138.6376184/@-34.9662941,138.6380513,16.13z" target=_blank>University of Adelaide Waite Campus<br>Plant Genomics Centre Room 1.27</a></td>
 <td><a href=""></a></td>
 </tr>
 
