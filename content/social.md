@@ -48,7 +48,7 @@ Also, for the climbing equipment, we have:
 - No harness required
 - Gym clothes and water are required
 
-Cost: $20 pp, including shoes hire fees and taxi fees
+Cost: $20 pp, including shoes hire fees and transport  
 Contact person: [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)
 
 <br>
