@@ -22,6 +22,7 @@ Located just 20 minutes from Adelaide’s CBD and 40 mins from Adelaide airport,
 
 At The Adelaide Hills Convention Centre their 5 Star Chefs select the very best in local South Australian produce to create a culinary experience to fit any theme.
 
+# Social Outings
 
 ## Sir Ronald Fisher in Adelaide
 ##### 1:30 – 4:30pm
@@ -51,16 +52,28 @@ Also, for the climbing equipment, we have:
 Cost: $20 pp, including shoes hire fees and transport  
 Contact person: [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)
 
+## Wine tasting in the Fleurieu Peninsula
+
+A true journey of discovery into McLaren Vale that explores a mix of boutique producers and Australian icons, including the avant-garde Rubix Cube inspired, d’Arenberg Cube.  The Cube is the most creative cellar door in the country, a combination of surrealist museum and cellar door all wrapped up in one, with sweeping views of McLaren Vale from its top floor. At Samson Tall and Bekkers you’ll meet the owners themselves, take a tour of their facilities and get intimate insights into the style of their winemaking.
+
+#### Schedule
+
+| TIME | ACTIVITY | INCLUSIONS |
+|--------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 12:45pm | Pick up CBD | Transfers in two Luxury Land Rover Discovery 4x4 vehicles. |
+| 1:30pm | Bekkers Fine Wine | Boutique, world class wines with finesse and texture, made by husband & wife team Toby & Emmanuelle Bekkers. Enjoy a private tasting with either Emmanuelle or Toby overlooking their McLaren Vale estate, and learn the secrets behind this most prestigious label. |
+| 2:30pm | d’Arenberg Cube | d’Arenberg is a founding member of Australia’s First Families of Wine and the flamboyant five-story Cube complex erupts from the ground in the heart of its original McLaren Vale vineyard. Take a self- guided tour of the Alternate Realities Museum and a tasting in the sensational Cube Cellar Door. |
+| 3:45pm | Red Poles Art Gallery | Take a tour of their famous Indigenous Art Gallery, see the artworks of different aboriginal peoples and learn their stories. |
+| 4:15pm | Samson Tall | Visit Samson Tall Winery, situated in Bethany Chapel, the original vineyard site of Wirra Wirra’s Church Block. Samson Tall epitomises the modern style of McLaren Vale, with a select range of single vineyard wines. Enjoy a tasting and winery tour with owner and winemaker Paul Wilson. |
+| 5:15pm | Silver Sands Beach Drive | Take a 4WD tour down Silver Sands Beach to see this famous strip of white, squeaky-fine sand, soaking up majestic views of the Fleurieu coastline and spectacular biodiversity. |
+| 6:30pm | Arrive CBD |  |
+
 <br>
 ## Still in planning
 
 
 #### Young Statisticians Event
 
-<!-- Feast on foot? -->
-
-#### Bus tour of Fleurieu Peninsula
 
 
-#### Wine tasting
 
