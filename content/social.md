@@ -40,7 +40,7 @@ Contact person: [Ms Annie Conway](mailto:annie.conway@adelaide.edu.au)
 ##### 2:00 – 4:00pm
 
 Bouldering is a form of rock climbing that is performed on small rock formations or artificial rock walls, known as boulders, without the use of ropes or harnesses. While it can be done without any equipment, most climbers use climbing shoes to help secure footholds, chalk to keep their hands dry and provide a firmer grip, and bouldering mats to prevent injuries from falls.
-A 2-hour bouldering session will take place at the Adelaide Bouldering Club. You are welcome to join the event. No experience is required and profession instruction/demonstration will be provided.
+A 2-hour bouldering session will take place at the Adelaide Bouldering Club. No experience is required and professional instruction and demonstration will be provided.
 
 Also, for the climbing equipment, we have:
 
@@ -54,7 +54,14 @@ Contact person: [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)
 
 ## Wine tasting in the Fleurieu Peninsula
 
+##### 12:45 - 6:30pm
+
 A true journey of discovery into McLaren Vale that explores a mix of boutique producers and Australian icons, including the avant-garde Rubix Cube inspired, d’Arenberg Cube.  The Cube is the most creative cellar door in the country, a combination of surrealist museum and cellar door all wrapped up in one, with sweeping views of McLaren Vale from its top floor. At Samson Tall and Bekkers you’ll meet the owners themselves, take a tour of their facilities and get intimate insights into the style of their winemaking.
+
+See [here](/wine-tour/) for some example images.
+
+Cost: $145 pp, includes all entrance fees, tickets and transfers  
+Contact person: [Mr Peter Kasprzak](mailto:peter.kasprzak@adelaide.edu.au)
 
 #### Schedule
 
@@ -67,6 +74,8 @@ A true journey of discovery into McLaren Vale that explores a mix of boutique pr
 | 4:15pm | Samson Tall | Visit Samson Tall Winery, situated in Bethany Chapel, the original vineyard site of Wirra Wirra’s Church Block. Samson Tall epitomises the modern style of McLaren Vale, with a select range of single vineyard wines. Enjoy a tasting and winery tour with owner and winemaker Paul Wilson. |
 | 5:15pm | Silver Sands Beach Drive | Take a 4WD tour down Silver Sands Beach to see this famous strip of white, squeaky-fine sand, soaking up majestic views of the Fleurieu coastline and spectacular biodiversity. |
 | 6:30pm | Arrive CBD |  |
+
+
 
 <br>
 ## Still in planning
