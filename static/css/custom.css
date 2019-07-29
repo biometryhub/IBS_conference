@@ -600,3 +600,11 @@ iframe {
     border-style: solid;
     border-width: thin;
 }
+
+
+.btn-xl {
+  padding: 14px 20px;
+  font-size: 20px;
+  line-height: 1.33;
+  border-radius: 0;
+}
