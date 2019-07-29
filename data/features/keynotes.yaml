@@ -1,0 +1,6 @@
+weight: 1
+name: "Keynote Speakers"
+media: "data/Biometrics-Keynotes.mp4"
+video: true
+description: 
+link: "/speakers"

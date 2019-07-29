@@ -35,7 +35,7 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Registration & Key Dates"
+    name = "Registration"
     url  = "#"
     weight = 2	
     identifier = "rego"
@@ -47,33 +47,33 @@ paginate = 10
         parent = "rego"
 
     [[menu.main]]
-        name = "Submit Abstract"
-        url  = "/abstract/"
-    	weight = 2
-    	parent = "rego"
-    	
-    [[menu.main]]
         name = "Conditions of Registration"
         url  = "/conditions/"
         parent = "rego"
-        weight = 3
-	
+        weight = 2
+        
+[[menu.main]]
+    name = "Submit Abstract"
+    url  = "/abstract/"
+	weight = 3
+#	parent = "rego"
+
 [[menu.main]]
     name = "Speakers"
     url  = "/speakers/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Programme"
     identifier = "prog"
     url  = "#"
-    weight = 4
+    weight = 5
 	
     [[menu.main]]
         name = "Programme Outline"
         url  = "/outline/"
         parent = "prog"
-        weight = 2
+        weight = 1
         
     [[menu.main]]
         name = "Workshops"
@@ -97,7 +97,7 @@ paginate = 10
     name = "Visiting Adelaide"
     identifier = "tourism"
     url  = "#"
-    weight = 5
+    weight = 6
 	
 	[[menu.main]]
         name = "Travel"
@@ -115,7 +115,7 @@ paginate = 10
         name = "Things to do"
         url  = "/tourism/"
         parent = "tourism"
-        weight = 2
+        weight = 3
         
 	
 [[menu.main]]
@@ -135,19 +135,19 @@ paginate = 10
         name = "Contact"
         url  = "/contact/"
         parent = "about"
-        weight = 2
+        weight = 1
         
     [[menu.main]]
         name = "Code of Conduct"
         url  = "/conduct/"
         parent = "about"
-        weight = 3
+        weight = 2
         
     [[menu.main]]
         name = "About the Venue"
         url  = "/venue/"
         parent = "about"
-        weight = 4    
+        weight = 3    
 
         
         
@@ -155,7 +155,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/post/"
     author = "The Biometry Hub"
-    defaultKeywords = ["conference", "statistics", "biometrics", "biometry"]
+    defaultKeywords = ["conference", "statistics", "biometrics", "biometry", "IBS"]
     #defaultDescription = "Site template made by devcows using hugo"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
@@ -240,7 +240,8 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = false
+    enable = true
+    title = "Conference Highlights"
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
@@ -258,8 +259,8 @@ paginate = 10
 #    icon = "fa fa-file-code-o"
 #    title = ""
 #    subtitle = ""
-    link_url = "https://www.thewaite.org"
-   link_text = "The Waite Campus"
+    link_url = "/register/"
+    link_text = "Register now"
 
 [params.clients]
     enable = false
