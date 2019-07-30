@@ -6,12 +6,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # To Do list
 # Sponsors
-#    - University of Adelaide
 #    - SAHMRI
 # Book of Abstracts only as pdf
 # Programme table fixed first column
 # Fix h2 font size between 768 and 991 pixels (should be 30pt not 40)
-
+# Add twitter account
 
 
 languageCode = "en-au"
