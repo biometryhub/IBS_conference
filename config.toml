@@ -178,7 +178,9 @@ paginate = 10
     email = "ausbiometric2019@adelaide.edu.au"
 
     about_us = 'The <a href="http://www.biometrics.org.au" target="_blank">International Biometric Society (IBS)</a> is devoted to the development and application of statistical and mathematical theory and methods in the Biosciences, including agriculture, biomedical science and public health, ecology, environmental sciences, forestry, and allied disciplines. It welcomes as members statisticians, mathematicians, biological scientists, and others devoted to interdisciplinary efforts in advancing the collection and interpretation of information in the biosciences. If you require further information, please use the [contact form](/contact). The full list of people who made this conference happen can be found [here](/acknowledgements/).'
-    copyright = "&copy; 2019, [The Biometry Hub](https://biometryhubwaite.com), University of Adelaide; All rights reserved."
+    copyright = """&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+</script>, [The Biometry Hub](https://biometryhubwaite.com), University of Adelaide; All rights reserved."""
     
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
