@@ -157,6 +157,9 @@ div#content {
     .jumbotron {
         background: url('../img/bg_small.jpg') center center repeat fixed;
     }
+    .contact { 
+        margin-top: 10px !important;
+    }
 }
 
 
@@ -199,6 +202,9 @@ div#content {
     .jumbotron {
         background: url('../img/bg_small.jpg') center center repeat fixed;
     }
+    .contact { 
+        margin-top: 10px !important;
+    }
 }
 
 
@@ -226,6 +232,9 @@ div#content {
     .tg-wrap {
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;*/
+    }
+    .contact { 
+        margin-top: 50px;
     }
 }
 
@@ -300,6 +309,9 @@ div#content {
     .tg-wrap {
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
+    }
+    .contact { 
+        margin-top: 10px !important;
     }
   
 }
@@ -608,3 +620,4 @@ iframe {
   line-height: 1.33;
   border-radius: 0;
 }
+

@@ -184,7 +184,6 @@ paginate = 10
     
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
-
     logo = "img/logo.png"
 	
     address = """<strong><a href="mailto:ausbiometric2019@adelaide.edu.au">Local Organising Committee</a></strong>, University of Adelaide<br><br>"""
@@ -228,6 +227,7 @@ paginate = 10
 #      </p>
 #      """
 
+
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
@@ -257,9 +257,9 @@ paginate = 10
 
 [params.see_more]
     enable = false
-#    icon = "fa fa-file-code-o"
-#    title = ""
-#    subtitle = ""
+    icon = "fa fa-file-code-o"
+    title = ""
+    subtitle = ""
     link_url = "/register/"
     link_text = "Register now"
 
