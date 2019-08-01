@@ -30,12 +30,59 @@ description = "Registration page"
 
 ## Conference Fees
 
-|  | IBS Member | Non-member | Concession |
+<!--|  | IBS Member | Non-member | Concession |
 |------------------|------------:|------------:|------------:|
 | Full conference | $700 | $800 | $350 |
 | One Day | $350 | $400 | $175 |
-| Workshops (each) | $200 | $250 | $100 |
+| Workshops (each) | $200 | $250 | $100 |-->
  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-7btt" colspan="2">IBS Member</th>
+    <th class="tg-7btt" colspan="2">Non-member</th>
+    <th class="tg-7btt">Concession</th>
+  </tr>
+  <tr>
+    <td class="tg-fymr"></td>
+    <td class="tg-0pky">Early Bird</td>
+    <td class="tg-0pky">Full Price</td>
+    <td class="tg-0pky">Early Bird</td>
+    <td class="tg-0pky">Full Price</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Full conference</td>
+    <td class="tg-c3ow">$700</td>
+    <td class="tg-c3ow">$750</td>
+    <td class="tg-c3ow">$800</td>
+    <td class="tg-c3ow">$850</td>
+    <td class="tg-c3ow">$350</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">One Day</td>
+    <td class="tg-c3ow">$350</td>
+    <td class="tg-c3ow">$375</td>
+    <td class="tg-c3ow">$400</td>
+    <td class="tg-c3ow">$425</td>
+    <td class="tg-c3ow">$175</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Workshops (each)</td>
+    <td class="tg-c3ow" colspan="2">$200</td>
+    <td class="tg-c3ow" colspan="2">$250</td>
+    <td class="tg-c3ow">$100</td>
+  </tr>
+</table>
  
  
 #### Additional notes:  
