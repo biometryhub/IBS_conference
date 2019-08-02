@@ -40,3 +40,13 @@ The Australasian Region of the International Biometric Society gratefully acknow
 </a>
 <br>
 <br>
+
+<span class="sponsors-text">
+[Australian Grain Technologies](https://www.agtbreeding.com.au/)
+</span>  
+
+<a href="https://www.agtbreeding.com.au/">
+<img style="float: center;" src="/img/sponsors/AGT.png", class="sponsors">
+</a>
+<br>
+<br>
