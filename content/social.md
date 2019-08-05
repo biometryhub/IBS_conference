@@ -5,7 +5,7 @@ description = "Details of social events"
 
 
 
-## Reception
+## Welcome Reception
 
 The conference reception will be held from 7pm on Monday 2nd December 2019 in a venue to be announced.
 
@@ -76,13 +76,17 @@ Contact person: [Mr Peter Kasprzak](mailto:peter.kasprzak@adelaide.edu.au)
 | 6:30pm | Arrive CBD |  |
 
 
+<br><br><br>
 
-<br>
-## Still in planning
+## Young Statisticians Event
 
-
-#### Young Statisticians Event
-
+<img width="100%" src="../img/EH_GAME_WEB_BANNER_DEADLY_DISCOVERY.jpg" alt="">
 
 
+#### Rescue a kidnapped scientist before his secret deadly formula is exploited.
+It’s 1941 and Australian scientist Howard Florey has been running clinical trials for penicillin. During his trials he created a penicillin-resistant bacteria. Florey has now been kidnapped and his deadly formula is at risk of falling into the wrong hands.
 
+Enter his home, find the formula and destroy it before it’s too late.
+
+Cost: Free for Young Statisticians  
+Contact person: [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)

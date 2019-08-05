@@ -92,7 +92,7 @@ description = "Schedule for the conference and link to abstracts"
   <td class="tg-elvq" rowspan="2"></td>
   <td class="tg-elvq" rowspan="2"></td>
     <td class="tg-tu0f" rowspan="2"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
-    <td class="tg-smvl" rowspan="5"><a href="/social/" style="color: #0a4719;"><b>Excursions</b></a></td>
+    <td class="tg-og4q" rowspan="5"><a href="/social/" style="color: #0a4719;"><b>Excursions</b></a></td>
     <td class="tg-tu0f" rowspan="2"><b>Contributed Sessions</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Vines/Ferguson</td>
   </tr>
   <tr>
@@ -133,8 +133,8 @@ description = "Schedule for the conference and link to abstracts"
   <tr>
     <td class="tg-0pky">19:00</td>
     <td></td>
-    <td class="tg-smvl" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Welcome Reception</b></a></td>
-    <td class="tg-smvl" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Young statisticians dinner</b></a></td>
+    <td class="tg-og4q" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Welcome Reception</b></a></td>
+    <td class="tg-og4q" rowspan="2"><a href="/social/#young-statisticians-event" style="color: #0a4719;"><b>Young Statisticians Event</b></a></td>
     <td></td>
     <td></td>
     <td></td>
