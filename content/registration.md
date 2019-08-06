@@ -63,17 +63,17 @@ description = "Registration page"
   <tr>
     <td class="tg-fymr">Full conference</td>
     <td class="tg-c3ow">$700</td>
-    <td class="tg-c3ow">$750</td>
     <td class="tg-c3ow">$800</td>
-    <td class="tg-c3ow">$850</td>
+    <td class="tg-c3ow">$800</td>
+    <td class="tg-c3ow">$900</td>
     <td class="tg-c3ow">$350</td>
   </tr>
   <tr>
     <td class="tg-fymr">One Day</td>
     <td class="tg-c3ow">$350</td>
-    <td class="tg-c3ow">$375</td>
     <td class="tg-c3ow">$400</td>
-    <td class="tg-c3ow">$425</td>
+    <td class="tg-c3ow">$400</td>
+    <td class="tg-c3ow">$450</td>
     <td class="tg-c3ow">$175</td>
   </tr>
   <tr>
