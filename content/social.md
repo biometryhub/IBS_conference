@@ -88,5 +88,5 @@ It’s 1941 and Australian scientist Howard Florey has been running clinical tri
 
 Enter his home, find the formula and destroy it before it’s too late.
 
-Cost: Free for Young Statisticians  
+Cost: Free for Young Statisticians (Sponsored by the Biometry Hub)
 Contact person: [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)
