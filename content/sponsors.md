@@ -50,3 +50,23 @@ The Australasian Region of the International Biometric Society gratefully acknow
 </a>
 <br>
 <br>
+
+<span class="sponsors-text">
+[Statistical Society of Australia Inc.](https://www.statsoc.org.au)
+</span>  
+
+<a href="https://www.statsoc.org.au">
+<img style="float: center;" src="/img/sponsors/SSA.png", class="sponsors">
+</a>
+<br>
+<br>
+
+<span class="sponsors-text">
+[South Australian Health and Medical Research Institute](https://www.sahmri.org/)
+</span>  
+
+<a href="https://www.sahmri.org/">
+<img style="float: center;" src="/img/sponsors/SAHMRI logo.png", class="sponsors">
+</a>
+<br>
+<br>

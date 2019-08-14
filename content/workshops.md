@@ -162,7 +162,7 @@ The course covers those basic concepts in experimental design that are necessary
 
 <tr class="clickable" data-toggle="collapse" id="6" data-target=".6collapsed">
 
-<td>Lachlan Mitchell and Peter Kasprzak</td>
+<td>Peter Kasprzak and Kathy Ruggiero</td>
 <td>Shiny App Development</td>
 <td><a href="https://www.google.com.au/maps/dir//-34.9680263,138.6351788/@-34.9671704,138.6360118,16.34z" target=_blank>University of Adelaide Waite Campus<br>Biometry Hub Meeting room<br>Room 204 Waite Building</a></td>
 <td><a href=""></a></td>
