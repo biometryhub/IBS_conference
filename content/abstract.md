@@ -5,7 +5,7 @@ description = "Upload abstract"
 
 ## Important Dates
 
-- **Abstract submission closes**: 16th August 2019
+- **Abstract submission closes**: <span style="color: red;">Extended to 23rd August 2019</span>
 - **Notification of Acceptance**: 12th September 2019
 - **Early bird registration closes**: 19th September 2019
 - **Registration deadline for presenters**: 4th October 2019
