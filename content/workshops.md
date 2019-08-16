@@ -186,11 +186,12 @@ In this short course, we will approach Shiny from a beginner's perspective, walk
 
 <tr class="out budgets 7collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="4">
-        Deep learning is a type of machine learning (ML) that exploits a connected hierarchical set of models to predict or classify elements of complex data sets.  The ML deep learning revolution is relatively recent and primarily associated with neural models such as feedforward neural networks (FNNs), convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), or some combination of these neural architectures.  There are remarkable success stories associated with these approaches, such as models that can defeat experts in Go, Chess, or Shogi, and of course, there are failures as well.  Statisticians should not be surprised by the success (and failure) of these deep ML methods as we have been using deep hierarchical models (HMs) for years.   Indeed, many of the reasons for success and failure of deep ML and deep HMs are the same.  
+        Deep learning is a type of machine learning (ML) that exploits a connected hierarchical set of models to predict or classify elements of complex data sets. The ML deep learning revolution is relatively recent and primarily associated with neural models such as feedforward neural networks (FNNs), convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), or some combination of these neural architectures. There are remarkable success stories associated with these approaches, such as models that can defeat experts in Go, Chess, or Shogi, and of course, there are failures as well. Statisticians should not be surprised by the success (and failure) of these deep ML methods as we have been using deep hierarchical models (HMs) for years. Indeed, many of the reasons for success and failure of deep ML and deep HMs are the same. 
+     
+     <br><br>
+     
+This course will present an introduction to deep models in ML from a statistician’s perspective. Topics will include an introduction to stochastic gradient optimization and concepts in regularization and dimension reduction, followed by discussion of deep FNNs, CNNs, and RNNs. We will also touch upon some recent developments that may be of particular interest to statisticians.  The course will focus on concepts and modeling intuition, and will include hands-on implementation using the R interface to Keras, with examples from biomedical, ecological, and environmental statistics. 
 
-<br><br>
-
-This course will present an introduction to deep models in ML from a statistician’s perspective. Topics will include an introduction to stochastic gradient optimization and concepts in regularization and dimension reduction, followed by discussion of deep FNNs, CNNs, RNNs, and GANs.  We will also touch upon some recent developments that may be of particular interest to statistical practitioners (e.g. Bayesian Neural Networks).  The course will focus on concepts and modeling intuition, and will include hands-on implementation using the R interface to Keras, with examples from biomedical, ecological, and environmental statistics.  
 
 </td></tr>
 

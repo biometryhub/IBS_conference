@@ -42,6 +42,16 @@ The Australasian Region of the International Biometric Society gratefully acknow
 <br>
 
 <span class="sponsors-text">
+[South Australian Health and Medical Research Institute](https://www.sahmri.org/)
+</span>  
+
+<a href="https://www.sahmri.org/">
+<img style="float: center;" src="/img/sponsors/SAHMRI logo.png", class="sponsors">
+</a>
+<br>
+<br>
+
+<span class="sponsors-text">
 [Australian Grain Technologies](https://www.agtbreeding.com.au/)
 </span>  
 
@@ -61,12 +71,3 @@ The Australasian Region of the International Biometric Society gratefully acknow
 <br>
 <br>
 
-<span class="sponsors-text">
-[South Australian Health and Medical Research Institute](https://www.sahmri.org/)
-</span>  
-
-<a href="https://www.sahmri.org/">
-<img style="float: center;" src="/img/sponsors/SAHMRI logo.png", class="sponsors">
-</a>
-<br>
-<br>
