@@ -611,6 +611,7 @@ iframe {
     border: black;
     border-style: solid;
     border-width: thin;
+    max-width: 100%;
 }
 
 

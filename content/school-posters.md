@@ -22,9 +22,11 @@ All posters submitted to this special section of the SSA National Poster Competi
 
 A flyer with information about the competition can be found [here](https://ausbiometric2019.org/data/School_Poster_Flyer.pdf).
 
+
 <a href="https://ausbiometric2019.org/data/School_Poster_Flyer.pdf" >
-<img class="media-image" src="../data/School_Poster_Flyer.png" width="50%" height="50%">
+<img class="media-image" src="../data/School_Poster_Flyer.jpg">
 </a>
+
 
 For more details, contact [Petra Kuhnert (Petra.Kuhnert@data61.csiro.au)](mailto:Petra.Kuhnert@data61.csiro.au)
 
