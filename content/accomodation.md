@@ -3,9 +3,22 @@ title = "Accomodation"
 description = "Some accomodation options"
 +++
 
-Special conference accomodation rates are currently under negotiation, however in the mean time, feel free to check out some options below.
+## Discounted accomodation for delegates
 
-# Accomodation
+Accomodation at the [Ibis Hotel](https://www.accorhotels.com/gb/hotel-8822-ibis-adelaide/index.shtml) and the [Pullman Hotel](https://www.accorhotels.com/gb/hotel-B217-pullman-adelaide/index.shtml) have special discounted rates of 10% off for delegates of the conference booking between 30th November to 7th December.
+
+To take advantage of this offer, please use the following booking link: [Ibis and Pullman discounted rates](https://businesstravel.accorhotels.com/gb/booking/advanced-search.shtml?identification.reserverType=SC&identification.reserverId=SCP2258878&identification.reserverContract=IN232AU632).
+
+Then
+
+1. Type **Ibis Adelaide** or **Pullman Adelaide** in the destination field.
+2. Then select your dates and press search.  
+3. Should you be asked for your client Business Identification use SCP2258878 and IN232AU632
+
+
+
+
+## Other Accomodation options
 
 [Trip advisor](https://www.tripadvisor.com.au/Hotels-g255093-Adelaide_Greater_Adelaide_South_Australia-Hotels.html) recommends the following near by hotels:
 
