@@ -51,22 +51,22 @@ paginate = 10
         parent = "rego"
         weight = 2
         
-[[menu.main]]
-    name = "Submit Abstract"
-    url  = "/abstract/"
-	weight = 3
+#[[menu.main]]
+#    name = "Submit Abstract"
+#    url  = "/abstract/"
+#	weight = 3
 #	parent = "rego"
 
 [[menu.main]]
     name = "Speakers"
     url  = "/speakers/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "Programme"
     identifier = "prog"
     url  = "#"
-    weight = 5
+    weight = 4
 	
     [[menu.main]]
         name = "Programme Outline"
@@ -96,7 +96,7 @@ paginate = 10
     name = "Visiting Adelaide"
     identifier = "tourism"
     url  = "#"
-    weight = 6
+    weight = 5
 	
 	[[menu.main]]
         name = "Travel"
@@ -121,14 +121,14 @@ paginate = 10
     name = "Sponsors"
     identifier = "sponsors"
     url  = "/sponsors/"
-    weight = 7
+    weight = 6
 
 
 [[menu.main]]
     name = "About"
     identifier = "about"
     url  = "#"
-    weight = 8
+    weight = 7
 	
     [[menu.main]]
         name = "Contact"
