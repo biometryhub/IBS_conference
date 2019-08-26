@@ -5,7 +5,7 @@ description = "Upload abstract"
 
 ## Important Dates
 
-- **Abstract submission closes**: <span style="color: red;">Extended to 23rd August 2019</span>
+- **Abstract submission closes**: Extended to 23rd August 2019
 - **Notification of Acceptance**: 12th September 2019
 - **Early bird registration closes**: 19th September 2019
 - **Registration deadline for presenters**: 4th October 2019
@@ -18,4 +18,8 @@ description = "Upload abstract"
 - **Conference starts**: 3rd December 2019
 - **Conference closes**: 6th December 2019
 
-<script type="text/javascript" src="https://form.jotform.co/jsform/91628488971878"></script>
+<br><br>
+
+### The abstract submission deadline has now passed, however registration for the conference is still open. Please visit [the registration page](/registration/) to register now.
+
+<!--- <script type="text/javascript" src="https://form.jotform.co/jsform/91628488971878"></script> -->

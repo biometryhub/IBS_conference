@@ -10,7 +10,7 @@ description = "Registration page"
 ## Registration Dates
 
 - **Registration opens**: 7th June 2019
-- **Abstract submission closes**: <span style="color: red;">Extended to 23rd August 2019</span>
+- **Abstract submission closes**: Extended to 23rd August 2019
 - **Notification of Acceptance**: 12th September 2019
 - **Early bird registration closes**: 19th September 2019
 - **Registration deadline for presenters**: 4th October 2019
