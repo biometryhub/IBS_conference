@@ -66,7 +66,7 @@ The Australasian Region of the International Biometric Society gratefully acknow
 </span>  
 
 <a href="https://www.statsoc.org.au">
-<img style="float: center;" src="/img/sponsors/SSA.png", class="sponsors">
+<img style="float: center;" src="/img/sponsors/SSA.png", class="sponsors-smaller">
 </a>
 <br>
 <br>
