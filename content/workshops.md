@@ -101,7 +101,7 @@ There are many LMM methods for QTL, GWAS and GS analysis. This course will provi
 
 ### Location
 
-Monday Workshops will be held at the [University of Adelaide Waite Campus](https://www.google.com/maps/place/The+University+of+Adelaide+-+Waite+Campus/@-34.967,138.6338113,17z/data=!3m1!4b1!4m5!3m4!1s0x6ab0ce875dbab4d7:0xf03365545bac8d0!8m2!3d-34.967!4d138.636). The listings in the location column of the table below contain a link to the location of the building on Google maps. A pdf copy of the campus map with room listings is available [here](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf). The campus is a 15 minute drive or 40 minute bus ride ([on the 170 bus](https://www.google.com/maps/dir/-34.9209039,138.6054353/The+University+of+Adelaide+-+Waite+Campus,+Urrbrae+SA+5064/@-34.9439498,138.5506326,12z/data=!3m1!4b1!4m13!4m12!1m0!1m5!1m1!1s0x6ab0ce875dbab4d7:0xf03365545bac8d0!2m2!1d138.636!2d-34.967!2m3!6e1!7e2!8j1575277200!3e3)) from the Adelaide CBD, North Tce campus and the suggested accomodation options.
+Monday Workshops will be held at the [University of Adelaide Waite Campus](https://www.google.com/maps/place/The+University+of+Adelaide+-+Waite+Campus/@-34.967,138.6338113,17z/data=!3m1!4b1!4m5!3m4!1s0x6ab0ce875dbab4d7:0xf03365545bac8d0!8m2!3d-34.967!4d138.636), except for James Carpenter's workshop which will be held in the [Adelaide Health and Medical Sciences Building](https://goo.gl/maps/1VZ8RfrytZ1HGqr79) on North Tce in the Adelaide CBD. The listings in the location column of the table below contain a link to the location of the building on Google maps. A pdf copy of the Waite campus map with room listings is available [here](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf). The campus is a 15 minute drive or 40 minute bus ride ([on the 170 bus](https://www.google.com/maps/dir/-34.9209039,138.6054353/The+University+of+Adelaide+-+Waite+Campus,+Urrbrae+SA+5064/@-34.9439498,138.5506326,12z/data=!3m1!4b1!4m13!4m12!1m0!1m5!1m1!1s0x6ab0ce875dbab4d7:0xf03365545bac8d0!2m2!1d138.636!2d-34.967!2m3!6e1!7e2!8j1575277200!3e3)) from the Adelaide CBD, North Tce campus and the suggested accomodation options.
 
 #### Parking
 
@@ -127,7 +127,20 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 
 <tbody>
 
-<tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+<tr class="clickable ws-table" data-toggle="collapse" id="4" data-target=".4collapsed">
+
+<td><b>James Carpenter</b></td>
+<td>Handling missing data in administrative studies: multiple imputation and inverse probability weighting</td>
+<td><a href="https://goo.gl/maps/1VZ8RfrytZ1HGqr79" target=_blank><span style="color:#29cc85;font-weight:bold">AHMS Building, North Tce Medical Precinct<br>Level 1, Room G1059A Lecture Theatre</span></a></td>
+<td><a href=""></a></td>
+</tr>
+
+<tr class="out budgets 4collapsed collapse" aria-expanded="false" style="height: 0px;">
+    <td colspan="4">
+        The course will consider the issues raised by missing data (both item and unit non-response) in studies using survey and routinely collected data, for example electronic health records. Following a review of the issues raised by missing data, we will focus on two methods of analysis: multiple imputation and inverse probability weighting. We will also discuss how they can be used together. The concepts will be illustrated with medical and social examples.   
+</td></tr>
+
+<tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
 
 <td>Chris Brien and Sam Rogers</td>
 <td>Identifying, randomizing, canonically analyzing and formulating mixed models for designs for comparative experiments using R</td>
@@ -135,7 +148,7 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 <td><a href=""></a></td>
 </tr>
 
-<tr class="out budgets 4collapsed collapse" aria-expanded="false" style="height: 0px;">
+<tr class="out budgets 5collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="4">
         Brien (2017) outlines a mixed-model-based paradigm for obtaining A-optimal designs for comparative experiments and deriving, from the allocation involved in the design, an initial mixed model for data from an experiment that employs the design. This course explores the use of R packages <tt>od</tt> and <tt>dae</tt> for implementing this paradigm: the <tt>od</tt> package can be used, if required, to generate designs that are A-optimal for a specified mixed model; the <tt>dae</tt> package can be used to randomize designs and to perform canonical analyses (eigenanalysis) of designs. The canonical analysis is useful in elucidating the properties of a design and in formulating and checking a mixed model for it.
 
@@ -146,18 +159,7 @@ The course covers those basic concepts in experimental design that are necessary
 </td></tr>
 
 
-<tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
 
-<td>James Carpenter</td>
-<td>Handling missing data in administrative studies: multiple imputation and inverse probability weighting</td>
-<td><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" target=_blank>University of Adelaide Waite Campus</a><br>Room TBA</td>
-<td><a href=""></a></td>
-</tr>
-
-<tr class="out budgets 5collapsed collapse" aria-expanded="false" style="height: 0px;">
-    <td colspan="4">
-        The course will consider the issues raised by missing data (both item and unit non-response) in studies using survey and routinely collected data, for example electronic health records. Following a review of the issues raised by missing data, we will focus on two methods of analysis: multiple imputation and inverse probability weighting. We will also discuss how they can be used together. The concepts will be illustrated with medical and social examples.   
-</td></tr>
 
 
 <tr class="clickable" data-toggle="collapse" id="6" data-target=".6collapsed">
