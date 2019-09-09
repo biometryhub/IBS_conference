@@ -131,7 +131,7 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 
 <td><b>James Carpenter</b></td>
 <td>Handling missing data in administrative studies: multiple imputation and inverse probability weighting</td>
-<td><a href="https://goo.gl/maps/1VZ8RfrytZ1HGqr79" target=_blank><span style="color:#29cc85;font-weight:bold">AHMS Building, North Tce Medical Precinct<br>Level 1, Room G1059A Lecture Theatre</span></a></td>
+<td><a href="https://goo.gl/maps/1VZ8RfrytZ1HGqr79" target=_blank><span style="color:#059126;font-weight:bold">AHMS Building, North Tce Medical Precinct<br>Level 1, Room G1059A Lecture Theatre</span></a></td>
 <td><a href=""></a></td>
 </tr>
 
