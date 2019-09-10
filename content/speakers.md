@@ -23,9 +23,17 @@ Daniela Bustos-Korts works as a researcher at Biometris, Wageningen University (
 
 ## [James Carpenter](https://www.lshtm.ac.uk/aboutus/people/carpenter.james) {#carpenter} 
 <img src="/img/speakers/Carpenter.jpg", class="responsive-speaker">
-#### London School of Hygiene & Tropical Medicine, UK
+#### London School of Hygiene & Tropical Medicine, United Kingdom
 
 James Carpenter is professor of medical statistics at the London School of Hygiene & Tropical Medicine, and has a 50% secondment to the MRC Clinical Trials Unit at UCL. Research interests include: missing observations (both outcomes and covariates), in particular the method of multiple imputation and sensitivity analysis; meta-analysis; multilevel modelling and bootstrap methods, with social and medical applications.
+
+<br>
+
+## [Richard Cook](https://www.math.uwaterloo.ca/~rjcook/) {#cook} 
+<img src="/img/speakers/Cook.jpg", class="responsive-speaker">
+#### University of Waterloo, Canada
+
+Richard Cook is Professor of Statistics in the Department of Statistics and Actuarial Science at the University of Waterloo. His research interests include the analysis of life history data, the design and analysis of clinical and epidemiological studies, and statistical methods for the analysis of incomplete data. He collaborates extensively with researchers in rheumatology, transfusion medicine and cancer. He co-authored The Statistical Analysis of Recurrent Events (Springer, 2007) and Multistate Models for the Analysis of Lifetime History Data  (Chapman and Hall, 2018) with Jerry Lawless and together they have given many short courses on these topics.  Richard is a recipient of the CRM-SSC Prize from the Centre de recherches mathématiques (CRM) and the Statistical Society of Canada (SSC) in recognition for contributions within 15 years of a doctorate degree, and in 2018 he was awarded the Gold Medal of the Statistical Society of Canada.
 
 <br>
 
