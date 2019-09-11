@@ -62,6 +62,17 @@ The Australasian Region of the International Biometric Society gratefully acknow
 <br>
 
 <span class="sponsors-text">
+[R Consortium](https://www.r-consortium.org/)
+</span>  
+
+<a href="https://www.r-consortium.org/">
+<img style="float: center;" src="/img/sponsors/RConsortium_Vertical_Pantone.png", class="sponsors-smaller">
+
+</a>
+<br>
+<br>
+
+<span class="sponsors-text">
 [Statistical Society of Australia Inc.](https://www.statsoc.org.au)
 </span>  
 
