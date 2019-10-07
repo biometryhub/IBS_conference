@@ -82,8 +82,13 @@ This workshop will be suitable for people with some basic knowledge and familiar
 <br><br>
 
 
-<h4>Instructor Bios</h4>
-Dr. Emi Tanaka has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his [popular blog](https://yihui.name/en/2018/07/emi-tanaka/). She has given a number of tutorials and workshop related to the topics of this workshop.
+<h4>Instructor Bio</h4>
+
+<b>Dr. Emi Tanaka</b> has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his <a href="https://yihui.name/en/2018/07/emi-tanaka/">popular blog</a>. She has given a number of tutorials and workshop related to the topics of this workshop.
+
+<br><br>
+
+<b>Annie Conway</b> is a biometrician at <a href="https://ua.edu.au/biometryhub">The Biometry Hub, University of Adelaide</a>. She has a background in mathematical statistics, in particular analysis of high-dimensional data, and design and analysis of agronomy research trials. She has previously instructed workshops on Introduction to R. 
 
 </td></tr>
 
@@ -158,7 +163,12 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 
 
 <h4>Instructor Bio</h4>
-Dr. Emi Tanaka has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his [popular blog](https://yihui.name/en/2018/07/emi-tanaka/). She has given a number of tutorials and workshop related to the topics of this workshop.
+
+<b>Dr. Emi Tanaka</b> has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his <a href="https://yihui.name/en/2018/07/emi-tanaka/">popular blog</a>. She has given a number of tutorials and workshop related to the topics of this workshop.
+
+<br><br>
+
+<b>Annie Conway</b> is a biometrician at <a href="ua.edu.au/biometryhub">The Biometry Hub, University of Adelaide</a>. She has a background in mathematical statistics, in particular analysis of high-dimensional data, and design and analysis of agronomy research trials. She has previously instructed workshops on Introduction to R. 
 
 </td></tr>
 
@@ -188,9 +198,6 @@ The course covers those basic concepts in experimental design that are necessary
 <br><br>
 
 <b>Sam Rogers</b> has worked as a Biometrician in the Biometry Hub, University of Adelaide, since 2017. His work includes running professional development workshops for researchers using R, consulting on experimental design and analysis projects, and web and software development. His passions include statistical programming, writing elegant code, and helping people make use of their data.
-
-
-
 
 </td></tr>
 
