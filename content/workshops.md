@@ -43,6 +43,7 @@ There is plenty of parking nearby the University, with much of it having reduced
     <td colspan="4">
         This course is designed for graduate students and researchers, who are interested in using copula based models for multivariate data structures. It provides a step to step introduction to the class of vine copulas and their statistical inference. This class of flexible copula models has become very popular in the last years for many applications in diverse fields such as finance, insurance, hydrology, marketing, engineering, chemistry, aviation, climatology and health.
 
+
 <br>
 <br>
 
@@ -53,6 +54,13 @@ ing. Thus also the term pair copula construction was coined by Aas et al. (2009)
 <br>
 
 The course starts with background on multivariate and conditional distributions and copulas. Basic bivariate dependence measures are then discussed.  Bivariate parametric classes of elliptical, Archimedean are introduced and graphical tools for the identification of sensible bivariate copula models to data are developed. The decomposition and construction principle of vines is first given in three dimensions and then extended to the special cases of draw able (D-) and canonical (C-) vines. Finally, the general case of regular (R-) vines is developed. Simulation algorithms and parameter estimation methods will be constructed. Model selection methods for vine models are considered. The short course closes with a case study. Computations are facilitated using the freely available package VineCopula of Schepsmeier et al. (2017) package in R (see R Core Team (2017)). Further resources on vine models can be found under vine-copula.org
+
+<br><br>
+
+
+
+<h4>Instructor Bio</h4>
+Claudia Czado is professor of Applied Mathematical Statistics at Technical University of Munich, Germany. The research activities of Professor Claudia Czado are in statistics. Her special interests lie in the modeling of complex dependencies including regression effects and time/space structures. For this she uses a copula approach and especially the flexible class of vine copulas. This allows for different non-symmetric dependencies for pairs of variables. For model selection and estimation in high dimensions computer-aided methods are developed. Applications are in finance, insurance and engineering. After studying mathematics in Göttingen, Professor Czado obtained her doctorate in 1989 at Cornell University, USA, in Operations Research and Industrial Engineering. She then became an Assistant Professor and in 1995 Associate Professor of Statistics at York University, Toronto, Canada. In 1998 she was appointed to the Technical University of Munich, Germany, in the field of Applied Mathematical Statistics. Professor Claudia Czado is the author or co-author of more than 120 publications. She is also co-founder/coordinator of the junior research program “Global Challenges for Women in Math Science” at the Technical University of Munich 
 </td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
@@ -71,11 +79,16 @@ R Markdown is a tool that allows you to easily integrate text, code and its outp
 This workshop will be suitable for people with some basic knowledge and familiarity of R. 
 
 <br><br>
-{{% md %}}
 
-##### Biography of Instructor
-Dr. Emi Tanaka has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his [popular blog](https://yihui.name/en/2018/07/emi-tanaka/). She has given a number of tutorials and workshop related to the topics of this workshop.
-{{% /md %}}
+
+<h4>Instructor Bio</h4>
+
+<b>Dr. Emi Tanaka</b> has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his <a href="https://yihui.name/en/2018/07/emi-tanaka/">popular blog</a>. She has given a number of tutorials and workshop related to the topics of this workshop.
+
+<br><br>
+
+<b>Annie Conway</b> is a biometrician at <a href="https://ua.edu.au/biometryhub">The Biometry Hub, University of Adelaide</a>. She has a background in mathematical statistics, in particular analysis of high-dimensional data, and design and analysis of agronomy research trials. She has previously instructed workshops on Introduction to R. 
+
 </td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
@@ -90,6 +103,15 @@ Dr. Emi Tanaka has an extensive experience in using R and development of softwar
         The advent of high-throughput genotyping methods has allowed the low-cost generation of high dimensional genetic marker sets for dissection and analysis. In plant and animal breeding research these analyses usually involve the incorporation of the complete set of genetic markers into a complex linear mixed model (LMM). In these models the goal is usually to determine the underlying genetic architecture of phenotypic traits through various whole genome analysis techniques such as quantitative trait loci (QTL) analysis, genome wide association studies (GWAS) or genomic selection (GS).
 <br><br>
 There are many LMM methods for QTL, GWAS and GS analysis. This course will provide a theoretical and computational introduction to the newly updated genetic analysis R package, <b>WGAIM</b>, that builds on the highly flexible LMM computational architecture of ASReml-R V4. The course will initially introduce LMM theory and the necessary extensions required for QTL, GWAS and GS analysis approaches. The functionality of the package will then be exemplified through a walk-through of the computational genetic analysis pipeline. Workshop participants will have a chance to gain hands on experience with the package features through practical sessions. A good working knowledge of R is assumed.
+
+
+<br><br>
+<h4>Instructor Bios</h4>
+<b>Dr Julian Taylor</b> is a Senior Research Biometrician at the University of Adelaide. A substantial component of this research is whole genome analysis methods such as quantitative trait loci (QTL) analysis, genome wide association analyses (GWAS) and genomic selection (GS). Additionally, he is the co-author and maintainer of statistical software packages R/ASMap, R/wgaim and R/hett written in the open source R statistical computing environment.
+
+<br><br>
+
+<b>Dr Beata Sznajder</b> has expertise in linear mixed models, particularly for statistical genetics (associative mapping, linkage analysis, population structure, multiple testing). She has extensive experience with genetic marker analysis for cereal breeding. Application of Bayesian approaches to associative mapping. Expertise in statistical programming, parallelisation and management of data in R and SAS.
 
 </td></tr>
 
@@ -138,6 +160,15 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 <tr class="out budgets 4collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="4">
         The course will consider the issues raised by missing data (both item and unit non-response) in studies using survey and routinely collected data, for example electronic health records. Following a review of the issues raised by missing data, we will focus on two methods of analysis: multiple imputation and inverse probability weighting. We will also discuss how they can be used together. The concepts will be illustrated with medical and social examples.   
+
+<br><br>
+        
+
+
+<h4>Instructor Bio</h4>
+
+<b>James Carpenter</b> is professor of medical statistics at the London School of Hygiene & Tropical Medicine, and has a 50% secondment to the MRC Clinical Trials Unit at UCL. Research interests include: missing observations (both outcomes and covariates), in particular the method of multiple imputation and sensitivity analysis; meta-analysis; multilevel modelling and bootstrap methods, with social and medical applications.
+
 </td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
@@ -156,6 +187,17 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 <br>
 
 The course covers those basic concepts in experimental design that are necessary for using the paradigm. Methods for describing the factor allocation in a design and their use in producing a canonical analysis of the design are discussed, along with interpreting the canonical analysis. The formulation of allocation-based mixed models from the canonical analysis is also exposited. That is, the trail from the recognition in the planning stages of important sources of variation through constructing the design to the mixed model for data from the experiment using the design is followed. Participants will rehearse the techniques in practical sessions, using the R packages <tt>dae</tt> and <tt>od</tt>.
+
+<br><br>
+
+
+<h4>Instructor Bios</h4>
+<a href="https://people.unisa.edu.au/Chris.Brien"><b>Chris Brien’s</b></a> career included positions at CSIRO Horticultural Research, Roseworthy Agricultural College and the University of South Australia (22 years). He retired in 2009 and is currently an Adjunct Associate Professor in Statistics with UniSA and more recently has been employed as a Senior Biostatistician at the Australian Plant Phenomics Facility, University of Adelaide. He has a substantial research record in the design and analysis of experiments, particularly multitiered experiments. He continues his work on [multitiered experiments](http://chris.brien.name/multitier/MTGlossary.html#multitiered) and is working in the area of high throughput greenhouse experiments.
+
+<br><br>
+
+<b>Sam Rogers</b> has worked as a Biometrician in the Biometry Hub, University of Adelaide, since 2017. His work includes running professional development workshops for researchers using R, consulting on experimental design and analysis projects, and web and software development. His passions include statistical programming, writing elegant code, and helping people make use of their data.
+
 </td></tr>
 
 
@@ -176,6 +218,17 @@ The course covers those basic concepts in experimental design that are necessary
 <br><br>
 In this short course, we will approach Shiny from a beginner's perspective, walking through the basics of how a Shiny application works and how to build one. Towards the conclusion of the workshop, we will discuss methods for publishing and distributing applications, as well as more advanced techniques for building Shiny programs in a future-proof and maintainable fashion. A basic level of R knowledge is assumed.
 
+<br><br>
+
+
+
+<h4>Instructor Bios</h4>
+<b>Peter Kasprzak</b> was awarded a BMathSci (Honours) from The University of Adelaide (UofA) in 2017 and is currently completing his MPhil in Biometry at UofA, Waite campus. His MPhil research explores design based aspects of field sampling. As a biometrician in UofA’s Biometry Hub, Peter also consults for the grains industry and collaborates with plant scientists and agronomists on the use of drones and other technologies in field data collection.
+
+<b>Dr Kathy Ruggiero</b> is a visiting research fellow at the Biometry Hub in the School of Agriculture, Food & Wine, University of Adelaide. She is a Senior Lecturer and Senior Statistical Consultant in the Department of Statistics at the University of Auckland, New Zealand. She has experience writing her own R packages, and in creating Shiny apps to interface with these.
+
+
+
 </td></tr>
 
 
@@ -193,6 +246,17 @@ In this short course, we will approach Shiny from a beginner's perspective, walk
      <br><br>
      
 This course will present an introduction to deep models in ML from a statistician’s perspective. Topics will include an introduction to stochastic gradient optimization and concepts in regularization and dimension reduction, followed by discussion of deep FNNs, CNNs, and RNNs. We will also touch upon some recent developments that may be of particular interest to statisticians.  The course will focus on concepts and modeling intuition, and will include hands-on implementation using the R interface to Keras, with examples from biomedical, ecological, and environmental statistics. 
+
+<br><br>
+
+
+
+<h4>Instructor Bios</h4>
+<b>Christopher K. Wikle</b> is Curators’ Distinguished Professor and Chair of Statistics at the University of Missouri (MU), with additional appointments in Soil, Environmental and Atmospheric Sciences and the Truman School of Public Affairs . A more detailed biography from his distinguished career may be found at https://ausbiometric2019.org/speakers.  
+
+<br><br>
+
+<b>Dan Pagendam</b> is a senior research scientist at CSIRO Data61 where he works on problems at the interface of the environmental sciences and statistics. Dan holds a BEnvirSci in (Ecology), an MSc (Statistics) and PhD (Mathematics and Statistics). His main research interests are in stochastic modelling, Bayesian statistics and the use of machine learning methods for model emulation. In recent years, Dan has been part of multidisciplinary teams winning CSIRO Impact from Science medal (2017) and the CSIRO Chairman’s Award (2018).
 
 
 </td></tr>
