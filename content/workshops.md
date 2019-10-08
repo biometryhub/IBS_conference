@@ -60,8 +60,7 @@ The course starts with background on multivariate and conditional distributions 
 
 
 <h4>Instructor Bio</h4>
-Dr. Emi Tanaka has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his [popular blog](https://yihui.name/en/2018/07/emi-tanaka/). She has given a number of tutorials and workshop related to the topics of this workshop.
-
+Claudia Czado is professor of Applied Mathematical Statistics at Technical University of Munich, Germany. The research activities of Professor Claudia Czado are in statistics. Her special interests lie in the modeling of complex dependencies including regression effects and time/space structures. For this she uses a copula approach and especially the flexible class of vine copulas. This allows for different non-symmetric dependencies for pairs of variables. For model selection and estimation in high dimensions computer-aided methods are developed. Applications are in finance, insurance and engineering. After studying mathematics in Göttingen, Professor Czado obtained her doctorate in 1989 at Cornell University, USA, in Operations Research and Industrial Engineering. She then became an Assistant Professor and in 1995 Associate Professor of Statistics at York University, Toronto, Canada. In 1998 she was appointed to the Technical University of Munich, Germany, in the field of Applied Mathematical Statistics. Professor Claudia Czado is the author or co-author of more than 120 publications. She is also co-founder/coordinator of the junior research program “Global Challenges for Women in Math Science” at the Technical University of Munich 
 </td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
@@ -106,9 +105,13 @@ This workshop will be suitable for people with some basic knowledge and familiar
 There are many LMM methods for QTL, GWAS and GS analysis. This course will provide a theoretical and computational introduction to the newly updated genetic analysis R package, <b>WGAIM</b>, that builds on the highly flexible LMM computational architecture of ASReml-R V4. The course will initially introduce LMM theory and the necessary extensions required for QTL, GWAS and GS analysis approaches. The functionality of the package will then be exemplified through a walk-through of the computational genetic analysis pipeline. Workshop participants will have a chance to gain hands on experience with the package features through practical sessions. A good working knowledge of R is assumed.
 
 
-
+<br><br>
 <h4>Instructor Bios</h4>
-Dr. Emi Tanaka has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his [popular blog](https://yihui.name/en/2018/07/emi-tanaka/). She has given a number of tutorials and workshop related to the topics of this workshop.
+<b>Dr Julian Taylor</b> is a Senior Research Biometrician at the University of Adelaide. A substantial component of this research is whole genome analysis methods such as quantitative trait loci (QTL) analysis, genome wide association analyses (GWAS) and genomic selection (GS). Additionally, he is the co-author and maintainer of statistical software packages R/ASMap, R/wgaim and R/hett written in the open source R statistical computing environment.
+
+<br><br>
+
+<b>Dr Beata Sznajder</b> has expertise in linear mixed models, particularly for statistical genetics (associative mapping, linkage analysis, population structure, multiple testing). She has extensive experience with genetic marker analysis for cereal breeding. Application of Bayesian approaches to associative mapping. Expertise in statistical programming, parallelisation and management of data in R and SAS.
 
 </td></tr>
 
@@ -164,11 +167,7 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 
 <h4>Instructor Bio</h4>
 
-<b>Dr. Emi Tanaka</b> has an extensive experience in using R and development of software. She has contributed to various R packages and extensions, including xaringan (html slides). Her hacking ability was praised by Dr. Yihui Xie (software engineer for RStudio, author of many R Markdown related package such as knitr, rmarkdown, xaringan and bookdown) on his <a href="https://yihui.name/en/2018/07/emi-tanaka/">popular blog</a>. She has given a number of tutorials and workshop related to the topics of this workshop.
-
-<br><br>
-
-<b>Annie Conway</b> is a biometrician at <a href="ua.edu.au/biometryhub">The Biometry Hub, University of Adelaide</a>. She has a background in mathematical statistics, in particular analysis of high-dimensional data, and design and analysis of agronomy research trials. She has previously instructed workshops on Introduction to R. 
+<b>James Carpenter</b> is professor of medical statistics at the London School of Hygiene & Tropical Medicine, and has a 50% secondment to the MRC Clinical Trials Unit at UCL. Research interests include: missing observations (both outcomes and covariates), in particular the method of multiple imputation and sensitivity analysis; meta-analysis; multilevel modelling and bootstrap methods, with social and medical applications.
 
 </td></tr>
 
