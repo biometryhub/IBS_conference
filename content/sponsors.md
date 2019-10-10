@@ -4,7 +4,7 @@ description = "Sponsors of this conference listed below"
 keywords = ["Sponsors","Who","money"]
 +++
 
-
+Blah blah
 
 <h4 class="sponsors-text">
 The Australasian Region of the International Biometric Society gratefully acknowledges the support offered by the following organisations to the Biometrics by the Botanic Gardens conference.</h4>
