@@ -11,7 +11,7 @@ The Australasian Region of the International Biometric Society gratefully acknow
 <br>
 
 <span class="sponsors-text">
-[GRDC](https://grdc.com.au/) 
+[GRDC](https://grdc.com/) 
 </span>  
 
 <a href="https://grdc.com.au/">
