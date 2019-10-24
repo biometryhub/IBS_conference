@@ -12,7 +12,7 @@ description = "Schedule for the conference and link to abstracts"
 
 
 #### [Venue Map](https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf)
-
+<!---
 <div class="table-responsive">
 <table id="outline" class="tg table-fixed" data-tablesaw-mode="columntoggle">
 <colgroup>
@@ -37,16 +37,16 @@ description = "Schedule for the conference and link to abstracts"
   </thead>
   <tbody>
   <tr>
-    <td class="tg-0pky">8:00<br></td>
+    <td class="tg-0pky">8:30<br></td>
     <td></td>
     <td></td>
     <td class="tg-c3ow" colspan="4">Registration desk open</td>
   </tr>
   <tr>
-    <td class="tg-0pky">8:30</td>
+    <td class="tg-0pky">8:50</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-rbmo" rowspan="2"><b>Invited Sessions(Medical)<br><br>Carpenter and Moldovan</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</a></td>
+    <td class="tg-rbmo" rowspan="2">Welcome to Country <br>(8:50-9:10)</td>
     <td class="tg-rbmo" rowspan="2"><b>Invited Sessions(Environmental)<br><br>Wikle and Robertson</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</a></td>
     <td class="tg-rbmo" rowspan="2"><b>Invited Sessions(Agriculture)<br><br>Bustos-Korts and De Faveri</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</a></td>
     <td class="tg-rbmo" rowspan="2"><b>Invited Sessions(Methods)<br><br>Czado and Anderson</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</td>
@@ -84,7 +84,7 @@ description = "Schedule for the conference and link to abstracts"
     <!--<td class="tg-c3ow" colspan="2">Lunch</td>
     <td class="tg-c3ow">Lunch round table discussion topics</td>
     <td class="tg-c3ow">Packed lunch</td>
-    <td class="tg-c3ow">AGM Lunch</td>-->
+    <td class="tg-c3ow">AGM Lunch</td>
     <td class="tg-qs5d" rowspan="2"><b>School poster competition<br>Sandwich lunch, farewell drinks</b><br><a href="https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf" style="color: #0a4719;" target=_blank>Exhibition Hall</td>
   </tr>
   <tr>
@@ -142,7 +142,7 @@ description = "Schedule for the conference and link to abstracts"
   <tr>
     <td class="tg-0pky">19:30</td>
     <!--<td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>-->
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-og4q"><a href="/social/" style="color: #0a4719;"><b>Conference dinner and awards session</b></a></td>
@@ -150,6 +150,293 @@ description = "Schedule for the conference and link to abstracts"
   </tr>
   </tbody>
 </table>
-</div>
+</div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+<div class="table-responsive">
+<table id="outline" class="tg table-fixed" data-tablesaw-mode="columntoggle">
+  <tr>
+    <th>Time</th>
+    <th>Sunday 1/12/2019</th>
+    <th>Monday 2/12/2019</th>
+    <th colspan="2">Tuesday 3/12/2019</th>
+    <th colspan="2">Wednesday 4/12/2019</th>
+    <th colspan="2">Thursday 5/12/2019</th>
+    <th>Friday 6/12/2019</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8:30<br></td>
+    <td></td>
+    <td></td>
+    <td class="tg-c3ow" colspan="7">Registration desk open</td>
+  </tr>
+  <tr>
+    <td>8:50-9:00</td>
+    <td></td>
+    <td></td>
+    <td  class="tg-rbmo" colspan="2" rowspan="3">Welcome to Country <br>(8:50 - 9:10)<br><br>Opening address <br>(9:10 - 9:30)<br><br>Room: Exhibition Hall<br></td>
+    <td class="tg-tu0f" colspan="2">Contributed Session <br>(8:50-10:30)</td>
+    <td class="tg-tu0f" colspan="2">Contributed Session <br>(8:50-10:30)</td>
+    <td>JABES/Biometrics Showcase<br>Room: Exhibition Hall</td>
+  </tr>
+  <tr>
+    <td rowspan="2">9:00-9:30</td>
+    <td rowspan="6" class="tg-elvq"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a>
+    <br><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" style="color: #0a4719;" target=_blank>University of Adelaide North Tce Campus</a></td>
+    <td rowspan="6" class="tg-elvq"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a>
+    <br><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" style="color: #0a4719;" target=_blank>University of Adelaide Waite Campus</a></td>
+    <td class="tg-73pu">Methods 1<br>(Vines Room)</td>
+    <td class="tg-6i83">Mixed Models in Agriculture<br>(Exhibition Hall)</td>
+    <td class="tg-73pu">Methods 2<br>(Vines Room)</td>
+    <td class="tg-6i83">Collaboration<br>(Exhibition Hall)</td>
+    <td rowspan="2">Dan Pagendam</td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Paul Kabaila <br>(8:50-9:10)</td>
+    <td class="tg-6i83">Bethany Macdonald <br>(8:50-9:10)</td>
+    <td class="tg-73pu">Takeshi Kurosawa <br>(8:50-9:10)</td>
+    <td class="tg-6i83">Susan Wilson <br>(8:50-9:10)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">9:30-10:00</td>
+    <td class="tg-rbmo" colspan="2" rowspan="4">Plenary Session <br>(9:30-10:30)<br><br>Invited Session <br>(Medical I)<br><br>James Carpenter</td>
+    <td class="tg-73pu">Fernando Marmolejo-Ramos <br>(9:10-9:30)</td>
+    <td class="tg-6i83">Bethany Rognoni <br>(9:10-9:30)</td>
+    <td class="tg-73pu">Zhanglong Cao <br>(9:10-9:30)</td>
+    <td class="tg-6i83">Teresa Neeman <br>(9:10-9:30)</td>
+    <td rowspan="2">Louise McMillan</td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Linh Nghiem <br>(9:30-9:50)</td>
+    <td class="tg-6i83">Isabel Munoz-Santa <br>(9:30-9:50)</td>
+    <td class="tg-73pu">Hwan-Jin Yoon <br>(9:30-9:50)</td>
+    <td class="tg-6i83">Sharon Nielsen <br>(9:30-9:50)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">10:00-10:30</td>
+    <td class="tg-73pu">Brenton Clarke <br>(9:50-10:10)</td>
+    <td class="tg-6i83">Clayton Forknall <br>(9:50-10:10)</td>
+    <td class="tg-73pu">Olena Kravchuk <br>(9:50-10:10)</td>
+    <td class="tg-6i83">Esther Meenken <br>(9:50-10:10)</td>
+    <td rowspan="2">David Warton</td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Michael Stewart <br>(10:10-10:30)</td>
+    <td class="tg-6i83">Michael Mumford <br>(10:10-10:30)</td>
+    <td class="tg-73pu">Warren Muller <br>(10:10-10:30)</td>
+    <td class="tg-6i83"></td>
+  </tr>
+  <tr>
+    <td>10:30-11:00</td>
+    <td  class="tg-c3ow" colspan="2">Morning Tea</td>
+    <td  class="tg-c3ow" colspan="7">Morning Tea<br>Exhibition Hall</td>
+  </tr>
+  <tr>
+    <td rowspan="5">11:00-12:00</td>
+    <td class="tg-elvq" rowspan="7">Workshops</td>
+    <td class="tg-elvq" rowspan="7">Workshops</td>
+    <td class="tg-tu0f" colspan="2">Contributed Session <br>(11:00-12:40)</td>
+    <td  class="tg-rbmo" colspan="2" rowspan="5">Plenary Sessions <br>(11:00-13:00)<br>Room: Exhibition Hall<br><br>Invited Session <br>(Environmental I)(11:00-12:00)Chris Wikle<br></td>
+    <td  class="tg-rbmo" colspan="2" rowspan="5">Plenary Sessions <br>(11:00-13:00)<br>Room: Exhibition Hall<br><br>Invited Session <br>(Methods I)(11:00-12:00)Claudia Czado<br></td>
+    <td  class="tg-rbmo" rowspan="5">Plenary Sessions <br>(11:00-13:00)<br>Room: Exhibition Hall<br><br>Invited Session <br>(Agricultural I)(11:00-12:00)Daniela Bustos-Korts<br></td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Biostatistics 1 <br>(Gallery Room)</td>
+    <td class="tg-6i83">Modelling the Environment<br>(Exhibition Hall)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Hans Hockey <br>(11:00-11:20)</td>
+    <td class="tg-6i83">Rune Christiansten <br>(11:00-11:20)</td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Jessica Kasza <br>(11:20-11:40)</td>
+    <td class="tg-6i83">Francis Hui <br>(11:20-11:40)</td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Md Anower Hossain <br>(11:40-12:00)</td>
+    <td class="tg-6i83">Ian Renner <br>(11:40-12:00)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">12:00-12:30</td>
+    <td class="tg-73pu">Michael T Fahey <br>(12:00-12:20)</td>
+    <td class="tg-6i83">Emy Guilbault <br>(12:00-12:20)</td>
+    <td  class="tg-rbmo"colspan="2" rowspan="5">Invited Session <br>(Environmental II)(12:00-13:00) Blair Robertson</td>
+    <td  class="tg-rbmo"colspan="2" rowspan="5">Invited Session <br>(Methods II)(12:00-13:00) Marti Anderson</td>
+    <td  class="tg-rbmo"rowspan="5">Invited Session <br>(Agricutlural II)<br> (12:00-13:00) Joanne De Faveri</td>
+  </tr>
+  <tr>
+    <td class="tg-73pu" rowspan="2">Graham Hepworth <br>(12:20-12:40)</td>
+    <td class="tg-6i83" rowspan="2">Louise McMillan <br>(12:20-12:40)</td>
+  </tr>
+  <tr>
+    <td>12:30-12:40</td>
+    <td  class="tg-c3ow" colspan="2" rowspan="4">Lunch</td>
+  </tr>
+  <tr>
+    <td rowspan="2">12:40-13:00</td>
+    <td  class="tg-c3ow" colspan="2" rowspan="3">Lunch <br>(12:40-13:30)<br>Ferguson Room<br></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td>13:00-13:30</td>
+    <td class="tg-c3ow" colspan="2">Packed Lunch Vines Room</td>
+    <td  class="tg-c3ow" colspan="2" rowspan="4">Lunch <br>(Ferguson Room)<br><br>AGM <br>(13:00-14:10)</td>
+    <td  class="tg-c3ow" rowspan="2">Conference Close <br>(13:00-13:45)</td>
+  </tr>
+  <tr>
+    <td>13:30-13:45</td>
+    <td class="tg-elvq" rowspan="9">Workshops</td>
+    <td class="tg-elvq" rowspan="9">Workshops</td>
+    <td  class="tg-rbmo" colspan="2" rowspan="6">Plenary Sessions <br>(13:30-15:30)<br><br>Room: Exhibition Hall<br><br>Invited Session <br>(Medical II) (13:30-14:30)<br><br>Max Moldovan</td>
+    <td colspan="2" rowspan="16">Excursions <br>(13:30-17:30)</td>
+  </tr>
+  <tr>
+    <td>13:45-14:00</td>
+    <td class="tg-qs5d" rowspan="5">Lunch &amp; School Poster Session <br>(13:45-14:30) <br>Ferguson Room</td>
+  </tr>
+  <tr>
+    <td>14:00-14:10</td>
+  </tr>
+  <tr>
+    <td rowspan="3">14:10-14:30</td>
+    <td class="tg-tu0f" colspan="2">Contributed Session <br>(14:10-15:30)</td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Biostatistics 2 <br>(Vines Room)</td>
+    <td class="tg-6i83">Samples &amp; Surveys <br>(Exhibition Hall)</td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Alice Richardson <br>(14:10-14:30)</td>
+    <td class="tg-6i83">Robert Clark <br>(14:10-14:30)</td>
+  </tr>
+  <tr>
+    <td>14:30-15:00</td>
+    <td  class="tg-rbmo" colspan="2" rowspan="3">Invited Session <br>(Medical III) (14:30-15:30)<br><br>Richard Cook</td>
+    <td class="tg-73pu">Tugba Akkaya_Hocagil <br>(14:30-14:50)</td>
+    <td class="tg-6i83">Scott Foster <br>(14:30-14:50)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="tg-73pu">Olivier Thas <br>(14:50-15:10)</td>
+    <td class="tg-6i83">Omer Ozturk <br>(14:50-15:10)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15:00-15:30</td>
+    <td class="tg-73pu">Tong Wang <br>(15:10-15:30)</td>
+    <td class="tg-6i83">Dan Gladish <br>(15:10-15:30)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15:30-16:00</td>
+    <td class="tg-c3ow" colspan="2">Afternoon Tea</td>
+    <td class="tg-c3ow" colspan="2">Afternoon Tea <br>Exhibition Hall (15:30-16:00)</td>
+    <td class="tg-c3ow" colspan="2">Afternoon Tea <br>Exhibition Hall (15:30-16:00)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5">16:00-17:00</td>
+    <td class="tg-elvq" rowspan="6">Workshops</td>
+    <td class="tg-elvq" rowspan="6">Workshops</td>
+    <td class="tg-tu0f" colspan="2">Contributed Talks <br>(16:00-17:00)</td>
+    <td class="tg-tu0f" colspan="2">Contributed Session <br>(16:00-17:20)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Imputation <br>(Gallery Room)</td>
+    <td class="tg-6i83">Experimental Design <br>(Exhibition Hall)</td>
+    <td class="tg-73pu">Visualisation <br>(Vines Room)</td>
+    <td class="tg-6i83">Genetics &amp; Evolution <br>(Exhibition Hall)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Nidhi Menon <br>(16:00-16:20)</td>
+    <td class="tg-6i83">Emlyn Williams <br>(16:00-16:20)</td>
+    <td class="tg-73pu">Thomas Lumley <br>(16:00-16:20)</td>
+    <td class="tg-6i83">Conrad Burden <br>(16:00-16:20)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Thomas Sullivan <br>(16:20-16:40)</td>
+    <td class="tg-6i83">David Steel <br>(16:20-16:40)</td>
+    <td class="tg-73pu">Connor James Smith <br>(16:20-16:40)</td>
+    <td class="tg-6i83">Beata Sznajder <br>(16:20-16:40)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="tg-73pu">Patrick Graham <br>(16:40-17:00)</td>
+    <td class="tg-6i83">Richard Jarrett <br>(16:40-17:00)</td>
+    <td class="tg-73pu">Kevin Wang <br>(16:40-17:00)</td>
+    <td class="tg-6i83">Anabel Forte <br>(16:40-17:00)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>17:00-17:30</td>
+    <td class="tg-qs5d" colspan="2" rowspan="3">Poster Session<br><br>Room: The Gallery</td>
+    <td class="tg-73pu">Petra Kuhnert <br>(17:00-17:20)</td>
+    <td class="tg-6i83">Julian Taylor <br>(17:00-17:20)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>17:30-18:30</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>18:30-19:00</td>
+    <td></td>
+    <td>Registration desk open</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>19:00-19:30</td>
+    <td></td>
+    <td class="tg-og4q" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Welcome Reception</b></a><br>National Wine Center</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>19:30-Late</td>
+    <td></td>
+    <td class="tg-og4q" colspan="2"><a href="/social/#young-statisticians-event" style="color: #0a4719;"><b>Young Statisticians Event</b></a><br>(19:30-Late)</td>
+    <td></td>
+    <td></td>
+    <td colspan="2" class="tg-og4q"><a href="/social/" style="color: #0a4719;"><b>Conference dinner and awards session</b></a><br>(19:30-Late)</td>
+    <td></td>
+  </tr>
+</table></div>
 
 <!--- <script>$('#outline').fixedHeaderTable({ footer: false, cloneHeadToFoot: false, fixedColumn: true });</script> --->
