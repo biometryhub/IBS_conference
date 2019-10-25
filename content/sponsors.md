@@ -32,6 +32,36 @@ The Australasian Region of the International Biometric Society gratefully acknow
 <br>
 
 <span class="sponsors-text">
+[University of Adelaide Biometry Hub](http://ua.edu.au/biometryhub)
+</span>  
+
+<a href="http://ua.edu.au/biometryhub">
+<img style="float: center;" src="/img/sponsors/Biometry_Hub.png", class="sponsors-smaller">
+</a>
+<br>
+<br>
+
+<span class="sponsors-text">
+[ANU](https://www.rsfas.anu.edu.au/)
+</span>  
+
+<a href="https://www.rsfas.anu.edu.au/">
+<img style="float: center;" src="/img/sponsors/ANU.jpg", class="sponsors-smaller">
+</a>
+<br>
+<br>
+
+<span class="sponsors-text">
+[ACEMS](https://acems.org.au/home)
+</span>  
+
+<a href="https://acems.org.au/home">
+<img style="float: center;" src="/img/sponsors/acems.png", class="sponsors">
+</a>
+<br>
+<br>
+
+<span class="sponsors-text">
 [Waite Research Institute](https://www.adelaide.edu.au/waite-research-institute/)
 </span>  
 
