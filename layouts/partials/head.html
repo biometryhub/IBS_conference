@@ -19,7 +19,7 @@
   <meta name="description" content="{{ .Site.Params.DefaultDescription }}">	
   {{ end }}
 
-  {{ .Hugo.Generator }}
+  {{ $.Hugo.Generator }}
   
   <!-- AddEvent script -->
     <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
@@ -110,7 +110,7 @@
   <!-- Facebook OpenGraph tags -->
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ .URL }}/" />
+  <meta property="og:url" content="{{ .Params.url }}/" />
   <meta property="og:image" content="{{ .Site.Params.logo }}" />
 
 </head>
