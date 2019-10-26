@@ -7,7 +7,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # To Do list
 # Book of Abstracts only as pdf
 # Programme table fixed first column
-# Bios in workshop table
+# Choose colour by theme or by location
+# Detailed program with abstracts
+# Consistant formatting for outline program
 
 
 languageCode = "en-au"
