@@ -365,6 +365,7 @@ description = "Schedule for the conference and link to abstracts"
     <td class="tg-73pu"><b>Imputation</b> <br>(<i>The Gallery</i>)</td>
     <td class="tg-6i83"><b>Experimental Design</b> <br>(<i>Exhibition Hall</i>)</td>
     <td class="tg-73pu"><b>Visualisation</b> <br>(<i>Vines Room</i>)</td>
+    <td class="tg-6i83"><b>Genetics &amp; Evolution</b> <br>(<i>Exhibition Hall</i>)</td>
     <td></td>
   </tr>
   <tr>
