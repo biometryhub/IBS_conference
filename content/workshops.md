@@ -224,7 +224,7 @@ In this short course, we will approach Shiny from a beginner's perspective, walk
 
 <h4>Instructor Bios</h4>
 <b>Peter Kasprzak</b> was awarded a BMathSci (Honours) from The University of Adelaide (UofA) in 2017 and is currently completing his MPhil in Biometry at UofA, Waite campus. His MPhil research explores design based aspects of field sampling. As a biometrician in UofA’s Biometry Hub, Peter also consults for the grains industry and collaborates with plant scientists and agronomists on the use of drones and other technologies in field data collection.
-
+<br><br>
 <b>Dr Kathy Ruggiero</b> is a visiting research fellow at the Biometry Hub in the School of Agriculture, Food & Wine, University of Adelaide. She is a Senior Lecturer and Senior Statistical Consultant in the Department of Statistics at the University of Auckland, New Zealand. She has experience writing her own R packages, and in creating Shiny apps to interface with these.
 
 
@@ -234,7 +234,7 @@ In this short course, we will approach Shiny from a beginner's perspective, walk
 
 <tr class="clickable" data-toggle="collapse" id="7" data-target=".7collapsed">
 <td>Christopher K. Wikle and Dan Pagendam</td>
-<td>An Introduction to Deep Learning with Biometric and Environmetric Applications</td>
+<td>An Introduction to Deep Learning with Biometric and Environmetric Applications (<span style="color: red;"><b>Workshop full</b></span>)</td>
 <td><a href="https://www.google.com.au/maps/dir//-34.9688661,138.6376184/@-34.9662941,138.6380513,16.13z" target=_blank>University of Adelaide Waite Campus<br>Plant Genomics Centre Room 1.27</a></td>
 <td><a href=""></a></td>
 </tr>
