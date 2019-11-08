@@ -324,19 +324,217 @@ description = ""
       </table>
     </div>
   </div>
-  <div id="wednesday" class="tab-pane fade in active">
-    <div class="table-responsive">
+  <div id="wednesday" class="tab-pane fade">
     <!-- Wed -->
-    </div>
-  </div>
-  <div id="thursday" class="tab-pane fade in active">
     <div class="table-responsive">
+    <!--                -->
+    <!----First Stream --->
+    <!--                -->
+    <h2>Contributed Talks Session 1a: Methods I</h2>
+    <h4><i>Room: Vines</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive tg-wrap">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
+            <td>Paul Kabaila</td>
+            <td>Confidence intervals centred on bootstrap smoothed estimators</td>
+            <td>8:50 - 9:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Bootstrap smoothed (or bagged; Breiman, 1996) parameter estimators have been proposed as an improvement on estimators found after preliminary data-based model selection. The key result of Efron (2014) is a formula for a delta method approximation to the standard deviation of the bootstrap smoothed estimator. This formula is valid for any exponential family of models and has the attractive feature that it simply re-uses the parametric bootstrap replications that were employed to find this estimator. It also has the attractive feature that it is applicable in the context of complicated data-based model selection. It is natural then to propose the use of a confidence interval that is centred on the bootstrap smoothed estimator and has width proportional to the estimate of this approximation to the standard deviation. We describe the results of an evaluation of the performance of this confidence interval, using a testbed that consists of two nested linear regression models and preliminary model selection using a t-test.
+ 
+References<p>Breiman, L. (1996) Bagging predictors. Machine Learning.<p>Efron, B. (2014) Estimation and accuracy after model selection. Journal of the American Statistical Association.<p>Kabaila, P. and Wijethunga, C. (2019) Confidence intervals centred on bootstrap smoothed estimators. Australian & New Zealand Journal of Statistics.<p>Kabaila, P. and Wijethunga, C. (2019) On confidence intervals centred on bootstrap smoothed estimators. Stat.
+<br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+            <td>Fernando Marmolejo-Ramos</td>
+            <td>Towards distributional analyses of biomarker data</td>
+            <td>9:10 - 9:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Current literature reviews of published datasets in the cognitive sciences (e.g. psychology, education, neuroscience) indicate that normally distributed data is not the norm but the exception. One such type of data is biomarker data. In a nutshell, biomarkers can be redefined as measures that index changes in neuropsychobiological states. This definition hence includes, among others, measures such as reaction times, event-related potentials, thermographic data, and blood pressure. Canonical statistical methods (e.g. t-tests, ANOVA) give biased results when dealing with non-normal data. The goal of this talk is to provide a snapshot of new statistical techniques that allow proper distributional and robust analyses. The emphasis will be on statistical graphics and conceptual definitions rather than mathematical elaborations. It is argued that adopting these techniques will ultimately lead to novel findings by revamping the way in which biomarker data are explored and analysed.<br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
+            <td>Linh Nghiem</td>
+            <td>Simulation-Selection-Extrapolation: Estimation in High Dimensional Errors-in-Variables Models</td>
+            <td>9:30 - 9:50</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 3collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Errors-in-variables models in high-dimensional settings pose two challenges in application. Firstly, the number of observed covariates is larger than the sample size, while only a small number of covariates are true predictors under an assumption of model sparsity. Secondly, the presence of measurement error can result in severely biased parameter estimates, and also affects the ability of penalized methods such as the lasso to recover the true sparsity pattern. A new estimation procedure called SIMSELEX (SIMulation-SELection-EXtrapolation) is proposed. This procedure makes double use of lasso methodology. Firstly, the lasso is used to estimate sparse solutions in the simulation step, after which a group lasso is implemented to do variable selection. The SIMSELEX estimator is shown to perform well in variable selection, and has significantly lower estimation error than naive estimators that ignore measurement error. SIMSELEX can be applied in a variety of errors-in-variables settings, including linear models, generalized linear models, and Cox survival models. It is furthermore shown in the supporting information how SIMSELEX can be applied to spline-based regression models. A simulation study is conducted to compare the SIMSELEX estimators to existing methods in the linear and logistic model settings, and to evaluate performance compared to naive methods in the Cox and spline models. Finally, the method is used to analyze a microarray dataset that contains gene expression measurements of favorable histology Wilms tumors. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+            <td>Brenton R Clarke</td>
+            <td>Trimmed Estimators - and a Hybrid-Censored Data Approach to Estimation</td>
+            <td>9:50 - 10:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+         Using the idea of trimmed likelihood in location, we revisit the functional form of the trimmed mean and specify the functional form of the trimmed likelihood estimator as per Bednarski and Clarke (1993).
+This definition leads in the case of the exponential distribution to a naturally robust estimator which is highly efficient whose functional form is weakly continuous and Fr\'echet differentiable at the exponential model. See Clarke et al (2000). This is known as the $\beta$-trimmed mean.  But what about censored data?  Should we use the maximum likelihood estimator (mle) because censoring  seemingly implies outliers are automatically taken care of?  We explore a proposal of a hybrid estimator that combines the $\beta$-trimmed mean and the mle for some interesting results. See Clarke et al. (2017).<br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
+            <td>Michael Stewart</td>
+            <td>Robust scale estimation under small measurement errors</td>
+            <td>10:10 - 10:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 5collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Our motivating example is the estimation of robust scale functionals (like interquartile range or median absolute deviation) of the latent distribution in random effect models. This can be cast as a measurement error problem, where we "estimate" the random effects associated with each cluster. These estimates can in turn be regarded as the true random effects, plus some measurement errors. By "small measurement errors" we mean that we adopt a particular asymptotic scheme where both the number of clusters, and their sizes, tend to infinity. We propose to apply a "missing information principle" whereby we approximate the conditional expectation of the semiparametrically efficient score equations, given the observed data. We report some very interesting simulation study results and briefly sketch some accompanying theory. <br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--                 -->
+    <!----Second Stream --->
+    <!--                 -->
+    <h2>Contributed Talks Session 1b: Mixed Models in Agriculture</h2>
+    <h4><i>Room: Exhibition Hall</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive tg-wrap">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
+            <td>Bethany Macdonald</td>
+            <td>Performance of factor analytic models in multi-environment trial data with small variety numbers</td>
+            <td>8:50 - 9:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Much of the research undertaken in crop science involves evaluating varieties in field trials spanning a range of years and locations, where data arising from these sets of trials are known as multi-environment trial (MET) data. Analysis methods for MET data are concerned with investigating the nature of the variety by environment (VxE) effects, which describe the performance of different varieties across different environments, often with the aim of determining those varieties with superior performance. Ideally the variance of the VxE effects would be estimated using an unstructured form, assumed to be of full rank, however, this estimation is computationally difficult and can be unstable. The factor analytic (FA) model proposed by Smith et al. (2001) offers a more parsimonious option and has been shown to provide a good approximation to the unstructured form. The FA model has been shown to model the VxE effects accurately when there are large numbers of varieties, however, the accuracy of the model when variety numbers are small or varietal concurrence (the number of varieties in common between trials) is varied is unclear. The accuracy of FA models in scenarios when variety numbers are small and VxE and concurrence patterns vary was investigated through simulation. The study considered four model types for the variance of the VxE effects for MET data, with 10, 15, 25 and 50 varieties per trial. These data sets contained three types of VxE patterns, two levels of varietal concurrence and nine or 52 trials, resulting in 48 different scenarios. This study found that the accuracy of the FA model is affected when the number of varieties per trial are small, but the extent is dependent on other factors such as the number of trials and underlying VxE pattern.  <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+            <td>Bethany Rognoni</td>
+            <td>An evaluation of separable variance structures for highly genetically correlated environments</td>
+            <td>9:10 - 9:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Generalized Estimating Equations (GEEs) are a popular tool in many scientific disciplines for investigating the effects of covariates on the mean of a response. In the context of spatial data analysis, GEEs rely on specifying a regression model for the marginal mean, a variance function, and a spatial working correlation matrix characterizing the spatial autocorrelation between observational units. One of the main advantages of GEEs is that estimation of the covariate effects is robust to misspecification of the choice of (spatial) working correlation matrix: the choice only affects the efficiency of the estimator. <p>In ongoing research, we investigate the impact of spatial confounding in GEEs. That is, what happens when the covariates included in a GEE, where a spatial working correlation matrix is used, are also spatially correlated. Under the conditional mixed model approach, the issue of spatial confounding is explicit and arises due to artificial multicollinearity between the spatially correlated covariates and the spatial random effect. We show that for GEEs, such multicollinearity also arises but occurs implicitly between spatially correlated covariates and the spatial working correlation matrix. Results suggests different choices of the working correlation matrix can lead to different attributions of the effect of the covariate on the mean versus on the spatial correlation i.e., on the first versus second moment. In turn, we consider using a so-called “restricted spatial working correlation matrix” that ensures all the variability in the direction of the covariates is attributed to the marginal mean, and is more in line with the underlying aim of GEEs. The issue of standard error estimation via the sandwich covariance matrix, and how it is impacted by spatial confounding, will also be discussed.<br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
+            <td>Isabel Munoz-Santa</td>
+            <td>Multi environment trial analysis to determine the tolerance of cereal varieties to cyst nematode</td>
+            <td>9:30 - 9:50</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 3collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Cereal Cyst nematodes (CCN) are considered a major nematode pest which cause significant yield losses in wheat and barley with a high economic cost to the grain industry.  A feasible solution is to breed for varieties which are tolerant; i.e. varieties which are able to yield in the presence of CCN in the field, this being an important research area for cereal nematologists.<p>In this study, we conducted 6 field trials from 2011 to 2018 in South Australia and Victoria with the objective of providing tolerance ratings of 92 different cereal varieties under high and low levels of pre-established nematode densities in the field.  Multi environment trial analyses were used to analyse the data where the term environment refers to each year by location by nematode density combination. Spatial techniques were used to account for the spatial variability in each trial and a factor analytic model was fitted to model the genotype by environment interaction effects. <p>Multi environment trial analyses revealed high genetic correlation between high and low environments for each of the trials. This indicates that selecting varieties under high levels of CCN is equivalent to select varieties under low levels and thus analogous to select high yielding varieties irrespective of the nematode density. Therefore, a measure to assess the performance of varieties under high levels of nematodes independently of their performance under low levels was defined and named “tolerance index”.<p>Multi environment trial analyses together with the tolerance index allowed us to select for high yielding varieties as well as give a more useful information to growers in relation to the comparison of varieties between high and low levels of CCN. The definition of the tolerance index and results obtained from this set of trials will be presented in this talk. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+            <td>Clayton Forknall</td>
+            <td>An across trials random regression approach to describe tolerance of wheat cultivars to disease</td>
+            <td>9:50 - 10:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          In plant pathology, tolerance to disease can be defined as the rate of change in productivity (yield), given a unit increase in pathogen burden. When applied to field crops, experiments to compare the tolerance of cultivars requires the establishment of a range of pathogen burdens over which the grain yield of a cultivar is measured, where tolerance to disease is then defined as the slope of a regression of yield against pathogen burden.
+A recent publication (Forknall et al. (2019), Phytopathology) describes a method for the statistically robust design and analysis of a single field experiment to quantify the rate of change in yield per unit increase in pathogen burden of five wheat cultivars for the disease crown rot. Using a random regression approach, implemented in a linear mixed model (LMM) framework, response curves describing the relationship between yield and crown rot pathogen burden were estimated for each of the cultivars in the experiment. 
+This methodology is now extended to an across trials random regression approach, implemented in an LMM framework, which enables the estimation of different response curves for each cultivar in each experiment, where the response of each cultivar is modelled around an overall (average) yield response profile for each experiment. This modelling approach also provides a means of capturing the genetic correlation (covariance) between model parameters, both within and between experiments. 
+The model is demonstrated by an application to 15 field experiments, estimating the yield response of the same set of five wheat cultivars to crown rot. The analysis revealed variation in the rate of change in yield, or tolerance, of cultivars across experiments, identifying that the tolerance of some cultivars was more influenced by environmental conditions than others. Also presented are graphical tools to assist in unlocking the interaction between cultivars tolerance and environmental conditions. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
+            <td>Michael Mumford</td>
+            <td>Clustering environments in a combined trial analysis of yield response to plant population</td>
+            <td>10:10 - 10:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 5collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          One of the key management practices of interest in agricultural crops is yield response to plant population and its contribution to yield in different genetic backgrounds. When field trials are run across multiple environments (i.e. years and locations), it is imperative to model the environment effects and the interaction of environment with hybrid and plant population. The challenge is then to compare the response models across environments. <p>A fixed effects combined trial analysis for yield response to plant population in a linear mixed model framework is presented. Clustering of the treatments (e.g. hybrid and environment combinations) is performed such that parallel curves are fitted to treatments within the same cluster to i) simplify the interaction and ii) increase the information used for fitting each response function by combining data across treatments within the same cluster. The categorisation of treatments to clusters is considered adequate when there is no significant interaction effect between plant population and treatment within each cluster. This presentation will focus on an objective method for categorising treatments into clusters. Furthermore, a sensitivity analysis will be presented to explore the adequacy of the proposed clustering methodology.<p>The methodology is applied to a large set of sorghum trials implemented across New South Wales, Australia in two seasons consisting of different hybrids, row spacings and trial locations. Furthermore, it provides a general framework for a fixed effects regression analysis in a linear mixed model framework that can account for i) experimental design terms, ii) separate residual variances and iii) spatial field trend at each trial. <br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <h2>Invited Speakers: Environmental</h2>
+    <h4><i>Room: Exhibition Hall</i></h4>
+    <div class="table-responsive">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="9" data-target=".9collapsed">
+            <td>Christopher K. Wikle</td>
+            <td>Using Deep Neural Models to Facilitate Statistical Modeling of Complex Spatio-Temporal Dynamics</td>
+            <td>11:00 - 12:00</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 9collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Spatio-temporal data are ubiquitous in the sciences and engineering, and their analysis is important for understanding and predicting a wide variety of processes. One of the difficulties with statistical modeling of spatial processes that change in time is the complexity of the dependence structures that must describe how such a process varies, and the presence of high-dimensional complex datasets and large prediction domains. It is particularly challenging to specify parameterizations for nonlinear dynamic spatio-temporal models (DSTMs) that are simultaneously useful scientifically, efficient computationally, and allow for proper uncertainty quantification.  Alternatively, the machine learning community has developed a suite of deep neural models and learning paradigms (e.g., convolutional neural networks, recurrent neural networks, reinforcement learning) that can be combined in novel ways to predict spatio-temporal processes.  However, these deep neural models are typically implemented in a deterministic framework that limits formal inference.  Here we explore some recent attempts to build hybrid models in which deep neural models can be embedded within a formal statistical DSTM framework. The approaches are illustrated with examples applied to environmental and ecological data.<br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="10" data-target=".10collapsed">
+            <td>Blair Robertson</td>
+            <td>Quasi-random spatially balanced sampling</td>
+            <td>13:00 - 14:00</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 10collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          A spatial sampling design determines where sample locations are placed in a study area. The main objective is to select sample locations in such a way that valid scientific inferences can be made to all regions of the study area. To achieve good estimates of population characteristics, the spatial pattern of the sample should be similar to the spatial pattern of the population. However, the spatial pattern of the response variable is usually not known. Fortunately, when sampling natural resources, nearby locations tend to be similar because they interact with one another and are influenced by the same set of factors. This means sample efficiency can be increased by spreading sample locations evenly over the resource. A sample that is well-spread over the resource is called a spatially balanced sample. In this talk, we show how quasi-random sequences can be used to draw spatially balanced samples from natural resources. <br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    </div>
+    <!-- Wed -->
+  </div>
+  <div id="thursday" class="tab-pane fade">
     <!-- Thurs -->
-    </div>
-  </div>
-  <div id="friday" class="tab-pane fade in active">
     <div class="table-responsive">
-    <!-- Fri -->
     </div>
+    <!-- Thurs -->
+  </div>
+  <div id="friday" class="tab-pane fade">
+    <!-- Fri -->
+    <div class="table-responsive">
+    </div>
+    <!-- Fri -->
   </div>
 </div>
