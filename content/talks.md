@@ -1,5 +1,5 @@
 +++
-title = "Abstracts and Titles"
+title = "Presentation Titles, Abstracts and Slides"
 description = ""
 +++
 
@@ -326,7 +326,7 @@ description = ""
   </div>
   <div id="wednesday" class="tab-pane fade">
     <!-- Wed -->
-    <div class="table-responsive">
+    <!-- <div class="table-responsive"> -->
     <!--                -->
     <!----First Stream --->
     <!--                -->
@@ -352,10 +352,7 @@ description = ""
           </tr>
           <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-          Bootstrap smoothed (or bagged; Breiman, 1996) parameter estimators have been proposed as an improvement on estimators found after preliminary data-based model selection. The key result of Efron (2014) is a formula for a delta method approximation to the standard deviation of the bootstrap smoothed estimator. This formula is valid for any exponential family of models and has the attractive feature that it simply re-uses the parametric bootstrap replications that were employed to find this estimator. It also has the attractive feature that it is applicable in the context of complicated data-based model selection. It is natural then to propose the use of a confidence interval that is centred on the bootstrap smoothed estimator and has width proportional to the estimate of this approximation to the standard deviation. We describe the results of an evaluation of the performance of this confidence interval, using a testbed that consists of two nested linear regression models and preliminary model selection using a t-test.
- 
-References<p>Breiman, L. (1996) Bagging predictors. Machine Learning.<p>Efron, B. (2014) Estimation and accuracy after model selection. Journal of the American Statistical Association.<p>Kabaila, P. and Wijethunga, C. (2019) Confidence intervals centred on bootstrap smoothed estimators. Australian & New Zealand Journal of Statistics.<p>Kabaila, P. and Wijethunga, C. (2019) On confidence intervals centred on bootstrap smoothed estimators. Stat.
-<br><br>
+          Bootstrap smoothed (or bagged; Breiman, 1996) parameter estimators have been proposed as an improvement on estimators found after preliminary data-based model selection. The key result of Efron (2014) is a formula for a delta method approximation to the standard deviation of the bootstrap smoothed estimator. This formula is valid for any exponential family of models and has the attractive feature that it simply re-uses the parametric bootstrap replications that were employed to find this estimator. It also has the attractive feature that it is applicable in the context of complicated data-based model selection. It is natural then to propose the use of a confidence interval that is centred on the bootstrap smoothed estimator and has width proportional to the estimate of this approximation to the standard deviation. We describe the results of an evaluation of the performance of this confidence interval, using a testbed that consists of two nested linear regression models and preliminary model selection using a t-test.<p> References<p>Breiman, L. (1996) Bagging predictors. Machine Learning.<p>Efron, B. (2014) Estimation and accuracy after model selection. Journal of the American Statistical Association.<p>Kabaila, P. and Wijethunga, C. (2019) Confidence intervals centred on bootstrap smoothed estimators. Australian & New Zealand Journal of Statistics.<p>Kabaila, P. and Wijethunga, C. (2019) On confidence intervals centred on bootstrap smoothed estimators. Stat. <br><br>
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
@@ -388,8 +385,7 @@ References<p>Breiman, L. (1996) Bagging predictors. Machine Learning.<p>Efron, B
           </tr>
           <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-         Using the idea of trimmed likelihood in location, we revisit the functional form of the trimmed mean and specify the functional form of the trimmed likelihood estimator as per Bednarski and Clarke (1993).
-This definition leads in the case of the exponential distribution to a naturally robust estimator which is highly efficient whose functional form is weakly continuous and Fr\'echet differentiable at the exponential model. See Clarke et al (2000). This is known as the $\beta$-trimmed mean.  But what about censored data?  Should we use the maximum likelihood estimator (mle) because censoring  seemingly implies outliers are automatically taken care of?  We explore a proposal of a hybrid estimator that combines the $\beta$-trimmed mean and the mle for some interesting results. See Clarke et al. (2017).<br>
+         Using the idea of trimmed likelihood in location, we revisit the functional form of the trimmed mean and specify the functional form of the trimmed likelihood estimator as per Bednarski and Clarke (1993).<br>This definition leads in the case of the exponential distribution to a naturally robust estimator which is highly efficient whose functional form is weakly continuous and Fr&eacute;chet differentiable at the exponential model. See Clarke et al (2000). This is known as the &beta;-trimmed mean.  But what about censored data?  Should we use the maximum likelihood estimator (mle) because censoring  seemingly implies outliers are automatically taken care of?  We explore a proposal of a hybrid estimator that combines the &beta;-trimmed mean and the mle for some interesting results. See Clarke et al. (2017).<br>
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
@@ -442,7 +438,7 @@ This definition leads in the case of the exponential distribution to a naturally
           </tr>
           <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-          Generalized Estimating Equations (GEEs) are a popular tool in many scientific disciplines for investigating the effects of covariates on the mean of a response. In the context of spatial data analysis, GEEs rely on specifying a regression model for the marginal mean, a variance function, and a spatial working correlation matrix characterizing the spatial autocorrelation between observational units. One of the main advantages of GEEs is that estimation of the covariate effects is robust to misspecification of the choice of (spatial) working correlation matrix: the choice only affects the efficiency of the estimator. <p>In ongoing research, we investigate the impact of spatial confounding in GEEs. That is, what happens when the covariates included in a GEE, where a spatial working correlation matrix is used, are also spatially correlated. Under the conditional mixed model approach, the issue of spatial confounding is explicit and arises due to artificial multicollinearity between the spatially correlated covariates and the spatial random effect. We show that for GEEs, such multicollinearity also arises but occurs implicitly between spatially correlated covariates and the spatial working correlation matrix. Results suggests different choices of the working correlation matrix can lead to different attributions of the effect of the covariate on the mean versus on the spatial correlation i.e., on the first versus second moment. In turn, we consider using a so-called “restricted spatial working correlation matrix” that ensures all the variability in the direction of the covariates is attributed to the marginal mean, and is more in line with the underlying aim of GEEs. The issue of standard error estimation via the sandwich covariance matrix, and how it is impacted by spatial confounding, will also be discussed.<br><br>
+          In agricultural field trials, genotypes can be tested in the presence of interacting factors, resulting from either imposed treatments, repeated measurements or across multiple environments. When the aim is to select superior performing genotypes under these conditions, the factorial combination of conditions is often collapsed into one overall ‘environment’ factor, with a genetic variance structure fitted for this term, in a linear mixed model framework. This enables the estimation of a separate genetic variance for each of the levels (referred to as environment types) corresponding to the combinations of the original factorial structure, along with genetic covariance between the environment types. <p>As an alternative to this, an individual genetic variance structure for each of the factors can be fitted, resulting in a separable variance model. This may be a more parsimonious approach to modelling the genetic variance due to estimation of fewer parameters in total, and could provide a more intuitive interpretation of genotype behaviour across environment types. However, separable models have been shown to be less flexible, as they impose more restrictive variance structures. <p>A set of nematode resistance field trials motivated the exploration of separable variance models, where final nematode counts for each genotype were measured under three different soil depths, two previous nematode population densities resulting from prior crops and three trials. The analysis was first conducted using an overall environment model, where each environment represented a unique combination of soil depth, nematode population and trial. This model showed consistently high genetic correlations between all pairs of environments. The analysis was then performed using a separable genetic variance structure for the three-way factorial. There were substantial differences in the genetic variances and correlations that resulted from the different parameterisation of both models. <br><br>
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
@@ -464,10 +460,7 @@ This definition leads in the case of the exponential distribution to a naturally
           </tr>
           <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-          In plant pathology, tolerance to disease can be defined as the rate of change in productivity (yield), given a unit increase in pathogen burden. When applied to field crops, experiments to compare the tolerance of cultivars requires the establishment of a range of pathogen burdens over which the grain yield of a cultivar is measured, where tolerance to disease is then defined as the slope of a regression of yield against pathogen burden.
-A recent publication (Forknall et al. (2019), Phytopathology) describes a method for the statistically robust design and analysis of a single field experiment to quantify the rate of change in yield per unit increase in pathogen burden of five wheat cultivars for the disease crown rot. Using a random regression approach, implemented in a linear mixed model (LMM) framework, response curves describing the relationship between yield and crown rot pathogen burden were estimated for each of the cultivars in the experiment. 
-This methodology is now extended to an across trials random regression approach, implemented in an LMM framework, which enables the estimation of different response curves for each cultivar in each experiment, where the response of each cultivar is modelled around an overall (average) yield response profile for each experiment. This modelling approach also provides a means of capturing the genetic correlation (covariance) between model parameters, both within and between experiments. 
-The model is demonstrated by an application to 15 field experiments, estimating the yield response of the same set of five wheat cultivars to crown rot. The analysis revealed variation in the rate of change in yield, or tolerance, of cultivars across experiments, identifying that the tolerance of some cultivars was more influenced by environmental conditions than others. Also presented are graphical tools to assist in unlocking the interaction between cultivars tolerance and environmental conditions. <br><br>
+          In plant pathology, tolerance to disease can be defined as the rate of change in productivity (yield), given a unit increase in pathogen burden. When applied to field crops, experiments to compare the tolerance of cultivars requires the establishment of a range of pathogen burdens over which the grain yield of a cultivar is measured, where tolerance to disease is then defined as the slope of a regression of yield against pathogen burden. <p>A recent publication (Forknall et al. (2019), Phytopathology) describes a method for the statistically robust design and analysis of a single field experiment to quantify the rate of change in yield per unit increase in pathogen burden of five wheat cultivars for the disease crown rot. Using a random regression approach, implemented in a linear mixed model (LMM) framework, response curves describing the relationship between yield and crown rot pathogen burden were estimated for each of the cultivars in the experiment. <p>This methodology is now extended to an across trials random regression approach, implemented in an LMM framework, which enables the estimation of different response curves for each cultivar in each experiment, where the response of each cultivar is modelled around an overall (average) yield response profile for each experiment. This modelling approach also provides a means of capturing the genetic correlation (covariance) between model parameters, both within and between experiments. <p>The model is demonstrated by an application to 15 field experiments, estimating the yield response of the same set of five wheat cultivars to crown rot. The analysis revealed variation in the rate of change in yield, or tolerance, of cultivars across experiments, identifying that the tolerance of some cultivars was more influenced by environmental conditions than others. Also presented are graphical tools to assist in unlocking the interaction between cultivars tolerance and environmental conditions. <br><br>
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
@@ -486,6 +479,7 @@ The model is demonstrated by an application to 15 field experiments, estimating 
     </div>
     <h2>Invited Speakers: Environmental</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive">
       <table class="abstract-table">
         <thead>
@@ -522,19 +516,159 @@ The model is demonstrated by an application to 15 field experiments, estimating 
         </tbody>
       </table>
     </div>
-    </div>
+    <!-- </div> -->
     <!-- Wed -->
   </div>
   <div id="thursday" class="tab-pane fade">
     <!-- Thurs -->
-    <div class="table-responsive">
+    <!--                -->
+    <!----First Stream --->
+    <!--                -->
+    <h2>Contributed Talks Session 1a: Methods II</h2>
+    <h4><i>Room: Vines</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive tg-wrap">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
+            <td>Takeshi Kurosawa</td>
+            <td>A new Liu estimator under a linear constraint</td>
+            <td>8:50 - 9:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          A problem in parameter estimation for a linear model arises multi-colinearity if a data set is ill-posed. One of the solutions, Liu (1993) proposed his estimator called the Liu estimator. Furthermore, Kaciranlar et al. (1999) generalized the Liu estimator under the condition with a linear constraint among the parameters. However, their estimator is an ad-hoc method because they treated the two problems independently. In this study, we interpret the Liu estimator as the solution of a certain loss function, and then we propose a new estimator under the condition with the linear constraint. We show theoretical bias and RMSE of our estimator and give a necessary and sufficient condition for the superiority of our estimator against other estimators in terms of RMSE. We also perform a simple simulation study using empirical RMSE. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+            <td>Zhanglong Cao</td>
+            <td>Model selection and principle of parsimony in statistical modelling in agriculture</td>
+            <td>9:10 - 9:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Model selection is an important issue in biostatistical, psychological and agricultural studies. Root mean squared error (RMSE), Akaike's information criterion (AIC), Bayesian information criterion (BIC) and their relatives are commonly used as selection criteria for goodness-of-fit of statistical models. However, there is no robust technique that can be applied in every aspect of parameter estimation and model selection. Sometimes, the winning model is ``cursed'', while the best model based on the selection criteria leads to over-fitting in practice. Goodness-of-fit must be balanced against model complexity to avoid over-fitting issues. We discuss the trap in model selection and the principle of parsimony, and present a weighted neighbouring cross-validation method. The latter will be illustrated on agricultural experimental data set. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
+            <td>Hwan-Jin Yoon</td>
+            <td>On the effect of dependencies between regressors and random effects when analysing hierarchical structured data</td>
+            <td>9:30 - 9:50</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 3collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Hierarchically structured data arises frequently in practice, in many fields of sciences including social science. Linear mixed models (LMMs) is one of the most common statistical methods to deal with the structured or clustered data.<p> Yoon & Welsh (2019) studied the effect of ignoring clustering in $x$ on fitting LMM, and showed that it can be obtained misleading assessments of both the association between $y$ and $x$ and of the variance components. They also showed that, as the within cluster variance of $x$, $\tau_x$, increases, the likelihood and the REML criterion develop two distinct local maxima and which of these is the global maximum changes at the jump point. <p>In LMMs for clustered or hierarchical structured data, regressors can be correlated with random effects. When the random effects and regressors independence assumptions are violated, not only regression coefficient estimators but also variance components can be severely biased. <p>In this study, we investigate how the violation of the random effects and regressors independence assumption could affect on the estimates of parameters and compare the results with the effect of ignoring clustering in $x$ when fitting LMM (Yoon & Welsh). We also extend our study to the case of correlated binary data. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+            <td>Olena Kravchuk</td>
+            <td>Comparative study of probability models for agriculture field index data</td>
+            <td>9:50 - 10:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+         This simulation study is motivated by the challenges of the analysis of field indices, like Harvest Index and Nutrient Use Efficiencies, in agriculture research. The index data we are interested in represents the quotient of two positively correlated random variables, X/(X+Y), but is only observed as a single index variate, Z. Based on the analysis of that index, important decisions are made about the ranking of agronomic factors and conditions. In this study, we are concerned with probability models for such indices, considering and contrasting several choices for X and Y. The choices include: normal, Beta and log-normal distributions, as well as mixtures of either Beta or log-normal. We demonstrate that the mixture of log-normal provides an identifiable and flexible model. <br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
+            <td>Warren Muller</td>
+            <td>Modelling and Parameterization of Soil-Water Retention Curves</td>
+            <td>10:10 - 10:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 5collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          The prediction of soil water storage and water supply to plants is essential in the investigation of vegetation response to rainfall. In particular, soil water retention curves (WRCs) which depict the relationship between the volumetric water content (VWC) and the soil water potential (h) are used by soil scientists in their studies of soil hydraulic properties. <p>If the shape of the water retention curve is sigmoid, then such data sets can be characterized by several models. The most commonly used model is the van Genuchten model (Soil Sci. Soc. Am. J. 44, 1980, 892-898). <p>Fitting the van Genuchten model to data sets relating VWC to h involves estimation of four parameters, some of which have a physical significance in understanding soil-water relationships. However typically these data sets only have 8 to 10 (VWC, h) pairs, which leads to difficulty in estimating some of the parameters and, in some cases, the van Genuchten model is difficult to fit.<p>We fitted the van Genuchten model to VWC vs. h data for 35 water retention curves from semi-arid rangeland soils and seven vineyard soils from the Yass Valley, NSW. We present examples of these fitted models. Some new parameters were derived from the fitted values, and relationships between the four estimated parameters and these derived parameters are also presented. The results from this study show that<p>
+          (i)	On some occasions the van Genuchten model fits poorly or doesn’t fit, so is inappropriate;<br>
+          (ii)	There are strong relationships between some of the estimated and derived parameters, meaning the model is most likely over-parametrized;<br>
+          (iii)	Alternative models should be used when the VWC vs. h relationship is not a distinct sigmoid shape, for example curvilinear or near linear.
+ <br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--                 -->
+    <!----Second Stream --->
+    <!--                 -->
+    <h2>Contributed Talks Session 1b: Collaboration</h2>
+    <h4><i>Room: Exhibition Hall</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive tg-wrap">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
+            <td>Susan Wilson</td>
+            <td>Big Biometric Data: A Biostatistical Perspective</td>
+            <td>8:50 - 9:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Technological advances in biology and medicine, ranging from high-throughput sequencing to wearable electronic devices, are producing a “tsunami” of big biometric data. These data are of very widely varying types and quality. Many challenges abound on how to deal with such data, including wide-ranging deliberations concerning statistical modelling. This presentation will give an overview, including some current developments to meet the more pressing of these challenges. As well, in medicine in particular, big biometric data are giving rise to subtle and evolving ethical issues, many of which concern data analysts. Particular attention will be given to how these affect modern developments including applications such as personalised medical treatment. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+            <td>Teresa Neeman</td>
+            <td>Bridging the gap between science and statistics</td>
+            <td>9:10 - 9:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Biology has undergone a huge transformation in the last 50 years from an observational science with occasional data to an experimental science with terabytes of data. The computational challenges in visualising and analysing large biological data sets are formidable for most biologists who trained in more data-naïve environments. This is potentially a huge opportunity for statisticians, whose training can help biologists discover mechanisms, patterns of behaviour, and even new biological paradigms. But training research students often occurs in “silos” in both fields, leaving huge communication gaps between the biological sciences and statistics.  Biologists miss the chance to sophisticated statistical machinery that may elucidate biological functions. Statisticians miss out on discovering the power of data to address important questions.  In this talk, I explore how we can start to bridge this communication gap. As statisticians, we need to teach biologists statistical concepts that are relevant to experimental sciences. These concepts need to emphasise experimental design and mixed effects models. We need to challenge ourselves to learn the language of biologists and challenge our statistics students with real-life complex data problems. Finally, we need to connect research students with one another and encourage research collaborations. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
+            <td>Sharon Nielsen</td>
+            <td>Statistics for agronomists: a constructive synthesis of workplace learning and community of practice</td>
+            <td>9:30 - 9:50</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 3collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Stakeholders in agronomy, and many other discipline areas, are promoting reproducible and transparent research, allowing research results to be replicated. The need for scientific rigour is paramount to the agronomic industry and can be achieved through appropriate design (with replication and randomisation) and robust and appropriate modelling techniques.<p>Agronomic evaluation of plants – quantity and quality, fertilisers and herbicides and pest control strategies are achieved through agronomic experiments, usually grown in the field, glasshouse or temperature control rooms. During the past three years staff from SAGI-STH training program have developed and run a series of statistical workshops, using adult learning methodologies, to improve the statistical competency of agronomists who conduct these agronomic experiments.   The workshops start with an introduction to R, move through design and then analysis of agronomic experiments and end by introducing these scientists to reproducible research through R markdown. The workshops use active learning strategies and real-world examples relevant to the researchers.<p>On completion of the workshops, participants are then invited to join our community of practice, where we explore their data and work on solving statistical problems as a team. The community of practice is via online meetings, which are recorded so that participants can join synchronously or asynchronously. In this talk we explore the benefits of these workshops and community of practice and what it has meant in practice to the agronomists. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+            <td>Esther Meenken</td>
+            <td>Uncertainty in digital agriculture: An interdisciplinary perspective</td>
+            <td>9:50 - 10:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Digitilisation in agricultural systems provides more, and increasingly real time, data to farmers, consumers, and others along the supply chain than ever before. Turning this data into actionable knowledge through eg bio-physical or statistical models should aid decisions related to activities such as farm management, policy development and product selection. A connected farm has data generating IoT systems proliferated throughout: In and on the soil, monitoring weather patterns and crop growth, and tracking the movement, interactions and welfare of animals. This burgeoning supply of data is accompanied by uncertainty that carries through and is modified as users perceive and interact with it.  For example, a researcher building a crop simulation model will be subject to sensor uncertainties due to bias, lack of precision, sensor failure and incomplete calibration of the sensors.  The model will exhibit direct uncertainties reflecting a) these measurement errors as well as b) lack of complete knowledge about the system being modelled and c) scenario specification. On the other hand, a farmer using information provided by the model to manage irrigation allocation may additionally experience indirect uncertainties stemming from, e.g., a lack of trust in the modellers or communicators which decrease the perceived certainty of a model, particularly in contexts where trust functions as a coping mechanism for an inability to fully assess a model’s direct uncertainty. Uncertainty may also arise due to ‘contextual uncertainty’, defined as the bio-physical or socio-cultural environment which shapes the structure of the model or the way it is used, and determines how ‘fit-for-purpose’ it may be. We hypothesise a conceptual framework that attempts to visually indicate the relative uncertainties as data and biophysical/sociocultural uncertainty are incorporated into a model and as the model in turn becomes incorporated into wider, and increasingly complex, contexts once shared and used. <br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
     <!-- Thurs -->
   </div>
   <div id="friday" class="tab-pane fade">
     <!-- Fri -->
-    <div class="table-responsive">
-    </div>
+    
     <!-- Fri -->
   </div>
 </div>
