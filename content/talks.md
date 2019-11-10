@@ -202,13 +202,13 @@ description = ""
           </tr>
           <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
             <td>Louise McMillan</td>
-            <td>TBC</td>
+            <td>clustglm and clustord: R packages for clustering with covariates for binary, count, and ordinal data</td>
             <td>12:20 - 12:40</td>
             <td></td>
           </tr>
           <tr class="out budgets 5collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-          TBC<br><br>
+          We present two new R packages for model-based clustering with covariates. Both packages can perform clustering and biclustering (clustering sites and species simultaneously, for example). Both use likelihood-based methods for clustering, which enables users to compare models using AIC and BIC as measures of relative goodness of fit. <p>clustglm implements techniques from Pledger and Arnold (2014) for handling binary and count data, or data from other single-parameter exponential family distributions, such as normal distributions with constant variance. It leverages glm and can fit pattern detection models that include individual-level effects alongside cluster effects. For example, when applied to presence/absence data, users can cluster sites and species while also taking into account any single-species effects, and any additional covariates. clustglm can also be applied to capture-recapture data, to cluster individuals based on their capture patterns over multiple occasions. <p>clustglm can accommodate balanced and non-balanced designs, and numerical or categorical covariates. It provides the clustering equivalent of biplots, and also profile plots. We will illustrate the use of clustglm with a selection of ecological datasets. <p>clustord handles ordinal categorical data, using techniques outlined in Fernández et al. (2016). It builds on the ordered stereotype model, which accommodates flexibility in the ordinal scale used. The clustering results can reveal when two ordinal categories are effectively equivalent and can be combined to simplify the model.<br><br>
           </td>
           </tr>
         </tbody>
