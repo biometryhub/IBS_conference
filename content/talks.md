@@ -505,7 +505,7 @@ description = ""
           <tr class="clickable" data-toggle="collapse" id="10" data-target=".10collapsed">
             <td>Blair Robertson</td>
             <td>Quasi-random spatially balanced sampling</td>
-            <td>13:00 - 14:00</td>
+            <td>12:00 - 13:00</td>
             <td></td>
           </tr>
           <tr class="out budgets 10collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
@@ -579,7 +579,7 @@ description = ""
           </tr>
           <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-         This simulation study is motivated by the challenges of the analysis of field indices, like Harvest Index and Nutrient Use Efficiencies, in agriculture research. The index data we are interested in represents the quotient of two positively correlated random variables, X/(X+Y), but is only observed as a single index variate, Z. Based on the analysis of that index, important decisions are made about the ranking of agronomic factors and conditions. In this study, we are concerned with probability models for such indices, considering and contrasting several choices for X and Y. The choices include: normal, Beta and log-normal distributions, as well as mixtures of either Beta or log-normal. We demonstrate that the mixture of log-normal provides an identifiable and flexible model. <br>
+         This simulation study is motivated by the challenges of the analysis of field indices, like Harvest Index and Nutrient Use Efficiencies, in agriculture research. The index data we are interested in represents the quotient of two positively correlated random variables, X/(X+Y), but is only observed as a single index variate, Z. Based on the analysis of that index, important decisions are made about the ranking of agronomic factors and conditions. In this study, we are concerned with probability models for such indices, considering and contrasting several choices for X and Y. The choices include: normal, Beta and log-normal distributions, as well as mixtures of either Beta or log-normal. We demonstrate that the mixture of log-normal provides an identifiable and flexible model. <br><br>
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
@@ -593,8 +593,7 @@ description = ""
           The prediction of soil water storage and water supply to plants is essential in the investigation of vegetation response to rainfall. In particular, soil water retention curves (WRCs) which depict the relationship between the volumetric water content (VWC) and the soil water potential (h) are used by soil scientists in their studies of soil hydraulic properties. <p>If the shape of the water retention curve is sigmoid, then such data sets can be characterized by several models. The most commonly used model is the van Genuchten model (Soil Sci. Soc. Am. J. 44, 1980, 892-898). <p>Fitting the van Genuchten model to data sets relating VWC to h involves estimation of four parameters, some of which have a physical significance in understanding soil-water relationships. However typically these data sets only have 8 to 10 (VWC, h) pairs, which leads to difficulty in estimating some of the parameters and, in some cases, the van Genuchten model is difficult to fit.<p>We fitted the van Genuchten model to VWC vs. h data for 35 water retention curves from semi-arid rangeland soils and seven vineyard soils from the Yass Valley, NSW. We present examples of these fitted models. Some new parameters were derived from the fitted values, and relationships between the four estimated parameters and these derived parameters are also presented. The results from this study show that<p>
           (i)	On some occasions the van Genuchten model fits poorly or doesn’t fit, so is inappropriate;<br>
           (ii)	There are strong relationships between some of the estimated and derived parameters, meaning the model is most likely over-parametrized;<br>
-          (iii)	Alternative models should be used when the VWC vs. h relationship is not a distinct sigmoid shape, for example curvilinear or near linear.
- <br><br>
+          (iii)	Alternative models should be used when the VWC vs. h relationship is not a distinct sigmoid shape, for example curvilinear or near linear. <br><br>
           </td>
           </tr>
         </tbody>
@@ -659,6 +658,301 @@ description = ""
           <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
           Digitilisation in agricultural systems provides more, and increasingly real time, data to farmers, consumers, and others along the supply chain than ever before. Turning this data into actionable knowledge through eg bio-physical or statistical models should aid decisions related to activities such as farm management, policy development and product selection. A connected farm has data generating IoT systems proliferated throughout: In and on the soil, monitoring weather patterns and crop growth, and tracking the movement, interactions and welfare of animals. This burgeoning supply of data is accompanied by uncertainty that carries through and is modified as users perceive and interact with it.  For example, a researcher building a crop simulation model will be subject to sensor uncertainties due to bias, lack of precision, sensor failure and incomplete calibration of the sensors.  The model will exhibit direct uncertainties reflecting a) these measurement errors as well as b) lack of complete knowledge about the system being modelled and c) scenario specification. On the other hand, a farmer using information provided by the model to manage irrigation allocation may additionally experience indirect uncertainties stemming from, e.g., a lack of trust in the modellers or communicators which decrease the perceived certainty of a model, particularly in contexts where trust functions as a coping mechanism for an inability to fully assess a model’s direct uncertainty. Uncertainty may also arise due to ‘contextual uncertainty’, defined as the bio-physical or socio-cultural environment which shapes the structure of the model or the way it is used, and determines how ‘fit-for-purpose’ it may be. We hypothesise a conceptual framework that attempts to visually indicate the relative uncertainties as data and biophysical/sociocultural uncertainty are incorporated into a model and as the model in turn becomes incorporated into wider, and increasingly complex, contexts once shared and used. <br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <h2>Invited Speakers: Methods</h2>
+    <h4><i>Room: Exhibition Hall</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="9" data-target=".9collapsed">
+            <td>Claudia Czado</td>
+            <td>Vine copulas and health applications</td>
+            <td>11:00 - 12:00</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 9collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Vine copulas (vine-copula.org) provide a wide class of multivariate dependence models. They allow for arbitrary marginal models and the dependence is characterized by a copula, which is build using only bivariate copulas. They are joined to form a valid multivariate copula using conditioning arguments, which is identified in a set of linked trees called the vine structure. Since all terms can be chosen independently they can accommodate different tail dependence both symmetric and asymmetric for groups of variables. I will introduce the construction, discuss the selection of vine structure and the step wise estimation procedure. This  allows to select and fit models in very high dimensions. After this I will show how these models can be applied in some health applications.<br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="10" data-target=".10collapsed">
+            <td>Marti J. Anderson</td>
+            <td>Copula models for ecological community data</td>
+            <td>13:00 - 14:00</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 10collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          I shall describe a recently developed pathway for multivariate analysis of data consisting of counts of species abundances that includes two key components: copulas, to provide a flexible joint model of individual species, and dissimilarity-based methods, to integrate information across species and provide a holistic view of the community. Individual species are characterised using suitable (marginal) statistical distributions, with the mean, the degree of over-dispersion and/or zero-inflation being allowed to vary among a priori groups of sampling units. Associations among species are then modelled using copulas. A Gaussian copula smoothly captures changes in an index of association that excludes joint-absences in the space of the original species variables, but more flexible vine copulas might also be used. A permutation-based filter with exact family-wise error can optionally be applied a priori to reduce the dimensionality of the copula estimation problem. An MCEM algorithm provides efficient estimation of the copula correlation matrix with discrete marginals (counts). Given the resulting model, we may then simulate realistic ecological community data under fully specified null or alternative hypotheses. Distributions of community centroids derived from simulated data can be visualised in ordinations of ecologically meaningful dissimilarity spaces. Multinomial mixtures of data drawn from copula models also yield smooth power curves in dissimilarity-based settings. The proposed analysis pathway provides new opportunities to combine model-based approaches with dissimilarity-based methods, enhancing our understanding of ecological systems. I shall demonstrate implementation of the pathway with an example dataset of fish counts from a New Zealand marine reserve, the Poor Knights, and will also touch briefly on more recent extensions that embrace models of species along environmental gradients.<br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--                -->
+    <!----First Stream --->
+    <!--                -->
+    <h2>Contributed Talks Session 2a: Biostatistics II</h2>
+    <h4><i>Room: Vines</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive tg-wrap">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
+            <td>Alice Richardson</td>
+            <td>Determination of Indirect Reference Intervals for Immunoglobulin in an Australian Population</td>
+            <td>14:10 - 14:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Diagnostic pathology test results are typically supplied with reference intervals, a pair of values delineating the range within which a healthy individual’s test result should lie. These reference intervals are essential for interpretation of the tests, but calculation of these intervals is controversial from both a statistical and a biological point of view.<p>In this presentation we introduce the indirect method for reference interval calculation, based on secondary analysis of administrative data rather than direct identification of a healthy population leading to reference interval calculation. We’ll describe the statistical and biochemical issues that arise from the indirect approach.<p>We will also investigate the effect of two methods of outlier removal (Tukey elimination and the block method) and three methods of calculation (parametric, non-parametric and robust) on the indirect intervals obtained. The presentation will be illustrated with a large Australian data set relating to serum immunoglobulin A, G and M for males and females across the entire human age range.<p>The outlier elimination method was more important in the production of the indirect reference intervals than the calculation method. The Tukey elimination procedure consistently eliminated more values than the block method. If Tukey elimination was applied, variation between intervals produced by the different calculation methods was then minimal. The non-parametric intervals were actually more sensitive to outliers which, for certain assays, led to higher and wider intervals for older age groups. There were only minimal differences between robust and parametric reference intervals.<p>The interaction between outlier elimination and calculation method will be investigated further, and suggestions made for moving forward with indirect intervals in the diagnostic setting. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+            <td>Tugba Akkaya-Hocagil</td>
+            <td>The Propensity Score with Semi-continuous Exposures</td>
+            <td>14:30 - 14:50</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Propensity score methodology has become increasingly popular in recent years as a tool for estimating causal effects of treatment or exposure using data from observational studies. For the most part, discussion has focussed on binary treatment/exposure scenarios. While some authors have discussed propensity score methodology for more general exposures, including continuous, this topic has been less well studied.   In this presentation we discuss the context of environmental epidemiology where interest typically focuses on exposure variables that include zero values representing non-exposed individuals as well as long tails representing highly exposed individuals.  We develop a propensity score methodology based on a two-part model and show how this can be used to more reliably estimate the causal effects of a semi-continuous exposure variable. We compare and evaluate the performance of our proposed method relative to the more standard generalized propensity score method and direct covariate adjustment through simulation studies. We find that when the outcome model satisfies linear regression model assumptions, all three methods yield unbiassed results. However, when the outcome model violates the assumptions of linear regression, our proposed method outperforms both direct covariate adjustment and the generalized propensity score method. We illustrate our method using data from the Detroit Longitudinal Cohort Study where exposure corresponds to prenatal alcohol exposure, with a long tail and many zero values. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
+            <td>Olivier Thas</td>
+            <td>Compositional Rank Methods for Testing for Differential Abundance in Microbiome Studies</td>
+            <td>14:50 - 15:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 3collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Microbiome count data can be considered as compositional mutivariate observations, which are characterised by a sum-constraint. Popular methods for testing for differential abundance rely on the (zero-inflated) negative binomial (NB) distribution. We have developped a new goodness-of-fit test for this distributional assumption, and we have applied the test to several public data sets. We conclude that more than 50% of the OTUs do not show a NB distribution and we demonstrate that this lack-of-fit causes poor FDR control. Robust or nonparametric methods for compositional data are needed. <p>Many data analysis methods have been developed for compositional data. They make use of log-ratios of counts, but these are problematic in the presence of many zero counts, as is the case for microbiome. We have developed semiparametric rank methods for compositional microbiome data. The methods do not rely on strong distributional assumptions, avoid log-ratios and account for library size variability. The methods make use of either means, rank or sign statistics. False discovery rate control happens through a new permutation method that accounts for the discreteness of the p-value null distributions. Results from a realistic simulation study suggest that the new methods perfom well and that particularly the sign-based methods perform well for overdispersed microbiome data. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+            <td>Tong Wang</td>
+            <td>Comparison of Methods for the Detection of Outlier and Associated Biomarker in Mislabeled Omics Data</td>
+            <td>15:10 - 15:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Background: Previous studies have reported that labeling errors are not uncommon in omics data. Potential outliers may severely undermine the correct classification of patients and the identification of reliable biomarkers for a particular disease. Three methods have been proposed to address the problem: sparse label-noise-robust logistic regression (Rlogreg), robust elastic net based on the least trimmed square (enetLTS), and “Ensemble.” Ensemble is an ensembled classification based on distinct feature selection and modeling strategies. The accuracy of biomarker selection and outlier detection of these methods needs to be evaluated and compared so that the appropriate method can be chosen. Results: The accuracy of variable selection, outlier identification, and prediction, and the running time of the three methods were compared in scenarios with various sample sizes, dimensions, and proportions of outliers with or without leverage points. From the results of the simulation study, Ensemble was best in terms of the variable selection accuracy. enetLTS selected the most variables with the highest positive selection rate and highest false discovery rate. In terms of the mislabeled samples detected, enetLTS performed best, with high sensitivity and a controlled false positive rate within 5%. Rlogreg detected most outliers, with the highest FPR, which exceeded 5% in some cases. Rlogreg had the lowest runtime. The three methods were applied to a triple negative breast cancer (TNBC) dataset, which included individuals with discordant labels. Conclusions: Our study highlighted how to choose methods for feature selection and outlier detection in high-dimensional datasets with mislabeled samples. If a low FDR was required to reduce the failure of subsequent experimental validation, then Ensemble was the best choice. If screening associated genes broadly or the prediction of a response was required, then enetLTS was the best choice. In terms of the mislabeled samples detected, enetLTS performed best.<br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--                 -->
+    <!----Second Stream --->
+    <!--                 -->
+    <h2>Contributed Talks Session 2b: Samples & Surveys</h2>
+    <h4><i>Room: Exhibition Hall</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive tg-wrap">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
+            <td>Robert Clark</td>
+            <td>Statistical Efficiency of Distance Sampling</td>
+            <td>14:10 - 14:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Distance sampling is a technique for estimating the abundance of animals or other objects in a region. Animals can be observed in a wide strip around the observer, while hopefully avoiding undercount by adjusting for detection rates which can decline with distance, provided that a set of strong model assumptions are justified. The impact of uncertainty about the detection model on variances of abundance estimates will be discussed. An expression for the asymptotic penalty factor is stated; it would typically be at least 2 but could be much higher if detection rates drop steeply. Various approaches are compared in simulations which incorporate clumping of animal locations. The take home message is that the significant penalty due to unknown detection parameters should be factored into decisions about the methodology and scale of abundance studies. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+            <td>Scott Foster</td>
+            <td>Being Random and Efficient for Transect-Based Ecological Surveys</td>
+            <td>14:30 - 14:50</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          In ecology, many sampling techniques rely on taking measurements along a transect; an example is the collection of underwater imagery from towed platforms. Despite this, methods to generate randomised survey designs have not hitherto been developed. We present an approach to generate a randomisation of transects using three steps: 1) calculate transect inclusion probabilities from user-specified cell inclusion probabilities, which allows particular environments to be sampled more often; 2) alter the cell and transect inclusion probabilities so that when transects are sampled the frequencies of sampling cells approximate the cell inclusion probabilities, and; 3) draw a spatially-balanced probability sample of transects. The resulting designs are for images constrained to lie on transects. The transect-based designs approximately respect the specified cell-inclusion probabilities whilst maintaining spatial-balance and still being straightforward to specify. We illustrate with application of the method to a towed-camera survey of deep-sea (500-2,000m depths) seamounts off Tasmania, Australia.  This was a challenging area to survey due to its complex topology, and uneven inclusion probabilities for the property of interest - the presence of a stony coral that forms large areas of biogenic reef and supports elevated biodiversity. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
+            <td>Omer Ozturk</td>
+            <td>Two-Stage Cluster Samples with Judgment Post-Stratification</td>
+            <td>14:50 - 15:10</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 3collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Estimation of the population mean or total in a clustered population can be done using two-stage cluster samples.  Here we present a design in which  cluster sample in each stage is constructed either using a judgement post-stratified (JPS) or a simle random sampling design. <p>The JPS sampling design is implemented with or without replacement, but the SRS sample is always  constructed without replacement. The paper presents design-unbiased estimators for the population mean and total, and the variances of these estimators. The efficiency improvement of the sampling designs compared with the SRS sampling design is investigated. The proposed estimator has a smaller variance than a two-stage SRS sample, but the level of improvement in efficiency depends on the intra-cluster correlation coefficient and the choices of the sampling designs in stage I and II of samplings. The paper also presents an approximate confidence interval for the population mean and total. For a fixed cost, the optimal sample sizes for stage I and stage II samples are constructed by maximizing the information content of the sample. The proposed sampling designs and estimators are applied to a two-stage sampling in an agricultural application. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+            <td>Dan Gladish</td>
+            <td>Optimal design for monitoring groundwater quality using geostatistical modelling</td>
+            <td>15:10 - 15:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Collecting groundwater data is a critical aspect for evaluating potential impact on the regional freshwater supply from resource development.  Assessing baseline water quality indicators in coal seam gas development areas is important to develop improved understanding of the groundwater system and inform managerial decisions and evaluate potential issues.  However, prediction of groundwater quality indicators is difficult, and often results in high uncertainty due to the sparse nature of available data.  Interest is therefore in determining future borehole locations for monitoring.  However, drilling boreholes for groundwater monitoring is expensive.  Therefore, determining optimal borehole locations that will reduce prediction uncertainty of groundwater quality indicators is useful.  In this study, we propose a method that utilizes kriging models to interpolate groundwater quality indicators in the aquifer.  We then combine the predicted values from these geostatistical models and use the Differential Evolution algorithm to determine optimal locations that would reduce spatial prediction uncertainty.  We apply our method to a portion of one of the Great Artisan Basin aquifers, specifically in the Namoi region in New South Wales, Australia.  Using this method, we outline 10 potential borehole locations for monitoring groundwater quality indicators that will minimize prediction uncertainty. <br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--                -->
+    <!----First Stream --->
+    <!--                -->
+    <h2>Contributed Talks Session 3a: Visualisation</h2>
+    <h4><i>Room: Vines</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive tg-wrap">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
+            <td>Thomas Lumley</td>
+            <td>Multiclass Hexbin Plots</td>
+            <td>16:00 - 16:20</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Hexagonal binning allows for the efficient display of very large data sets in graphs with many of the benefits of scatterplots. Hexbinning also supports weighted data. However, it does not allow the equivalent of plotting points in different colours to display a discrete third variable in a scatterplot.   I will present multiclass hexbins plots that partition each hex into six triangles for the display of multiple classes. Multiclass hexbins are a form of icon plot or glyph plot and show how coarsening/stylisation of information can still be beneficial.  I will also describe an R implementation in the 'hextri' package. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+            <td>Connor James Smith</td>
+            <td>Visualisation of model stability information for better prognosis based feature extraction</td>
+            <td>16:20 - 16:40</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Identifying key features and their regulatory relationships which underlie biological processes is the fundamental objective of much biological research; this includes the study of human diseases, with direct and important implications in the development of target therapeutics. We report new statistical approaches to identify various types of interpretable feature representations that are prognostically informative in classifying complex diseases.  We present new ways to utilize information from thousands of resamples in modern selection methods and repeated subsampling to identify what features best predict disease progression.  <p>The new method VIVID utilizes feature importance measures via pairwise feature comparisons to identify significant features.  We show how the selected features are repeatedly ranked higher and are more stable than other features.  Taking advantage of cluster analysis, we construct a set of nested feature groups and then select an optimal group of features from the candidate models. Different methods of visualisation for this resampled information are presented.  The computational speed and requirements of VIVID are discussed and how the method is able to deal with data where the number of features is continually increasing.<br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
+            <td>Kevin Wang</td>
+            <td>mcvis: A new framework for collinearity discovery, diagnostic and visualization</td>
+            <td>16:40 - 17:00</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 3collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          An essential step prior to any linear regression fitting is checking for collinearity. Without this step, hidden collinearity could compromise the statistical estimation, inference and interpretation of models. There exist several collinearity diagnostic statistics like the variance inflation factor and condition numbers in the literature. However, these collinearity measures have several limitations in practice. We present mcvis, a new framework that utilises conventional diagnostic statistics and sampling methods to better understand the cause of collinearity. We will present both simulated examples as well as real data examples to illustrate the novelty of mcvis. We will also introduce a bipartite graph visualisation that aids to reveal the variables causing collinearity beyond the usual diagnostics using correlation matrix. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+            <td>Petra Kuhnert</td>
+            <td>Vizumap: An R package for visualizing uncertainty in spatial data</td>
+            <td>15:10 - 15:30</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          The quantification, visualization and communication of uncertainty in spatial and spatio-temporal data is important for decision-making. It can highlight regions on a map that are poorly predicted and identify a need for further sampling. Uncertainty can also help to prioritise regions in terms of where to focus remediation efforts and allocate investment. It can also provide some assurance on where modelling efforts are working well and where it fails to trigger further investigation. Unfortunately, uncertainty is rarely included on maps that convey spatial or spatio-temporal estimates. <p>Approaches for visualizing uncertainty in spatial and spatio-temporal data will be presented. These include the bivariate choropleth map, map pixelation, glyph rotation and exceedance probability maps. Bivariate choropleth maps explore the “blending” of two colour schemes, one representing the estimate and a second representing the margin of error. The second approach uses map pixelation to convey uncertainty. The third approach uses a glyph to represent uncertainty and is what we refer to as glyph rotation. The final map based exploration of uncertainty is through exceedance probabilities. <p>Vizumap, is an R package that has been developed within Digiscape for visualising uncertainty in spatial and spatio-temporal data. To illustrate the methods, I use an example from the Great Barrier Reef, where sediment loads were quantified from a Bayesian Hierarchical Model (BHM) that assimilated estimates of sediment concentration and flow with modelled output from a catchment model spanning 21 years of daily outputs and 411 spatial locations.<br><br>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--                 -->
+    <!----Second Stream --->
+    <!--                 -->
+    <h2>Contributed Talks Session 3b: Genetics & Evolution</h2>
+    <h4><i>Room: Exhibition Hall</i></h4>
+    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <div class="table-responsive tg-wrap">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
+            <td>Conrad Burden</td>
+            <td>Estimation of mutation rate matrices from genomic site frequency data</td>
+            <td>16:00 - 16:20</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 1collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          We describe how the full 4x4 genomic mutation rate matrix can, in principle, be estimated from population site frequency data obtained by sampling independent neutrally evolving sites within a multiple alignment of genomes.  The method relies on calculated stationary sampling distributions of the diffusion limit of the mutation-drift Wright-Fisher model.  These distributions can be obtained for an arbitrary general, non-reversible rate matrix, to first order in the mutation rates, either from the forward Kolmogorov equation or from a coalescent argument.  The method will be applied to extracted sequence information from short autosomal introns of 196 Drosophila melanogaster individuals resulting in a site frequency spectrum of 218,942 nucleotides. <br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+            <td>Beata Sznajder</td>
+            <td>A multi-locus variable selection strategy for association mapping analysis</td>
+            <td>14:30 - 14:50</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 2collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          In high dimensional gene-trait association studies often the challenge is to detect true associations of the phenotype with a small subset of genetic markers from a high dimensional set of markers. Additional challenges stem from statistical non-independence of genetic markers (linkage disequilibrium), the presence of population structure and cryptic relatedness in the population of sampled individuals. <p>A common approach to genetic association and QTL mapping is to fit uni-variable linear mixed models testing each marker sequentially for associations with phenotype. Population structure is incorporated in the model and the false positive rate is usually controlled through adjustment of the usual 0.05 alpha level for multiple comparisons. <p>The major disadvantage of this approach is that it does not provide an adjustment for multiple markers or potential gene-gene interactions. Testing of these additional terms can become  problematic  due to the substantial increase in the number of associations requiring testing compared to the number of sampled observations (the so-called p >> n scenario). <p>We present an application of Bayesian variable selection for association mapping, implemented in the R package BayesVarSel. The approach of BayesVarSel employs model averaging to provide measures of association of phenotype with predictors (here genetic markers) across multi-variable models and includes functionality for scenarios where p >> n. Additionally this approach explicitly accounts for multiple markers acting simultaneously on the phenotype. We compare the results obtained from BayesVarSel with the traditional uni-variable mixed model methodology through an application of QTL mapping of resistance to net-form-net-blotch (NFNB) in double haploid populations of barley.<br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
+            <td>Anabel Forte</td>
+            <td>Variable selection for genome wide association analysis in plant breeding</td>
+            <td>16:40 - 17:00</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 3collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          In modern plant breeding comparative experiments, there is often a necessity to accurately determine the underlying genetic bases of industry driven phenotypic traits. With the availability of low cost high-throughput genotyping technology, this involves the mapping of quantitative trait loci (QTL) through a high dimensional genome wide association analysis pipeline. Within this pipeline, there may be several methods to reduce the dimension of the genetic marker set for further scrutiny.<p>In this work we present an efficient multi-step genome wide association analysis pipeline which incorporates a Bayesian variable selection strategy to identify putative QTL. In the initial step of this pipeline, a genomic prediction is conducted to obtain a complete set of marker effects. These effects are then used with a modification of a popular genome wide binning strategy to dramatically reduce the dimensionality of the marker set. With this reduced set of markers, a Bayesian variable selection is conducted to determine a small subset of markers linked to putative QTL. The complete genome wide analysis pipeline is illustrated with phenotypic and genotypic data obtained from a large Australian wheat panel. <p>However, the genetic structure of lines may not be the only source of variability when trying to understand an output. In this sense, multienvironmental trials poses a mayor challenge adding an underlaying, complex, correlation structure. <p> In this work we discuss a two steps genome wide association analysis which makes use of a Bayesian variable selection strategy to determine markers significantly linked to a supposed QTL. The method is illustrated with a large Australian wheat panel.<br><br>
+          </td>
+          </tr>
+          <tr class="clickable" data-toggle="collapse" id="4" data-target=".4collapsed">
+            <td>Julian Taylor</td>
+            <td>Genetic dissection of phytophthora root rot resistance in chickpea using modern statistical methods</td>
+            <td>17:00 - 17:20</td>
+            <td></td>
+          </tr>
+          <tr class="out budgets 4collapsed collapse multi-collapse" aria-expanded="false" style="height: 0px;">
+          <td colspan="4">
+          Phytophthora root rot (PRR) is a major soil borne disease that has the potential to significantly limit the yield potential of chickpea across the northern growing region of Australia. Although sources of resistance for PRR have been identified, the molecular basis of this resistance still requires quantification.  This research discusses the statistical modelling approaches used to associate regions of the chickpea genome to PRR disease resistance traits obtained from multiple Recombinant Inbred (RIL) chickpea populations grown in varying field and glasshouse hydroponics experiments. Initially, the talk focusses on complex phenotypic and genetic analysis approaches used to detect quantitative trait loci (QTL) of plant survival traits across multiple field environments. The multi-environment analyses are then extended to include a plant survival trait derived from binary longitudinal measurements obtained from a high-throughput hydroponics screening system. The results from these analyses indicate PRR disease resistance in the RIL populations is strongly genetically related between field and controlled environment conditions. The results of this work have been recently published in two high impact international plant research journals. <br><br>
           </td>
           </tr>
         </tbody>
