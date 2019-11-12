@@ -877,7 +877,7 @@ description = ""
           <tr class="clickable" data-toggle="collapse" id="54" data-target=".54collapsed">
             <td>Petra Kuhnert</td>
             <td>Vizumap: An R package for visualizing uncertainty in spatial data</td>
-            <td>15:10 - 15:30</td>
+            <td>17:00 - 17:20</td>
             <td></td>
           </tr>
           <tr class="out budgets 54collapsed collapse multi-collapse14" aria-expanded="false" style="height: 0px;">
@@ -1033,7 +1033,7 @@ description = ""
           </tr>
           <tr class="clickable" data-toggle="collapse" id="63" data-target=".63collapsed">
             <td>Joanne De Faveri</td>
-            <td>Copula models for ecological community data</td>
+            <td>Statistical Methods for data from High Throughput Phenotyping in Agriculture</td>
             <td>12:00 - 13:00</td>
             <td></td>
           </tr>
