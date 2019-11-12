@@ -1022,7 +1022,7 @@ description = ""
         <tbody>
           <tr class="clickable" data-toggle="collapse" id="62" data-target=".62collapsed">
             <td>Daniela Bustos-Korts</td>
-            <td>Opportunities from combining statistical and crop growth models to predict Genotype × Environment in</td>
+            <td>Opportunities from combining statistical and crop growth models to predict Genotype × Environment interactions over time</td>
             <td>11:00 - 12:00</td>
             <td></td>
           </tr>
