@@ -52,7 +52,7 @@ Also, for the climbing equipment, we have:
 Cost: $20 pp, including shoes hire fees and transport  
 Contact person: [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)
 
-## Wine tasting in the Fleurieu Peninsula
+## Wine tasting in the Fleurieu Peninsula (<span style="color: red;"><b>Tour full</b></span>)
 
 ##### 12:45 - 6:30pm
 
