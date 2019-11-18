@@ -294,7 +294,7 @@ description = "Schedule for the conference and link to abstracts"
     </tr>
     <tr>
       <td rowspan="2">12:40-13:00</td>
-      <td  class="tg-c3ow" colspan="2" rowspan="3">Lunch <br>(12:40-13:30)<br><i>Ferguson Room</i><br></td>
+      <td  class="tg-c3ow" colspan="2" rowspan="3">Lunch <br>(12:40-13:30)<br><i>Exhibition Hall</i><br></td>
     </tr>
     <tr>
     </tr>
