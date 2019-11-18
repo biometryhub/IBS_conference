@@ -30,3 +30,4 @@ A flyer with information about the competition can be found [here](https://ausbi
 
 For more details, contact [Petra Kuhnert (Petra.Kuhnert@data61.csiro.au)](mailto:Petra.Kuhnert@data61.csiro.au)
 
+### Unfortunately no entries were received that were eligible for a prize.
