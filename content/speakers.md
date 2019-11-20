@@ -57,10 +57,10 @@ She enjoys the collaborative side of statistics in agriculture and applying new 
 <br>
 
 ## [Max  Moldovan](https://www.sahmriresearch.org/our-research/themes/infection-immunity/our-team/dr-max-moldovan) <img src="/img/speakers/Moldovan.jpg", class="responsive-speaker">
-#### Registry of Older South Australians, Australia
+#### Registry of Senior Australians, Australia
 Max obtained his PhD in computational statistics from the University of Melbourne in 2008, with his doctoral thesis dedicated to the design and implementation of novel exact inference procedures. Being passionate about identifying hidden functional patterns contained in empirical datasets, Max is experienced in applying statistical learning and network analyses to -omics and medical/healthcare records datasets.
 
-Max is currently employed as a Senior Data Scientist by the Registry of Older South Australians (ROSA), focusing on the analysis of large complex empirical datasets possessed by ROSA and the partners.
+Max is currently employed as a Senior Data Scientist by the Registry of Senior Australians (ROSA), focusing on the analysis of large complex empirical datasets possessed by ROSA and the partners.
 
 
 <br>
