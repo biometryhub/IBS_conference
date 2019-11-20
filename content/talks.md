@@ -13,7 +13,7 @@ description = ""
   <div id="tuesday" class="tab-pane fade in active">
     <h2>Invited Speakers: Medical</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse1" aria-expanded="false">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse1" aria-expanded="false">Expand All</a>
     <div class="table-responsive">
       <table class="abstract-table">
         <thead>
@@ -38,7 +38,7 @@ description = ""
           </tr>
           <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
             <td>Max Moldovan</td>
-            <td>Pursuing the cancer-schizophrenia disassociation paradox: genomes, phenomes and intimate conversations</td>
+            <td>Pursuing the cancer-schizophrenia disassociation paradox: genomes, phenomes and intimate conversations with inconclusive evidence</td>
             <td>13:30 - 14:30</td>
             <td></td>
           </tr>
@@ -49,13 +49,25 @@ description = ""
           </tr>
           <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
             <td>Richard Cook</td>
-            <td>Missing outcomes in stepped-wedge trials</td>
+            <td>Dependent selection and observation schemes in life history studies</td>
             <td>11:40 - 12:00</td>
             <td></td>
           </tr>
           <tr class="out budgets 3collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-          TBA<br><br>
+          Multistate models provide a powerful framework for the analysis of life history processes when the goal is to 
+          characterize transition intensities, transition probabilities, state occupancy probabilities, and covariate 
+          effects thereon.  Samples of individuals experiencing such processes are often constructed based on response-dependent
+          selection schemes. Moreover, prospective data are often only available at random visit times realized over a finite 
+          period of follow-up. We formulate a joint multistate model for the life history, selection, visit,
+          and loss to followup processes.  This joint model is helpful when discussing the independence conditions necessary 
+          to justify the use of standard likelihoods involving the life history model alone, and provides a basis for analyses 
+          that accommodate dependence.  We consider settings with disease-driven visits and routinely scheduled visits and 
+          develop likelihoods that accommodate partial information on the types of visits.  Simulation studies suggest that 
+          suitably constructed joint models can yield consistent estimates of parameters of interest even under dependent 
+          visit processes providing the models are correctly specified, but identifiability and estimability issues can arise. 
+          An application is given to a cohort of individuals attending a rheumatology clinic where interest lies 
+          in progression of joint damage. This is joint work with Jerry Lawless. <br><br>
           </td>
           </tr>
         </tbody>
@@ -66,7 +78,7 @@ description = ""
     <!--                -->
     <h2>Contributed Talks Session 1a: Biostatistics I</h2>
     <h4><i>Room: The Gallery</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse2" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse2" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -141,7 +153,7 @@ description = ""
     <!--                 -->
     <h2>Contributed Talks Session 1b: Modelling the Environment</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse3" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse3" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -216,7 +228,7 @@ description = ""
     <!--                -->
   <h2>Contributed Talks Session 2a: Imputation</h2>
     <h4><i>Room: The Gallery</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse4" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse4" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive  tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -258,7 +270,7 @@ description = ""
     <!--                 -->
     <h2>Contributed Talks Session 2b: Experimental Design</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse5" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse5" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive  tg-wrap">
       <table class="abstract-table">
       <thead>
@@ -315,7 +327,7 @@ description = ""
     <!--                -->
     <h2>Contributed Talks Session 1a: Methods I</h2>
     <h4><i>Room: Vines</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse6" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse6" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -390,7 +402,7 @@ description = ""
     <!--                 -->
     <h2>Contributed Talks Session 1b: Mixed Models in Agriculture</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse7" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse7" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -462,7 +474,7 @@ description = ""
     </div>
     <h2>Invited Speakers: Environmental</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse8" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse8" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive">
       <table class="abstract-table">
         <thead>
@@ -509,7 +521,7 @@ description = ""
     <!--                -->
     <h2>Contributed Talks Session 1a: Methods II</h2>
     <h4><i>Room: Vines</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse9" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse9" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -587,7 +599,7 @@ description = ""
     <!--                 -->
     <h2>Contributed Talks Session 1b: Collaboration</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse10" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse10" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -648,7 +660,7 @@ description = ""
     </div>
     <h2>Invited Speakers: Methods</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse11" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse11" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive">
       <table class="abstract-table">
         <thead>
@@ -690,7 +702,7 @@ description = ""
     <!--                -->
     <h2>Contributed Talks Session 2a: Biostatistics II</h2>
     <h4><i>Room: Vines</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse12" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse12" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -754,7 +766,7 @@ description = ""
     <!--                 -->
     <h2>Contributed Talks Session 2b: Samples & Surveys</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse13" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse13" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -818,7 +830,7 @@ description = ""
     <!--                -->
     <h2>Contributed Talks Session 3a: Visualisation</h2>
     <h4><i>Room: Vines</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse14" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse14" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -882,7 +894,7 @@ description = ""
     <!--                 -->
     <h2>Contributed Talks Session 3b: Genetics & Evolution</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse15" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse15" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive tg-wrap">
       <table class="abstract-table">
         <thead>
@@ -947,7 +959,7 @@ description = ""
     <!-- Fri -->
     <h2>JABES/Biometrics Showcase</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse16" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse16" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive  tg-wrap">
       <table class="abstract-table">
       <thead>
@@ -997,7 +1009,7 @@ description = ""
     </div>
     <h2>Invited Speakers: Agriculture</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
-    <a class="btn btn-template-main btn-sm" type="button" data-toggle="collapse" data-target=".multi-collapse17" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
+    <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse17" aria-expanded="false" aria-controls="1collapsed 2collapsed 3collapsed">Expand All</a>
     <div class="table-responsive">
       <table class="abstract-table">
         <thead>
