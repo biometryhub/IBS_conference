@@ -175,7 +175,7 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 
 <td>Chris Brien and Sam Rogers</td>
 <td>Identifying, randomizing, canonically analyzing and formulating mixed models for designs for comparative experiments using R</td>
-<td><a href="https://www.google.com.au/maps/dir//-34.9688048,138.6388042/@-34.9680507,138.6387428,16.19z" target=_blank>University of Adelaide Waite Campus<br>Plant Research Centre Auditorium</a></td>
+<td><a href="https://www.google.com.au/maps/dir//-34.9688048,138.6388042/@-34.9680507,138.6387428,16.19z" target=_blank>University of Adelaide Waite Campus<br>Plant Research Centre, Downstairs Meeting Room 1</a></td>
 <td><a href=""></a></td>
 </tr>
 
@@ -208,7 +208,7 @@ The course covers those basic concepts in experimental design that are necessary
 
 <td>Peter Kasprzak and Kathy Ruggiero</td>
 <td>Shiny App Development</td>
-<td><a href="https://www.google.com.au/maps/dir//-34.9680263,138.6351788/@-34.9671704,138.6360118,16.34z" target=_blank>University of Adelaide Waite Campus<br>Biometry Hub Meeting room<br>Room 204 Waite Building</a></td>
+<td><a href="https://www.google.com.au/maps/dir//-34.9688048,138.6388042/@-34.9680507,138.6387428,16.19z" target=_blank>University of Adelaide Waite Campus<br>Plant Research Centre, Downstairs Meeting Room 2</a></td>
 <td><a href=""></a></td>
 </tr>
 
