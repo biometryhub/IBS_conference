@@ -7,7 +7,7 @@ description = "Details of social events"
 
 ## Welcome Reception
 
-The conference reception will be held from 7pm on Monday 2nd December 2019 in a venue to be announced.
+The conference reception will be held from 7pm on Monday 2nd December 2019 at the National Wine Centre (the main conference venue).
 
 
 ## Conference Dinner
@@ -24,7 +24,7 @@ At The Adelaide Hills Convention Centre their 5 Star Chefs select the very best 
 
 # Social Outings
 
-All to be held Wednesday afternoon.
+#### All to be held Wednesday afternoon as per the program.
 
 ## Sir Ronald Fisher in Adelaide
 ##### 1:30 – 4:30pm
