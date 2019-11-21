@@ -82,15 +82,34 @@ Contact person: [Mr Peter Kasprzak](mailto:peter.kasprzak@adelaide.edu.au)
 
 ## Young Statisticians Event
 
+### Two intriguing games
 
-
-<img width="100%" src="../img/EH_GAME_WEB_BANNER_DEADLY_DISCOVERY.jpg" alt="">
-
-
-#### Rescue a kidnapped scientist before his secret deadly formula is exploited.
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+      <br><img width="100%" src="../img/EH_GAME_WEB_BANNER_DEADLY_DISCOVERY.jpg" alt="" style="padding-bottom: 6px">
+      <h4>Rescue a kidnapped scientist before his secret deadly formula is exploited.</h4>
 It’s 1941 and Australian scientist Howard Florey has been running clinical trials for penicillin. During his trials he created a penicillin-resistant bacteria. Florey has now been kidnapped and his deadly formula is at risk of falling into the wrong hands.
-
+<br><br>
 Enter his home, find the formula and destroy it before it’s too late.
+    </div>
+    <div class="col-sm-6">
+      <br><img width="100%" src="../img/EH-Local-Game-Hero-Great-White-Killer.jpg" alt="" style="padding-bottom: 6px">
+      <br>
+<h4>Locked in a shark cage on the ocean floor – can you escape the Great White Killer?</h4>
+A dive crew has disappeared off the coast of Port Lincoln, and Captain Rocks claims they were taken by Great White Sharks. There are rumours that he and his crew were on the hunt for lost treasure, and you and your team of detectives think something smells fishy…
+<br><br>
+Under the guise of being his new crew, you are taking a cage dive with Captain Rocks to investigate. Are there really killer sharks on the loose, or is it something more sinister? Escape the shark cage and solve the case before the sharks come circling…
+    </div>
+  </div>
+</div>
 
-Cost: Free for Young Statisticians (Sponsored by the [Biometry Hub](http://ua.edu.au/biometryhub))
-Contact person: [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)
+
+<br><br>
+<b>Cost:</b> Free for Young Statisticians (Sponsored by the [Biometry Hub](http://ua.edu.au/biometryhub)). Includes welcome drink on arrival.
+
+<b>Contact person:</b> [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)
+
+<b>Date and Time:</b> Tuesday 3rd December, 7:30 - 9:30pm
+
+<b>Location:</b> Leaving from the national Wine Centre at 7:00pm after the Poster session, we will walk to the [Escape Hunt Venue](https://escapehunt.com/au/adelaide/find-us/).
