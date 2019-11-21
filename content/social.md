@@ -24,6 +24,8 @@ At The Adelaide Hills Convention Centre their 5 Star Chefs select the very best 
 
 # Social Outings
 
+All to be held Wednesday afternoon.
+
 ## Sir Ronald Fisher in Adelaide
 ##### 1:30 – 4:30pm
 
@@ -80,6 +82,8 @@ Contact person: [Mr Peter Kasprzak](mailto:peter.kasprzak@adelaide.edu.au)
 
 ## Young Statisticians Event
 
+
+
 <img width="100%" src="../img/EH_GAME_WEB_BANNER_DEADLY_DISCOVERY.jpg" alt="">
 
 
@@ -88,5 +92,5 @@ It’s 1941 and Australian scientist Howard Florey has been running clinical tri
 
 Enter his home, find the formula and destroy it before it’s too late.
 
-Cost: Free for Young Statisticians (Sponsored by the Biometry Hub)
+Cost: Free for Young Statisticians (Sponsored by the [Biometry Hub](http://ua.edu.au/biometryhub))
 Contact person: [Mrs Wendy Li](mailto:wendy.li@adelaide.edu.au)
