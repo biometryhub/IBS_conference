@@ -48,8 +48,8 @@ description = "Schedule for the conference and link to abstracts"
       <br><a href="https://www.adelaide.edu.au/campuses/mapscurrent/north_terrace.pdf" style="color: #0a4719;" target=_blank>University of Adelaide North Tce Campus</a></td>
       <td rowspan="6" class="tg-elvq"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a>
       <br><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" style="color: #0a4719;" target=_blank>University of Adelaide Waite Campus</a></td>
-      <td class="tg-73pu"><b>Methods 1</b><br>(<i>Vines Room</i>)</td>
-      <td class="tg-6i83"><b>Mixed Models in Agriculture</b><br>(<i>Exhibition Hall</i>)</td>
+      <td class="tg-73pu"><b>Methods 1</b><br> Chair: Chris Triggs<br>(<i>Vines Room</i>)</td>
+      <td class="tg-6i83"><b>Mixed Models in Agriculture</b><br>Chair: Kaye Basford<br>(<i>Exhibition Hall</i>)</td>
       <td class="tg-73pu"><b>Methods 2</b><br>(<i>Vines Room</i>)</td>
       <td class="tg-6i83"><b>Collaboration</b><br>(<i>Exhibition Hall</i>)</td>
       <td class="tg-sr28" rowspan="2">Dan Pagendam</td>
@@ -283,7 +283,7 @@ description = "Schedule for the conference and link to abstracts"
     <tr>
       <td>19:30-Late</td>
       <td></td>
-      <td class="tg-og4q" colspan="2"><a href="/social/#young-statisticians-event" style="color: #0a4719;"><b>Young Statisticians Event</b></a><br>(19:30-Late)</td>
+      <td class="tg-og4q" colspan="2"><a href="/social/#young-statisticians-event" style="color: #0a4719;"><b>Young Statisticians Event</b></a><br>(19:30 - 21:30)</td>
       <td></td>
       <td></td>
       <td colspan="2" class="tg-og4q"><a href="/social/" style="color: #0a4719;"><b>Conference dinner and awards session</b></a><br>(19:30-Late)</td>
