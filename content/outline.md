@@ -96,8 +96,8 @@ description = "Schedule for the conference and link to abstracts"
     </tr>
     <tr>
       <td rowspan="5">11:00-12:00</td>
-      <td class="tg-elvq" rowspan="7"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a></td>
-      <td class="tg-elvq" rowspan="7"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a></td>
+      <td class="tg-elvq" rowspan="7"></td>
+      <td class="tg-elvq" rowspan="7"></td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(11:00-12:40)</td>
       <td  class="tg-rbmo" colspan="2" rowspan="5"><b>Plenary Sessions</b> <br>(11:00-13:00)<br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b></b> <br>(Environmental I) (11:00-12:00) Chris Wikle<br></td>
       <td  class="tg-rbmo" colspan="2" rowspan="5"><b>Plenary Sessions</b> <br>(11:00-13:00)<br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b></b> <br>(Methods I) (11:00-12:00) Claudia Czado<br></td>
@@ -149,8 +149,8 @@ description = "Schedule for the conference and link to abstracts"
     </tr>
     <tr>
       <td>13:30-13:45</td>
-      <td class="tg-elvq" rowspan="9"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a></td>
-      <td class="tg-elvq" rowspan="9"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a></td>
+      <td class="tg-elvq" rowspan="9"></td>
+      <td class="tg-elvq" rowspan="9"></td>
       <td  class="tg-rbmo" colspan="2" rowspan="6"><b>Plenary Sessions</b><br>Chair: Jessica Kasza <br>(13:30-15:30)<br><br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b><br>Max Moldovan<br><br>(Medical II)<br>(13:30-14:30)</td>
       <td class="tg-og4q" colspan="2" rowspan="16"><a href="/social/" style="color: #0a4719;"><b>Excursions</b></a> <br>(13:30-17:30)</td>
     </tr>
@@ -201,8 +201,8 @@ description = "Schedule for the conference and link to abstracts"
     </tr>
     <tr>
       <td rowspan="5">16:00-17:00</td>
-      <td class="tg-elvq" rowspan="6"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a></td>
-      <td class="tg-elvq" rowspan="6"><a href="/workshops/" style="color: #0a4719;"><b>Workshops</b></a></td>
+      <td class="tg-elvq" rowspan="6"></td>
+      <td class="tg-elvq" rowspan="6"></td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(16:00-17:00)</td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(16:00-17:20)</td>
       <td></td>
