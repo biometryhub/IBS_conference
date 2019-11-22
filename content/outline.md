@@ -40,7 +40,7 @@ description = "Schedule for the conference and link to abstracts"
       <td  class="tg-rbmo" colspan="2" rowspan="3"><b>Welcome to Country</b><br>Lynette Crocker<br>(8:50 - 9:10)<br><br><b>Opening address</b> <br>(9:10 - 9:30)<br><br>Room: <i>Exhibition Hall</i><br></td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(8:50-10:30)</td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(8:50-10:30)</td>
-      <td class="tg-sr28"><b>JABES/Biometrics Showcase</b><br>Room: <i>Exhibition Hall</i></td>
+      <td class="tg-sr28"><b>JABES/Biometrics Showcase</b><br>Chair: Alan Welsh<br>Room: <i>Exhibition Hall</i></td>
     </tr>
     <tr>
       <td rowspan="2">9:00-9:30</td>
@@ -50,8 +50,8 @@ description = "Schedule for the conference and link to abstracts"
       <br><a href="https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf" style="color: #0a4719;" target=_blank>University of Adelaide Waite Campus</a></td>
       <td class="tg-73pu"><b>Methods 1</b><br> Chair: Chris Triggs<br>(<i>Vines Room</i>)</td>
       <td class="tg-6i83"><b>Mixed Models in Agriculture</b><br>Chair: Kaye Basford<br>(<i>Exhibition Hall</i>)</td>
-      <td class="tg-73pu"><b>Methods 2</b><br>(<i>Vines Room</i>)</td>
-      <td class="tg-6i83"><b>Collaboration</b><br>(<i>Exhibition Hall</i>)</td>
+      <td class="tg-73pu"><b>Methods 2</b><br>Chair: Francis Hui<br>(<i>Vines Room</i>)</td>
+      <td class="tg-6i83"><b>Collaboration</b><br>Chair: Emi Tanaka<br>(<i>Exhibition Hall</i>)</td>
       <td class="tg-sr28" rowspan="2">Dan Pagendam</td>
     </tr>
     <tr>
@@ -99,9 +99,9 @@ description = "Schedule for the conference and link to abstracts"
       <td class="tg-elvq" rowspan="7"></td>
       <td class="tg-elvq" rowspan="7"></td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(11:00-12:40)</td>
-      <td  class="tg-rbmo" colspan="2" rowspan="5"><b>Plenary Sessions</b> <br>(11:00-13:00)<br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b></b> <br>(Environmental I) (11:00-12:00) Chris Wikle<br></td>
-      <td  class="tg-rbmo" colspan="2" rowspan="5"><b>Plenary Sessions</b> <br>(11:00-13:00)<br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b></b> <br>(Methods I) (11:00-12:00) Claudia Czado<br></td>
-      <td  class="tg-rbmo" rowspan="5"><b>Plenary Sessions</b> <br>(11:00-13:00)<br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b> <br>(Agricultural I) (11:00-12:00) Daniela Bustos-Korts<br></td>
+      <td  class="tg-rbmo" colspan="2" rowspan="5"><b>Plenary Sessions</b> <br>Chair: Petra Kuhnert<br>(11:00-13:00)<br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b><br>Chris Wikle <br><br>(Environmental I)<br>(11:00-12:00)<br> <br></td>
+      <td  class="tg-rbmo" colspan="2" rowspan="5"><b>Plenary Sessions</b> <br>Chair: Samuel Muller<br>(11:00-13:00)<br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b><br>Claudia Czado<br><br>(Methods I)<br>(11:00-12:00)</td>
+      <td  class="tg-rbmo" rowspan="5"><b>Plenary Sessions</b> <br>Chair: Vanessa Cave<br>(11:00-13:00)<br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b><br>Daniela Bustos-Korts<br><br>(Agricultural I)<br>(11:00-12:00)</td>
     </tr>
     <tr>
       <td class="tg-73pu"><b>Biostatistics 1</b><br>Chair: Brenton Clarke<br>(<i>The Gallery</i>)</td>
@@ -123,9 +123,9 @@ description = "Schedule for the conference and link to abstracts"
       <td rowspan="2">12:00-12:30</td>
       <td class="tg-73pu">Thomas Sullivan <br>(12:00-12:20)</td>
       <td class="tg-6i83">Emy Guilbault <br>(12:00-12:20)</td>
-      <td  class="tg-rbmo"colspan="2" rowspan="5"><b>Invited Session</b> <br>(Environmental II) (12:00-13:00) Blair Robertson</td>
-      <td  class="tg-rbmo"colspan="2" rowspan="5"><b>Invited Session</b> <br>(Methods II) (12:00-13:00) Marti Anderson</td>
-      <td  class="tg-rbmo"rowspan="5"><b>Invited Session</b> <br>(Agricutlural II)<br> (12:00-13:00) Joanne De Faveri</td>
+      <td  class="tg-rbmo"colspan="2" rowspan="5"><b>Invited Session</b><br> Blair Robertson<br><br>(Environmental II)<br>(12:00-13:00)</td>
+      <td  class="tg-rbmo"colspan="2" rowspan="5"><b>Invited Session</b><br>Marti Anderson<br><br>(Methods II)<br>(12:00-13:00)</td>
+      <td  class="tg-rbmo"rowspan="5"><b>Invited Session</b><br>Joanne De Faveri<br><br>(Agricutlural II)<br>(12:00-13:00)</td>
     </tr>
     <tr>
       <td class="tg-73pu" rowspan="2">Graham Hepworth <br>(12:20-12:40)</td>
@@ -143,8 +143,8 @@ description = "Schedule for the conference and link to abstracts"
     </tr>
     <tr>
       <td>13:00-13:30</td>
-      <td class="tg-c3ow" colspan="2">Packed Lunch</td>
-      <td  class="tg-c3ow" colspan="2" rowspan="4">Lunch <br>(<i>Ferguson Room</i>)<br><br>AGM <br>(13:00-14:10)</td>
+      <td class="tg-c3ow" colspan="2">Packed Lunch<br>(<i>Collect from Exhibition Hall</i>)</td>
+      <td  class="tg-c3ow" colspan="2" rowspan="4">Lunch <br>(<i>Exhibition Hall</i>)<br><br>AGM <br>(<i>Ferguson Room</i>)<br>(13:00-14:10)</td>
       <td  class="tg-c3ow" rowspan="2"><b>Conference Close</b> <br>(13:00-13:45)</td>
     </tr>
     <tr>
@@ -156,7 +156,7 @@ description = "Schedule for the conference and link to abstracts"
     </tr>
     <tr>
       <td>13:45-14:00</td>
-      <td class="tg-qs5d" rowspan="5">Lunch<br>(13:45-14:30) <br><i>Ferguson Room</i></td>
+      <td class="tg-c3ow" rowspan="5">Lunch<br>(13:45-14:30) <br>(<i>Ferguson Room</i>)</td>
     </tr>
     <tr>
       <td>14:00-14:10</td>
