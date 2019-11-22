@@ -144,44 +144,37 @@ description = "Schedule for the conference and link to abstracts"
     <tr>
       <td>13:00-13:30</td>
       <td class="tg-c3ow" colspan="2">Packed Lunch<br>(<i>Collect from Exhibition Hall</i>)</td>
-      <td  class="tg-c3ow" colspan="2" rowspan="4">Lunch <br>(<i>Exhibition Hall</i>)<br><br>AGM <br>(<i>Ferguson Room</i>)<br>(13:00-14:10)</td>
-      <td  class="tg-c3ow" rowspan="2"><b>Conference Close</b> <br>(13:00-13:45)</td>
+      <td  class="tg-c3ow" colspan="2" rowspan="2">Lunch <br>(<i>Exhibition Hall</i>)<br><br>AGM <br>(<i>Ferguson Room</i>)<br>(13:00-14:10)</td>
+      <td  class="tg-c3ow"><b>Conference Close</b> <br>(13:00-13:30)</td>
     </tr>
     <tr>
-      <td>13:30-13:45</td>
-      <td class="tg-elvq" rowspan="9"></td>
-      <td class="tg-elvq" rowspan="9"></td>
-      <td  class="tg-rbmo" colspan="2" rowspan="6"><b>Plenary Sessions</b><br>Chair: Jessica Kasza <br>(13:30-15:30)<br><br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b><br>Max Moldovan<br><br>(Medical II)<br>(13:30-14:30)</td>
-      <td class="tg-og4q" colspan="2" rowspan="16"><a href="/social/" style="color: #0a4719;"><b>Excursions</b></a> <br>(13:30-17:30)</td>
-    </tr>
-    <tr>
-      <td>13:45-14:00</td>
-      <td class="tg-c3ow" rowspan="5">Lunch<br>(13:45-14:30) <br>(<i>Ferguson Room</i>)</td>
-    </tr>
-    <tr>
-      <td>14:00-14:10</td>
+      <td>13:30-14:10</td>
+      <td class="tg-elvq" rowspan="7"></td>
+      <td class="tg-elvq" rowspan="7"></td>
+      <td  class="tg-rbmo" colspan="2" rowspan="4"><b>Plenary Sessions</b><br>Chair: Jessica Kasza <br>(13:30-15:30)<br><br>Room: <i>Exhibition Hall</i><br><br><b>Invited Session</b><br>Max Moldovan<br><br>(Medical II)<br>(13:30-14:30)</td>
+      <td class="tg-og4q" colspan="2" rowspan="14"><a href="/social/" style="color: #0a4719;"><b>Excursions</b></a> <br>(13:30-17:30)</td>
+      <td class="tg-c3ow" rowspan="4">Lunch<br>(13:30-14:30) <br>(<i>Ferguson Room</i>)</td>
     </tr>
     <tr>
       <td rowspan="3">14:10-14:30</td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(14:10-15:30)</td>
     </tr>
     <tr>
-      <td class="tg-73pu"><b>Biostatistics 2</b> <br>(<i>Vines Room</i>)</td>
-      <td class="tg-6i83"><b>Samples &amp; Surveys</b> <br>(<i>Exhibition Hall</i>)</td>
+      <td class="tg-73pu"><b>Biostatistics 2</b><br>Chair: Hans Hockey<br>(<i>Vines Room</i>)</td>
+      <td class="tg-6i83"><b>Samples &amp; Surveys</b><br>Chair: Lousie McMillan<br>(<i>Exhibition Hall</i>)</td>
     </tr>
     <tr>
       <td class="tg-73pu">Alice Richardson <br>(14:10-14:30)</td>
       <td class="tg-6i83">Robert Clark <br>(14:10-14:30)</td>
     </tr>
     <tr>
-      <td>14:30-15:00</td>
+      <td rowspan="2">14:30-15:00</td>
       <td  class="tg-rbmo" colspan="2" rowspan="3"><b>Invited Session</b><br>Richard Cook <br><br>(Medical III)<br> (14:30-15:30)<br><br>Room: <i>Exhibition Hall</i></td>
       <td class="tg-73pu">Tugba Akkaya-Hocagil <br>(14:30-14:50)</td>
       <td class="tg-6i83">Scott Foster <br>(14:30-14:50)</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td class="tg-73pu">Olivier Thas <br>(14:50-15:10)</td>
       <td class="tg-6i83">Omer Ozturk <br>(14:50-15:10)</td>
       <td></td>
@@ -209,8 +202,8 @@ description = "Schedule for the conference and link to abstracts"
     </tr>
     <tr>
       <td colspan="2" class="tg-6i83"><b>Experimental Design</b><br>Chair: Kathy Ruggiero <br>(<i>Exhibition Hall</i>)</td>
-      <td class="tg-73pu"><b>Visualisation</b> <br>(<i>Vines Room</i>)</td>
-      <td class="tg-6i83"><b>Genetics &amp; Evolution</b> <br>(<i>Exhibition Hall</i>)</td>
+      <td class="tg-73pu"><b>Visualisation</b><br>Chair: Alice Richardson<br>(<i>Vines Room</i>)</td>
+      <td class="tg-6i83"><b>Genetics &amp; Evolution</b><br>Chair: Esther Meenken<br>(<i>Exhibition Hall</i>)</td>
       <td></td>
     </tr>
     <tr>
@@ -264,16 +257,13 @@ description = "Schedule for the conference and link to abstracts"
       <td>Registration desk open</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="2" rowspan="2">Busses depart 6:45pm from the Wine Centre</td>
       <td></td>
     </tr>
     <tr>
       <td>19:00-19:30</td>
       <td></td>
       <td class="tg-og4q" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Welcome Reception</b></a><br>National Wine Center</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>

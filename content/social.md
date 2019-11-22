@@ -12,7 +12,11 @@ The conference reception will be held from 7pm on Monday 2nd December 2019 at th
 
 ## Conference Dinner
 
-The Biometrics by the Botanic Gardens conference dinner will be held on **Thursday 5th December 2019** from **7:30pm** at the [Adelaide Hills Convention Centre](https://www.ahconventions.com.au/), in Hahndorf. Further details about transport to the venue will be provided closer to the time.
+The Biometrics by the Botanic Gardens conference dinner will be held on **Thursday 5th December 2019** from **7:30pm** at the [Adelaide Hills Convention Centre](https://www.ahconventions.com.au/), in Hahndorf.
+
+#### Transport
+
+Buses will leave the National Wine Centre by approximately 7pm on Thursday evening. The dinner venue is about a 30 minute drive into the Adelaide Hills. There will be two possible return times leaving the Dinner venue at 10:30pm and 11:30pm, returning to the National Wine Centre.
 
 ##### About the venue
 
