@@ -16,7 +16,7 @@ The Biometrics by the Botanic Gardens conference dinner will be held on **Thursd
 
 #### Transport
 
-Buses will leave the National Wine Centre by approximately 7pm on Thursday evening. The dinner venue is about a 30 minute drive into the Adelaide Hills. There will be two possible return times leaving the Dinner venue at 10:30pm and 11:30pm, returning to the National Wine Centre.
+Busses will leave the National Wine Centre by approximately 7pm on Thursday evening. The dinner venue is about a 30 minute drive into the Adelaide Hills. There will be two possible return times leaving the Dinner venue at 10:30pm and 11:30pm, returning to the National Wine Centre.
 
 ##### About the venue
 
