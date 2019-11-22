@@ -87,7 +87,7 @@ description = "Schedule for the conference and link to abstracts"
       <td class="tg-73pu">Michael Stewart <br>(10:10-10:30)</td>
       <td class="tg-6i83">Michael Mumford <br>(10:10-10:30)</td>
       <td class="tg-73pu">Warren Muller <br>(10:10-10:30)</td>
-      <td class="tg-6i83"></td>
+      <td class="tg-6i83">Peter Kasprzak<br>(10:10-10:30)</td>
     </tr>
     <tr>
       <td>10:30-11:00</td>
