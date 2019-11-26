@@ -50,7 +50,7 @@ description = ""
           <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
             <td>Richard Cook</td>
             <td>Dependent selection and observation schemes in life history studies</td>
-            <td>11:40 - 12:00</td>
+            <td>14:30 - 15:30</td>
             <td></td>
           </tr>
           <tr class="out budgets 3collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
@@ -115,7 +115,7 @@ description = ""
           <tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
             <td>Nidhi Menon</td>
             <td>The effect of number of clusters and cluster sizes on multiple imputation in multilevel models</td>
-            <td>16:00 - 16:20</td>
+            <td>11:40 - 12:00</td>
             <td></td>
           </tr>
           <tr class="out budgets 14collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
@@ -126,7 +126,7 @@ description = ""
           <tr class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed">
             <td>Thomas Sullivan</td>
             <td>Multiple imputation for missing outcome data in trials involving independent and paired observations</td>
-            <td>16:20 - 16:40</td>
+            <td>12:00 - 12:20</td>
             <td></td>
           </tr>
           <tr class="out budgets 15collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
@@ -525,7 +525,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           Hierarchically structured data arises frequently in practice, in many fields of sciences including social science. Linear mixed models (LMMs) is one of the most common statistical methods to deal with the structured or clustered data.<p> Yoon & Welsh (2019) studied the effect of ignoring clustering in $x$ on fitting LMM, and showed that it can be obtained misleading assessments of both the association between $y$ and $x$ and of the variance components. They also showed that, as the within cluster variance of $x$, $\tau_x$, increases, the likelihood and the REML criterion develop two distinct local maxima and which of these is the global maximum changes at the jump point. <p>In LMMs for clustered or hierarchical structured data, regressors can be correlated with random effects. When the random effects and regressors independence assumptions are violated, not only regression coefficient estimators but also variance components can be severely biased. <p>In this study, we investigate how the violation of the random effects and regressors independence assumption could affect on the estimates of parameters and compare the results with the effect of ignoring clustering in $x$ when fitting LMM (Yoon & Welsh). We also extend our study to the case of correlated binary data. <br><br>
           </td>
           </tr>
-          <tr class="clickable" data-toggle="collapse" id="35" data-target=".35collapsed">
+          <!-- <tr class="clickable" data-toggle="collapse" id="35" data-target=".35collapsed">
             <td>Olena Kravchuk</td>
             <td>Comparative study of probability models for agriculture field index data</td>
             <td>9:50 - 10:10</td>
@@ -533,13 +533,13 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           </tr>
           <tr class="out budgets 35collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-         This simulation study is motivated by the challenges of the analysis of field indices, like Harvest Index and Nutrient Use Efficiencies, in agriculture research. The index data we are interested in represents the quotient of two positively correlated random variables, X/(X+Y), but is only observed as a single index variate, Z. Based on the analysis of that index, important decisions are made about the ranking of agronomic factors and conditions. In this study, we are concerned with probability models for such indices, considering and contrasting several choices for X and Y. The choices include: normal, Beta and log-normal distributions, as well as mixtures of either Beta or log-normal. We demonstrate that the mixture of log-normal provides an identifiable and flexible model. <br><br>
+         This simulation study is motivated by the challenges of the analysis of field indices, like Harvest Index and Nutrient Use Efficiencies, in agriculture research. The index data we are interested in represents the quotient of two positively correlated random variables, X/(X+Y), but is only observed as a single index variate, Z. Based on the analysis of that index, important decisions are made about the ranking of agronomic factors and conditions. In this study, we are concerned with probability models for such indices, considering and contrasting several choices for X and Y. The choices include: normal, Beta and log-normal distributions, as well as mixtures of either Beta or log-normal. We demonstrate that the mixture of log-normal provides an identifiable and flexible model. <br><br> -->
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="36" data-target=".36collapsed">
             <td>Warren Muller</td>
             <td>Modelling and Parameterization of Soil-Water Retention Curves</td>
-            <td>10:10 - 10:30</td>
+            <td>9:50 - 10:10</td>
             <td></td>
           </tr>
           <tr class="out budgets 36collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
@@ -890,7 +890,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           <tr class="clickable" data-toggle="collapse" id="56" data-target=".56collapsed">
             <td>Beata Sznajder</td>
             <td>A multi-locus variable selection strategy for association mapping analysis</td>
-            <td>14:30 - 14:50</td>
+            <td>16:20 - 16:40</td>
             <td></td>
           </tr>
           <tr class="out budgets 56collapsed collapse multi-collapse15" aria-expanded="false" style="height: 0px;">

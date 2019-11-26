@@ -79,14 +79,14 @@ description = "Schedule for the conference and link to abstracts"
       <td rowspan="2">10:00-10:30</td>
       <td class="tg-73pu">Brenton Clarke <br>(9:50-10:10)</td>
       <td class="tg-6i83">Clayton Forknall <br>(9:50-10:10)</td>
-      <td class="tg-73pu">Olena Kravchuk <br>(9:50-10:10)</td>
+      <td class="tg-73pu">Warren Muller <br>(9:50-10:10)</td>
       <td class="tg-6i83">Esther Meenken <br>(9:50-10:10)</td>
       <td class="tg-sr28" rowspan="2">David Warton</td>
     </tr>
     <tr>
       <td class="tg-73pu">Michael Stewart <br>(10:10-10:30)</td>
       <td class="tg-6i83">Michael Mumford <br>(10:10-10:30)</td>
-      <td class="tg-73pu">Warren Muller <br>(10:10-10:30)</td>
+      <td class="tg-73pu"></td>
       <td class="tg-6i83">Peter Kasprzak<br>(10:10-10:30)</td>
     </tr>
     <tr>
