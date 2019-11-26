@@ -6,36 +6,29 @@ description = "Registration page"
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-5 col-md-5 col-lg-5">
-{{% md %}}
-## Registration Dates
 
-- **Registration opens**: 7th June 2019
-- **Abstract submission closes**: Closed 23rd August 2019
-- **Notification of Acceptance**: 12th September 2019
-- **Early bird registration closes**: Closed 27th September 2019
-- **Registration deadline for presenters**: 4th October 2019
-- **Registration closes**: 17th November 2019
+<h2>Registration Dates</h2>
+
+<li><b>Registration opens</b>: 7th June 2019
+<li><b>Abstract submission closes</b>: Closed 23rd August 2019
+<li><b>Notification of Acceptance</b>: 12th September 2019
+<li><b>Early bird registration closes</b>: Closed 27th September 2019
+<li><b>Registration deadline for presenters</b>: 4th October 2019
+<li><b>Registration closes</b>: 17th November 2019
 
 
-### Conference dates
+<h3>Conference dates</h3>
 
-- **Pre-conference workshops**: 1st/2nd December 2019
-- **Conference starts**: 3rd December 2019
-- **Conference closes**: 6th December 2019
-{{% /md %}}
+<li><b>Pre-conference workshops</b>: 1st/2nd December 2019
+<li><b>Conference starts</b>: 3rd December 2019
+<li><b>Conference closes</b>: 6th December 2019
+
     </div>
     <div class="col-sm-7 col-md-7 col-lg-7">
         
-{{% md %}}
+        
+<h2>Conference Fees</h2>
 
-## Conference Fees
-
-<!--|  | IBS Member | Non-member | Concession |
-|------------------|------------:|------------:|------------:|
-| Full conference | $700 | $800 | $350 |
-| One Day | $350 | $400 | $175 |
-| Workshops (each) | $200 | $250 | $100 |-->
- 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -83,31 +76,30 @@ description = "Registration page"
     <td class="tg-c3ow">$100</td>
   </tr>
 </table>
- 
- 
-#### Additional notes:  
 
-- Conference dinner and welcome reception cost included in full conference registration fee.  
-- Additional guests for welcome reception and conference dinner available at additional cost.  
-- Social program costs are _not_ included and are as displayed in registration form below or at [Social program page](/social/)
+<h4>Additional notes:</h4>  
 
-{{% /md %}}   
+<ul>
+<li>Conference dinner and welcome reception cost included in full conference registration fee.  
+<li>Additional guests for welcome reception and conference dinner available at additional cost.  
+<li>Social program costs are <i>not</i> included and are as displayed in registration form below or at <a href="/social/">Social program page</a>
+</ul>
         
     </div>
 </div>
 </div>
 
+### Registration has now closed. We look forward to welcoming all attendees to the workshops and conference!
 
-
-<script type="text/javascript" src="https://form.jotform.co/jsform/91481428555867"></script>
+<!--- <script type="text/javascript" src="https://form.jotform.co/jsform/91481428555867"></script> 
 
 
 
 <div style="text-align: center">
 <h4>If you are not quite ready to register, but would like to be kept up to date with important conference <br>
 announcements (such as approaching closing dates), please use the form below.</h4>
-</div>
+</div> -->
 
 
 <!--- Jotform Sign up form linked to Mailchimp -->
-<script type="text/javascript" src="https://form.jotform.co/jsform/91631096825865"></script>
+<!--- <script type="text/javascript" src="https://form.jotform.co/jsform/91631096825865"></script> -->
