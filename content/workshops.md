@@ -176,7 +176,7 @@ Parking at Waite is free, with ample parking places available off Waite Rd. See 
 <td>Chris Brien and Sam Rogers</td>
 <td>Identifying, randomizing, canonically analyzing and formulating mixed models for designs for comparative experiments using R</td>
 <td><a href="https://www.google.com.au/maps/dir//-34.9688048,138.6388042/@-34.9680507,138.6387428,16.19z" target=_blank>University of Adelaide Waite Campus<br>Plant Research Centre, Downstairs Meeting Room 1</a></td>
-<td><a href=""></a></td>
+<td><a href="http://chris.brien.name/wshop2019">Workshop Materials</a></td>
 </tr>
 
 <tr class="out budgets 5collapsed collapse" aria-expanded="false" style="height: 0px;">
