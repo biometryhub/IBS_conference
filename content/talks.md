@@ -686,7 +686,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="6" data-target=".6collapsed">
-            <td>Peter Kasprzak</td>
+            <td>Peter Kasprzak&#42;</td>
             <td>Partial automation of sampling and data collection to yield better estimates for faba and canola seed emergence project</td>
             <td>10:10 - 10:30</td>
             <td></td>
