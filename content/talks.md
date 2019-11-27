@@ -3,6 +3,8 @@ title = "Presentation Titles, Abstracts and Slides"
 description = ""
 +++
 
+The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pdf).
+
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#tuesday">Tue</a></li>
   <li><a data-toggle="tab" href="#wednesday">Wed</a></li>
@@ -113,7 +115,7 @@ description = ""
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
-            <td>Nidhi Menon</td>
+            <td>Nidhi Menon&#42;</td>
             <td>The effect of number of clusters and cluster sizes on multiple imputation in multilevel models</td>
             <td>11:40 - 12:00</td>
             <td></td>
@@ -166,7 +168,7 @@ description = ""
         </thead>
         <tbody>
           <tr class="clickable" data-toggle="collapse" id="9" data-target=".9collapsed">
-            <td>Rune Christiansen</td>
+            <td>Rune Christiansen&#42;</td>
             <td>Towards causal inference for spatio-temporal data: adjusting for time-invariant latent confounders</td>
             <td>11:00 - 11:20</td>
             <td></td>
@@ -200,7 +202,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="11" data-target=".11collapsed">
-            <td>Emy Guilbault</td>
+            <td>Emy Guilbault&#42;</td>
             <td>Fitting species distribution models with uncertain species labels using point process models.</td>
             <td>12:00 - 12:20</td>
             <td></td>
@@ -273,6 +275,75 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           <td colspan="4">
           This has been a topic of enduring interest, culminating in the paper on p-rep designs by Cullis et al.(2006).  We will review a number of results, mainly for block designs, with and without random block effects, and extend this to the case where test lines are considered as random effects. An indication will be given of the implications for row-column designs and designs with spatial correlation. <br><br>
           </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--                -->
+    <!--    Posters     -->
+    <!--                -->
+    <h2>Poster Session</h2>
+    <h4><i>Room: The Gallery</i></h4>
+    <div class="table-responsive  tg-wrap">
+      <table class="abstract-table">
+      <thead>
+        <tr>
+          <th>Presenter</th>
+          <th>Poster Title</th>
+        </tr>
+      </thead>
+        <tbody>
+          <tr>
+            <td>Angela Anderson</td>
+            <td>Cross-validation of pasture biomass predictions from handheld NDVI sensor measures</td>
+          </tr>
+          <tr>
+            <td>Mohammad Javad Davoudabadi&#42;</td>
+            <td>Bayesian Approaches to Carbon Cycle Modelling</td>
+          </tr>
+          <tr>
+            <td>Nathaniel Jewell</td>
+            <td>Analysis of continuous water use data for wheat plants grown on a Droughtspotter platform</td>
+          </tr>
+          <tr>
+            <td>Olena Kravchuk</td>
+            <td>Comparative study of probability models for agriculture field index data</td>
+          </tr>
+          <tr>
+            <td>Chris Lisle&#42;</td>
+            <td>Fitting a nugget variance to the analysis of National Variety Trials</td>
+          </tr>
+          <tr>
+            <td>Yao Lu</td>
+            <td>Yield response curves using fixed effects vs random coefficient regression across environments</td>
+          </tr>
+          <tr>
+            <td>Esther Meenken</td>
+            <td>Multivariate analysis for Greenhouse Gas Emissions from New Zealand Sheep and Beef Farm Systems</td>
+          </tr>
+          <tr>
+            <td>Lucas Peitton&#42;</td>
+            <td>Is the SpATS model as good as we would like it to be for the spatial analysis of field trials?</td>
+          </tr>
+          <tr>
+            <td>Nishika Ranathunga&#42;</td>
+            <td>Computation of the expected value of a function of a chi-distributed random variable</td>
+          </tr>
+          <tr>
+            <td>Sam Rogers</td>
+            <td>A comparison of linear mixed model packages in R for analysis of plant breeding experiments</td>
+          </tr>
+          <tr>
+            <td>Eugenia Settecase&#42;</td>
+            <td>Exploration of trait relationships in mungbean using a multivariate linear mixed model</td>
+          </tr>
+          <tr>
+            <td>Alan Welsh</td>
+            <td>Random thoughts on p-values</td>
+          </tr>
+          <tr>
+            <td>Carole Wright</td>
+            <td>NIRS Classification</td>
           </tr>
         </tbody>
       </table>
@@ -824,7 +895,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="52" data-target=".52collapsed">
-            <td>Connor James Smith</td>
+            <td>Connor James Smith&#42;</td>
             <td>Visualisation of model stability information for better prognosis based feature extraction</td>
             <td>16:20 - 16:40</td>
             <td></td>
@@ -835,7 +906,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="53" data-target=".53collapsed">
-            <td>Kevin Wang</td>
+            <td>Kevin Wang&#42;</td>
             <td>mcvis: A new framework for collinearity discovery, diagnostic and visualization</td>
             <td>16:40 - 17:00</td>
             <td></td>
@@ -1019,3 +1090,4 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
     <!-- Fri -->
   </div>
 </div>
+&#42; Indicates student
