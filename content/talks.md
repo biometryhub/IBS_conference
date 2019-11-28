@@ -314,10 +314,6 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Fitting a nugget variance to the analysis of National Variety Trials</td>
           </tr>
           <tr>
-            <td>Yao Lu</td>
-            <td>Yield response curves using fixed effects vs random coefficient regression across environments</td>
-          </tr>
-          <tr>
             <td>Esther Meenken</td>
             <td>Multivariate analysis for Greenhouse Gas Emissions from New Zealand Sheep and Beef Farm Systems</td>
           </tr>
