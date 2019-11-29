@@ -116,7 +116,7 @@ description = "Schedule for the conference and link to abstracts"
       <td class="tg-6i83">Francis Hui <br>(11:20-11:40)</td>
     </tr>
     <tr>
-      <td class="tg-73pu">Nidhi Menon <br>(11:40-12:00)</td>
+      <td class="tg-73pu"></td>
       <td class="tg-6i83">Ian Renner <br>(11:40-12:00)</td>
     </tr>
     <tr>
