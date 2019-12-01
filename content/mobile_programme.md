@@ -307,64 +307,64 @@ description = "Schedule for the conference and link to abstracts"
       </tr>
       <tr>
         <td>12:00-13:00</td>
-        <td colspan="2">Invited Session (Methods II)(12:00-13:00)Marti Anderson</td>
+        <td colspan="2">Invited Session (Methods II) (12:00-13:00) Marti Anderson</td>
       </tr>
       <tr>
         <td>13:00-14:10</td>
-        <td colspan="2">Lunch (Ferguson Room)<br><br>AGM(13:00-14:10)</td>
+        <td colspan="2">Lunch (Ferguson Room)<br><br>AGM (13:00-14:10)</td>
       </tr>
       <tr>
         <td rowspan="6">14:10-15:30</td>
-        <td colspan="2">Contributed Session(14:10-15:30)</td>
+        <td colspan="2">Contributed Session (14:10-15:30)</td>
       </tr>
       <tr>
-        <td>Biostatistics 2(Vines Room)</td>
-        <td>Samples &amp; Surveys(Exhibition Hall)</td>
+        <td>Biostatistics 2 (Vines Room)</td>
+        <td>Samples &amp; Surveys (Exhibition Hall)</td>
       </tr>
       <tr>
-        <td>Alice Richardson(14:10-14:30)</td>
-        <td>Robert Clark(14:10-14:30)</td>
+        <td>Alice Richardson (14:10-14:30)</td>
+        <td>Robert Clark (14:10-14:30)</td>
       </tr>
       <tr>
-        <td>Tugba Akkaya_Hocagil(14:30-14:50)</td>
-        <td>Scott Foster(14:30-14:50)</td>
+        <td>Tugba Akkaya_Hocagil (14:30-14:50)</td>
+        <td>Scott Foster (14:30-14:50)</td>
       </tr>
       <tr>
-        <td>Olivier Thas(14:50-15:10)</td>
-        <td>Omer Ozturk(14:50-15:10)</td>
+        <td>Olivier Thas (14:50-15:10)</td>
+        <td>Omer Ozturk (14:50-15:10)</td>
       </tr>
       <tr>
-        <td>Tong Wang(15:10-15:30)</td>
-        <td>Dan Gladish(15:10-15:30)</td>
+        <td>Tong Wang (15:10-15:30)</td>
+        <td>Dan Gladish (15:10-15:30)</td>
       </tr>
       <tr>
         <td>15:30-16:00</td>
-        <td colspan="2">Afternoon Tea(Exhibition Hall: 15:30-16:00)</td>
+        <td colspan="2">Afternoon Tea (Exhibition Hall: 15:30-16:00)</td>
       </tr>
       <tr>
         <td rowspan="5">16:00-17:00</td>
-        <td colspan="2">Contributed Session(16:00-17:20)</td>
+        <td colspan="2">Contributed Session (16:00-17:20)</td>
       </tr>
       <tr>
-        <td>Visualisation(Vines Room)</td>
-        <td>Genetics &amp; Evolution(Exhibition Hall)</td>
+        <td>Visualisation (Vines Room)</td>
+        <td>Genetics &amp; Evolution (Exhibition Hall)</td>
       </tr>
       <tr>
-        <td>Thomas Lumley(16:00-16:20)</td>
-        <td>Conrad Burden(16:00-16:20)</td>
+        <td>Thomas Lumley (16:00-16:20)</td>
+        <td>Conrad Burden (16:00-16:20)</td>
       </tr>
       <tr>
-        <td>Connor James Smith(16:20-16:40)</td>
-        <td>Beata Sznajder(16:20-16:40)</td>
+        <td>Connor James Smith (16:20-16:40)</td>
+        <td>Beata Sznajder (16:20-16:40)</td>
       </tr>
       <tr>
-        <td>Kevin Wang(16:40-17:00)</td>
-        <td>Anabel Forte(16:40-17:00)</td>
+        <td>Kevin Wang (16:40-17:00)</td>
+        <td>Anabel Forte (16:40-17:00)</td>
       </tr>
       <tr>
         <td>17:00-17:30</td>
-        <td>Petra Kuhnert(17:00-17:20)</td>
-        <td>Julian Taylor(17:00-17:20)</td>
+        <td>Petra Kuhnert (17:00-17:20)</td>
+        <td>Julian Taylor (17:00-17:20)</td>
       </tr>
       <tr>
         <td>17:30-19:30</td>
@@ -372,7 +372,7 @@ description = "Schedule for the conference and link to abstracts"
       </tr>
       <tr>
         <td>19:30-Late</td>
-        <td colspan="2">Conference Dinner &amp; Awards Session(19:30-Late)</td>
+        <td colspan="2">Conference Dinner &amp; Awards Session (19:30-Late)</td>
       </tr>
     </table>
     </div>
