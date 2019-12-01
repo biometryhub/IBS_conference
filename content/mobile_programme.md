@@ -9,8 +9,8 @@ description = "Schedule for the conference and link to abstracts"
 <div class="container">
 
   <ul class="nav nav-tabs">
-    <li class="active"><a data-toggle="tab" href="#sunday">Sunday</a></li>
-    <li><a data-toggle="tab" href="#monday">Monday</a></li>
+    <li><a data-toggle="tab" href="#sunday">Sunday</a></li>
+    <li class="active"><a data-toggle="tab" href="#monday">Monday</a></li>
     <li><a data-toggle="tab" href="#tuesday">Tuesday</a></li>
     <li><a data-toggle="tab" href="#wednesday">Wednesday</a></li>
     <li><a data-toggle="tab" href="#thursday">Thursday</a></li>
@@ -18,7 +18,7 @@ description = "Schedule for the conference and link to abstracts"
   </ul>
 
   <div class="tab-content">
-    <div id="sunday" class="tab-pane fade in active">
+    <div id="sunday" class="tab-pane fade in">
         <table>
           <tr>
             <th>Time</th>
@@ -54,7 +54,7 @@ description = "Schedule for the conference and link to abstracts"
           </tr>
         </table>
     </div>
-    <div id="monday" class="tab-pane fade">
+    <div id="monday" class="tab-pane fade in active">
       <table>
           <tr>
             <th>Time</th>
