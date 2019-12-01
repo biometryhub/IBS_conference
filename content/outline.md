@@ -3,7 +3,7 @@ title = "Program Overview"
 description = "Schedule for the conference and link to abstracts"
 +++
 
-### Draft conference outline
+### Conference Program outline
 
 <!--- See example at https://codepen.io/paulobrien/pen/gWoVzN for scrolling table -->
 
@@ -37,7 +37,7 @@ description = "Schedule for the conference and link to abstracts"
       <td>8:50-9:00</td>
       <td></td>
       <td></td>
-      <td  class="tg-rbmo" colspan="2" rowspan="3"><b>Welcome to Country</b><br>Lynette Crocker<br>(8:50 - 9:10)<br><br><b>Opening address</b> <br>(9:10 - 9:30)<br><br>Room: <i>Exhibition Hall</i><br></td>
+      <td  class="tg-rbmo" colspan="2" rowspan="3"><b>Welcome to Country</b><br>Lynette Crocker<br>(8:50 - 9:10)<br><br><b>Opening address</b><br>Prof Wayne Pitchford<br>(9:10 - 9:20)<br><br><b>Presidential Address</b><br>Prof Alan Welsh<br>(9:20 - 9:30)<br><br>Room: <i>Exhibition Hall</i><br></td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(8:50-10:30)</td>
       <td class="tg-tu0f" colspan="2"><b>Contributed Session</b> <br>(8:50-10:30)</td>
       <td class="tg-sr28"><b>JABES/Biometrics Showcase</b><br>Chair: Alan Welsh<br>Room: <i>Exhibition Hall</i></td>
