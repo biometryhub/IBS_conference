@@ -153,7 +153,13 @@ paginate = 10
         url  = "/venue/"
         parent = "about"
         weight = 3    
-
+        
+    [[menu.main]]
+        name = "Wifi"
+        url  = "/wifi/"
+        parent = "about"
+        weight = 4    
+    
         
         
 

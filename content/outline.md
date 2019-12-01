@@ -263,7 +263,7 @@ description = "Schedule for the conference and link to abstracts"
     <tr>
       <td>19:00-19:30</td>
       <td></td>
-      <td class="tg-og4q" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Welcome Reception</b></a><br>National Wine Center</td>
+      <td class="tg-og4q" rowspan="2"><a href="/social/" style="color: #0a4719;"><b>Welcome Reception</b></a><br>(19:00 - 21:00)<br>National Wine Center</td>
       <td></td>
       <td></td>
       <td></td>
