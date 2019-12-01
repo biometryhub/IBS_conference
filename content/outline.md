@@ -7,7 +7,7 @@ description = "Schedule for the conference and link to abstracts"
 
 <!--- See example at https://codepen.io/paulobrien/pen/gWoVzN for scrolling table -->
 
-**Please note**: The program is still subject to change.
+#### For a more mobile-friendly programme, visit [mobile_programme](/mobile_programme/)
 
 #### [Venue Map](https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf)
 
