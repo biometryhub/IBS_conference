@@ -115,14 +115,14 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
-            <td>Nidhi Menon&#42;</td>
-            <td>The effect of number of clusters and cluster sizes on multiple imputation in multilevel models</td>
+            <td></td>
+            <td></td>
             <td>11:40 - 12:00</td>
             <td></td>
           </tr>
           <tr class="out budgets 14collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
-          Missing data are a common phenomenon in public health research. Multiple Imputation (MI) has been long recognized as an attractive approach to handle missing values. Statisticians are now advocating the use of MI as a gold standard in solving the missing data problem. Despite its early conception and its numerous advantages over the traditional ad hoc methods, there is still limited application of MI in public health research. <p>The theory of multiple imputation requires that imputations be made conditional on the sampling design. Not accounting for complex sample design features, such as stratification and clustering, during imputations can yield biased estimates from a design-based perspective. <p>Most datasets in public health research show some form of natural clustering (individuals within households, households within the same district, patients within wards, etc.).  Cluster effects are often of interest in health research. In this study, we investigate through simulations different strategies for accounting for clustering when multiply imputing variables. Recent studies have identified methods to include fixed effects for clusters in imputations, however there is limited information on impact of varying number of clusters and cluster sizes on MI. <p>In this study, we simulate 3 level hierarchical data structures varying the number of clusters at each level. Missing values are present in covariates at each level in the data. We consider the impact of the combination of varying cluster sizes and proportion of missingness in imputation of covariates at each level in the dataset. This study implements the Gelman and Hill approach for imputation of missing data at higher levels by including aggregate forms of individual level measurements to impute for missing values at higher levels. The performance of popular methods of imputations, MICE and JoMo are compared. Performance measures include bias in estimates, mean squared errors and probability coverage of confidence intervals<br><br>
+          Speaker withdrew<br><br>
           </td>
           </tr>
           <tr class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed">
