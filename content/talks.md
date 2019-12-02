@@ -13,6 +13,41 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
 </ul>
 <div class="tab-content">
   <div id="tuesday" class="tab-pane fade in active">
+  <h2>Opening Address</h2>
+    <h4><i>Room: Exhibition Hall</i></h4>
+    <div class="table-responsive">
+      <table class="abstract-table">
+        <thead>
+          <tr>
+            <th>Presenter</th>
+            <th>Abstract Title</th>
+            <th>Time</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Lynette Crocker</td>
+            <td>Welcome to Country</td>
+            <td>8:50 - 9:10</td>
+            <td><a href="https://universityofadelaide.box.com/shared/static/z7gtwjblpchjt2cgbipllb43u9qor3gs.ppt">Download Here</a></td>
+          </tr>
+          </tr>
+          <tr>
+            <td>Wayne Pitchford</td>
+            <td>Conference Opening address</td>
+            <td>9:10 - 9:20</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Alan Welsh</td>
+            <td>President's Address</td>
+            <td>9:20 - 9:30</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
     <h2>Invited Speakers: Medical</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
     <a class="btn btn-template-main btn-sm expand-btn" type="button" data-toggle="collapse" data-target=".multi-collapse1" aria-expanded="false">Expand All</a>
