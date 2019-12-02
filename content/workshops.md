@@ -67,7 +67,7 @@ Claudia Czado is professor of Applied Mathematical Statistics at Technical Unive
 <td>Emi Tanaka and Annie Conway</td>
 <td>Tidyverse & R Markdown Workshop</td>
 <td><a href="https://www.google.com.au/maps/dir//-34.9198926,138.6044309/@-34.9201722,138.6042604,17.86z" target=_blank>University of Adelaide North Tce Campus, Hughes 322 Teaching Room</a></td>
-<td><a href=""></a></td>
+<td><a href="https://biometrics2019.netlify.com/">Workshop Material</a></td>
 </tr>
 
 <tr class="out budgets 2collapsed collapse" aria-expanded="false" style="height: 0px;">
