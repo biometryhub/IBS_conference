@@ -77,7 +77,8 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Max Moldovan</td>
             <td>Pursuing the cancer-schizophrenia disassociation paradox: genomes, phenomes and intimate conversations with<br> inconclusive evidence</td>
             <td>13:30 - 14:30</td>
-            <td><a href="">Download Here</a></td>
+            <!-- <td><a href="">Download Here</a></td> -->
+            <td></td>
           </tr>
           <tr class="out budgets 2collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
