@@ -66,7 +66,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>James Carpenter</td>
             <td>Multilevel multiple imputation for health and survey data: your flexible (and robust) friend</td>
             <td>9:30 - 10:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/l9004ndwyl35vc5oeu3jfv618ns8lc83">Download Here</a></td>
           </tr>
           <tr class="out budgets 1collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -75,9 +75,9 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
           </tr>
           <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
             <td>Max Moldovan</td>
-            <td>Pursuing the cancer-schizophrenia disassociation paradox: genomes, phenomes and intimate conversations with inconclusive evidence</td>
+            <td>Pursuing the cancer-schizophrenia disassociation paradox: genomes, phenomes and intimate conversations with<br> inconclusive evidence</td>
             <td>13:30 - 14:30</td>
-            <td></td>
+            <td><a href="">Download Here</a></td>
           </tr>
           <tr class="out budgets 2collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
