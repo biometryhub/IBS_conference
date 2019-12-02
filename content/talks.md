@@ -30,7 +30,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Lynette Crocker</td>
             <td>Welcome to Country</td>
             <td>8:50 - 9:10</td>
-            <td><a href="https://universityofadelaide.box.com/shared/static/z7gtwjblpchjt2cgbipllb43u9qor3gs.ppt">Download Here</a></td>
+            <td><a href="https://universityofadelaide.box.com/s/z7gtwjblpchjt2cgbipllb43u9qor3gs">Download Here</a></td>
           </tr>
           </tr>
           <tr>
