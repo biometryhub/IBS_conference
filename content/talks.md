@@ -152,7 +152,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
           </tr>
           <tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
             <td></td>
-            <td></td>
+            <td>Speaker withdrew</td>
             <td>11:40 - 12:00</td>
             <td></td>
           </tr>
