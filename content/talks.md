@@ -282,7 +282,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Emlyn Williams</td>
             <td>Error variance bias in neighbour balance and evenness of distribution designs</td>
             <td>16:00 - 16:20</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/6q4phcvdod0ab33ay35uu8tb7qwqaz9d">Download Here</a></td>
           </tr>
           <tr class="out budgets 17collapsed collapse multi-collapse5" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -293,7 +293,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>David  Steel</td>
             <td>Prof Ken Russell and the Design of Experiments for Generalized Linear Models</td>
             <td>16:20 - 16:40</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/wcvcn9pdwwplj7rdcxl9oowj1mrff2lv">Download Here</a></td>
           </tr>
           <tr class="out budgets 18collapsed collapse multi-collapse5" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -304,7 +304,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Richard Jarrett</td>
             <td>Designs with many singly replicated treatments</td>
             <td>16:40 - 17:00</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/ds5xdoedni6rfmz60qoqdt6z5tkym0ok">Download Here</a></td>
           </tr>
           <tr class="out budgets 19collapsed collapse multi-collapse5" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
