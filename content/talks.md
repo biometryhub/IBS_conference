@@ -41,7 +41,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
           </tr>
           <tr>
             <td>Alan Welsh</td>
-            <td>President's Address</td>
+            <td>Presidental Address</td>
             <td>9:20 - 9:30</td>
             <td></td>
           </tr>
@@ -132,7 +132,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Hans Hockey</td>
             <td>Hockey sticks and broken sticks continued – enhancing the gold standard RCT for chronic diseases</td>
             <td>11:00 - 11:20</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/qljqt21pfdkrtbdlq425rlzvln3pe1cg">Download Here</a></td>
           </tr>
           <tr class="out budgets 4collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -143,7 +143,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Jessica Kasza</td>
             <td>From the stepped wedge to the staircase: the information content of stepped wedge trials</td>
             <td>11:20 - 11:40</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/d99wdu89tyijsgbsepswzfnn34uiqzob">Download Here</a></td>
           </tr>
           <tr class="out budgets 5collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -165,7 +165,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Thomas Sullivan</td>
             <td>Multiple imputation for missing outcome data in trials involving independent and paired observations</td>
             <td>12:00 - 12:20</td>
-            <td></td>
+            <td><a href="">Download Here</a></td>
           </tr>
           <tr class="out budgets 15collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -176,7 +176,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Graham Hepworth</td>
             <td>Estimation of proportions by group testing with retesting of positive groups</td>
             <td>12:20 - 12:40</td>
-            <td></td>
+            <td><a href="">Download Here</a></td>
           </tr>
           <tr class="out budgets 8collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -207,7 +207,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Rune Christiansen&#42;</td>
             <td>Towards causal inference for spatio-temporal data: adjusting for time-invariant latent confounders</td>
             <td>11:00 - 11:20</td>
-            <td></td>
+            <td>https://universityofadelaide.box.com/s/zr0ig7nik9kafzxb39j4czt9b7c90fqo</td>
           </tr>
           <tr class="out budgets 9collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
