@@ -165,7 +165,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Thomas Sullivan</td>
             <td>Multiple imputation for missing outcome data in trials involving independent and paired observations</td>
             <td>12:00 - 12:20</td>
-            <td><a href="">Download Here</a></td>
+            <td><a href="https://universityofadelaide.box.com/s/xnzsif38itonprg8whpj1l0in3xv8nfm">Download Here</a></td>
           </tr>
           <tr class="out budgets 15collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -176,7 +176,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Graham Hepworth</td>
             <td>Estimation of proportions by group testing with retesting of positive groups</td>
             <td>12:20 - 12:40</td>
-            <td><a href="">Download Here</a></td>
+            <td><a href="https://universityofadelaide.box.com/s/t1kosfwcswbc9a15a5mt865g3wq9sca6">Download Here</a></td>
           </tr>
           <tr class="out budgets 8collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -207,7 +207,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Rune Christiansen&#42;</td>
             <td>Towards causal inference for spatio-temporal data: adjusting for time-invariant latent confounders</td>
             <td>11:00 - 11:20</td>
-            <td>https://universityofadelaide.box.com/s/zr0ig7nik9kafzxb39j4czt9b7c90fqo</td>
+            <td><a href="https://universityofadelaide.box.com/s/zr0ig7nik9kafzxb39j4czt9b7c90fqo">Download Here</a></td>
           </tr>
           <tr class="out budgets 9collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -218,7 +218,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Francis Hui</td>
             <td>Spatial Confounding in GEEs – Why the Working Correlation Matters (well, sort of)</td>
             <td>11:20 - 11:40</td>
-            <td></td>
+            <td><a href="">Download Here</a></td>
           </tr>
           <tr class="out budgets 10collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -229,7 +229,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Ian Renner</td>
             <td>Model reliability of presence-only species distribution models fitted with a lasso penalty</td>
             <td>11:40 - 12:00</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/nlgybb4kpn8gy8ezp31x653mstpzz9k4">Download Here</a></td>
           </tr>
           <tr class="out budgets 12collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -241,7 +241,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Emy Guilbault&#42;</td>
             <td>Fitting species distribution models with uncertain species labels using point process models.</td>
             <td>12:00 - 12:20</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/vmdrptxkht7nk7h47qfrldg5teuqnezn">Download Here</a></td>
           </tr>
           <tr class="out budgets 11collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -252,7 +252,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Louise McMillan</td>
             <td>clustglm and clustord: R packages for clustering with covariates for binary, count, and ordinal data</td>
             <td>12:20 - 12:40</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/jfpc6c3yzamcisd3e8qg4doi6v8kfl4f">Download Here</a></td>
           </tr>
           <tr class="out budgets 13collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
