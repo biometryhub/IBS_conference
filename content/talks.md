@@ -88,7 +88,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Richard Cook</td>
             <td>Dependent selection and observation schemes in life history studies</td>
             <td>14:30 - 15:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/8n3m4p7ns6fl9z9nsz77fvnia5ebaiu4">Download Here</a></td>
           </tr>
           <tr class="out budgets 3collapsed collapse multi-collapse1" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
