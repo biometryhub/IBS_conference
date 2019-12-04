@@ -6,13 +6,13 @@ description = ""
 The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pdf).
 
 <ul class="nav nav-tabs">
-  <li class="active"><a data-toggle="tab" href="#tuesday">Tue</a></li>
-  <li><a data-toggle="tab" href="#wednesday">Wed</a></li>
+  <li><a data-toggle="tab" href="#tuesday">Tue</a></li>
+  <li class="active"><a data-toggle="tab" href="#wednesday">Wed</a></li>
   <li><a data-toggle="tab" href="#thursday">Thu</a></li>
   <li><a data-toggle="tab" href="#friday">Fri</a></li>
 </ul>
 <div class="tab-content">
-  <div id="tuesday" class="tab-pane fade in active">
+  <div id="tuesday" class="tab-pane fade">
   <h2>Opening Address</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
     <div class="table-responsive">
@@ -380,7 +380,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
       </table>
     </div>
   </div>
-  <div id="wednesday" class="tab-pane fade">
+  <div id="wednesday" class="tab-pane fade in active">
     <!-- Wed -->
     <!-- <div class="table-responsive"> -->
     <!--                -->
@@ -404,7 +404,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Paul Kabaila</td>
             <td>Confidence intervals centred on bootstrap smoothed estimators</td>
             <td>8:50 - 9:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/qrsikvdhe1abds7ghsjp2y7mnqi6bojp">Download Here</a></td>
           </tr>
           <tr class="out budgets 20collapsed collapse multi-collapse6" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -415,7 +415,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Fernando Marmolejo-Ramos</td>
             <td>Towards distributional analyses of biomarker data</td>
             <td>9:10 - 9:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/qode1qid6ucpwbo6pb0vgmjbwfd6ua84">Download Here</a></td>
           </tr>
           <tr class="out budgets 21collapsed collapse multi-collapse6" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -426,7 +426,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Linh Nghiem</td>
             <td>Simulation-Selection-Extrapolation: Estimation in High Dimensional Errors-in-Variables Models</td>
             <td>9:30 - 9:50</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/skqoj5qhf1gmc8rky5qswut7laq8ets0">Download Here</a></td>
           </tr>
           <tr class="out budgets 22collapsed collapse multi-collapse6" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -437,7 +437,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Brenton R Clarke</td>
             <td>Trimmed Estimators - and a Hybrid-Censored Data Approach to Estimation</td>
             <td>9:50 - 10:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/xxokuzno2whn11ojt4ueetynd1dt4tug">Download Here</a></td>
           </tr>
           <tr class="out budgets 23collapsed collapse multi-collapse6" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -448,7 +448,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Michael Stewart</td>
             <td>Robust scale estimation under small measurement errors</td>
             <td>10:10 - 10:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/r5hgo8jjv1fje6prqa8i9eulbfdpki2m">Download Here</a></td>
           </tr>
           <tr class="out budgets 24collapsed collapse multi-collapse6" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -479,7 +479,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Bethany Macdonald</td>
             <td>Performance of factor analytic models in multi-environment trial data with small variety numbers</td>
             <td>8:50 - 9:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/ugaby9mg3522m8q7x70y2c2mxchd66jf">Download Here</a></td>
           </tr>
           <tr class="out budgets 25collapsed collapse multi-collapse7" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -490,7 +490,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Bethany Rognoni</td>
             <td>An evaluation of separable variance structures for highly genetically correlated environments</td>
             <td>9:10 - 9:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/f28yqr6uj30ksro0y2p2bfc7ns5b8gh3">Download Here</a></td>
           </tr>
           <tr class="out budgets 26collapsed collapse multi-collapse7" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -501,7 +501,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Isabel Munoz-Santa</td>
             <td>Multi environment trial analysis to determine the tolerance of cereal varieties to cyst nematode</td>
             <td>9:30 - 9:50</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/b0e7zbnfddca1e67jg1ex8n3lfidknqw">Download Here</a></td>
           </tr>
           <tr class="out budgets 27collapsed collapse multi-collapse7" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -512,7 +512,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Clayton Forknall</td>
             <td>An across trials random regression approach to describe tolerance of wheat cultivars to disease</td>
             <td>9:50 - 10:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/6lap6iffw7fvxzuvl0iv7aidc00pjju7">Download Here</a></td>
           </tr>
           <tr class="out budgets 28collapsed collapse multi-collapse7" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -523,7 +523,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Michael Mumford</td>
             <td>Clustering environments in a combined trial analysis of yield response to plant population</td>
             <td>10:10 - 10:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/e9atq1ri1s337zd8yobr5y7lqp7jdjuo">Download Here</a></td>
           </tr>
           <tr class="out budgets 29collapsed collapse multi-collapse7" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -551,7 +551,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Christopher K. Wikle</td>
             <td>Using Deep Neural Models to Facilitate Statistical Modeling of Complex Spatio-Temporal Dynamics</td>
             <td>11:00 - 12:00</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/qnycyhk59igqfmzs81d9c3naafxxs4jv">Download Here</a></td>
           </tr>
           <tr class="out budgets 30collapsed collapse multi-collapse8" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -562,7 +562,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Blair Robertson</td>
             <td>Quasi-random spatially balanced sampling</td>
             <td>12:00 - 13:00</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/mwdnfqe1soasnvw1vy77ygacfr0w2xva">Download Here</a></td>
           </tr>
           <tr class="out budgets 31collapsed collapse multi-collapse8" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
