@@ -8,8 +8,8 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
 <ul class="nav nav-tabs">
   <li><a data-toggle="tab" href="#tuesday">Tue</a></li>
   <li><a data-toggle="tab" href="#wednesday">Wed</a></li>
-  <li class="active"><a data-toggle="tab" href="#thursday">Thu</a></li>
-  <li><a data-toggle="tab" href="#friday">Fri</a></li>
+  <li><a data-toggle="tab" href="#thursday">Thu</a></li>
+  <li class="active"><a data-toggle="tab" href="#friday">Fri</a></li>
 </ul>
 <div class="tab-content">
   <div id="tuesday" class="tab-pane fade">
@@ -575,7 +575,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
     <!-- </div> -->
     <!-- Wed -->
   </div>
-  <div id="thursday" class="tab-pane fade in active">
+  <div id="thursday" class="tab-pane fade">
     <!-- Thurs -->
     <!--                -->
     <!----First Stream --->
@@ -1028,7 +1028,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
     </div>
     <!-- Thurs -->
   </div>
-  <div id="friday" class="tab-pane fade">
+  <div id="friday" class="tab-pane fade in active">
     <!-- Fri -->
     <h2>JABES/Biometrics Showcase</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
@@ -1048,7 +1048,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Dan Pagendam</td>
             <td>Improving Estimates of Fried’s Index from Mating Competitiveness Experiments</td>
             <td>9:00 - 9:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/4c5qnbsyrhh4yvk7akbkt63gjyk7xjsj">Download Here</a></td>
           </tr>
           <tr class="out budgets 59collapsed collapse multi-collapse16" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -1059,7 +1059,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Louise McMillan</td>
             <td>Visualization and measures of population differentiation based on the saddlepoint approximation</td>
             <td>9:30 - 10:00</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/isp760m0crlt221hnq2vkni7ki7kopna">Download Here</a></td>
           </tr>
           <tr class="out budgets 60collapsed collapse multi-collapse16" aria-expanded="false" style="height: 0px;">
           <td colspan="4">

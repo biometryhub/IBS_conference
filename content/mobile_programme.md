@@ -13,8 +13,8 @@ description = "Schedule for the conference and link to abstracts"
     <li><a data-toggle="tab" href="#monday">Monday</a></li>
     <li><a data-toggle="tab" href="#tuesday">Tuesday</a></li>
     <li><a data-toggle="tab" href="#wednesday">Wednesday</a></li>
-    <li class="active"><a data-toggle="tab" href="#thursday">Thursday</a></li>
-    <li><a data-toggle="tab" href="#friday">Friday</a></li>
+    <li><a data-toggle="tab" href="#thursday">Thursday</a></li>
+    <li class="active"><a data-toggle="tab" href="#friday">Friday</a></li>
   </ul>
 
   <div class="tab-content">
@@ -263,7 +263,7 @@ description = "Schedule for the conference and link to abstracts"
       </tr>
     </table>
     </div>
-    <div id="thursday" class="tab-pane fade in active">
+    <div id="thursday" class="tab-pane fade">
     <table>
       <tr>
         <th>TIME</th>
@@ -376,7 +376,7 @@ description = "Schedule for the conference and link to abstracts"
       </tr>
     </table>
     </div>
-    <div id="friday" class="tab-pane fade">
+    <div id="friday" class="tab-pane fade in active">
     <table>
       <tr>
         <th>TIME</th>
