@@ -759,7 +759,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Marti J. Anderson</td>
             <td>Copula models for ecological community data</td>
             <td>12:00 - 13:00</td>
-            <td><a href="">Download Here</a></td>
+            <td><a href="https://universityofadelaide.box.com/s/aj9bdddfc2nvmi5f4ca1t0h5i3cemkoo">Download Here</a></td>
           </tr>
           <tr class="out budgets 42collapsed collapse multi-collapse11" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
