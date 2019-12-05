@@ -217,7 +217,7 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Francis Hui</td>
             <td>Spatial Confounding in GEEs – Why the Working Correlation Matters (well, sort of)</td>
             <td>11:20 - 11:40</td>
-            <td><a href="">Download Here</a></td>
+            <td><a href="https://universityofadelaide.box.com/s/voq83ki7ue777tkumo328e62a00j4dg6">Download Here</a></td>
           </tr>
           <tr class="out budgets 10collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -854,7 +854,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Robert Clark</td>
             <td>Statistical Efficiency of Distance Sampling</td>
             <td>14:10 - 14:30</td>
-            <td><a href="">Download Here</a></td>
+            <td><a href="https://universityofadelaide.box.com/s/njudjlhdlv5j64c5t6ii23mwoaglvom7">Download Here</a></td>
           </tr>
           <tr class="out budgets 47collapsed collapse multi-collapse13" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -876,7 +876,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Omer Ozturk</td>
             <td>Two-Stage Cluster Samples with Judgment Post-Stratification</td>
             <td>14:50 - 15:10</td>
-            <td><a href="">Download Here</a></td>
+            <td><a href="https://universityofadelaide.box.com/s/3nvi9l02vqhqeqzovi1h5w2ucxwb0hcc">Download Here</a></td>
           </tr>
           <tr class="out budgets 49collapsed collapse multi-collapse13" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -918,7 +918,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Thomas Lumley</td>
             <td>Multiclass Hexbin Plots</td>
             <td>16:00 - 16:20</td>
-            <td></td>
+            <td><a href="https://github.com/tslumley/hextri-adelaide">Download Here</a></td>
           </tr>
           <tr class="out budgets 51collapsed collapse multi-collapse14" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -929,7 +929,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Connor James Smith&#42;</td>
             <td>Visualisation of model stability information for better prognosis based feature extraction</td>
             <td>16:20 - 16:40</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/2fz5nyjrlb7dc0mmu43qoe92au0ej983">Download Here</a></td>
           </tr>
           <tr class="out budgets 52collapsed collapse multi-collapse14" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -940,7 +940,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Kevin Wang&#42;</td>
             <td>mcvis: A new framework for collinearity discovery, diagnostic and visualization</td>
             <td>16:40 - 17:00</td>
-            <td></td>
+            <td><a href="https://kevinwang09.github.io/pres/mcvis_talk">Download Here</a></td>
           </tr>
           <tr class="out budgets 53collapsed collapse multi-collapse14" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -951,6 +951,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Petra Kuhnert</td>
             <td>Vizumap: An R package for visualizing uncertainty in spatial data</td>
             <td>17:00 - 17:20</td>
+            <!-- <td><a href="">Download Here</a></td> -->
             <td></td>
           </tr>
           <tr class="out budgets 54collapsed collapse multi-collapse14" aria-expanded="false" style="height: 0px;">
@@ -982,7 +983,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Conrad Burden</td>
             <td>Estimation of mutation rate matrices from genomic site frequency data</td>
             <td>16:00 - 16:20</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/b0j2sfumwza346miqiwtubhydmyekt2d">Download Here</a></td>
           </tr>
           <tr class="out budgets 55collapsed collapse multi-collapse15" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -993,7 +994,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Beata Sznajder</td>
             <td>A multi-locus variable selection strategy for association mapping analysis</td>
             <td>16:20 - 16:40</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/sibyg277655krmha2e4yrxmt263rj5vs">Download Here</a></td>
           </tr>
           <tr class="out budgets 56collapsed collapse multi-collapse15" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -1004,7 +1005,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Anabel Forte</td>
             <td>Variable selection for genome wide association analysis in plant breeding</td>
             <td>16:40 - 17:00</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/nnrxfre28u9txkvxo3x8tjpslutiiua9">Download Here</a></td>
           </tr>
           <tr class="out budgets 57collapsed collapse multi-collapse15" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -1015,7 +1016,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Julian Taylor</td>
             <td>Genetic dissection of phytophthora root rot resistance in chickpea using modern statistical methods</td>
             <td>17:00 - 17:20</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/195f458bwam4pkz998ualu3elo6pwhtu">Download Here</a></td>
           </tr>
           <tr class="out budgets 58collapsed collapse multi-collapse15" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
