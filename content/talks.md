@@ -7,8 +7,8 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
 
 <ul class="nav nav-tabs">
   <li><a data-toggle="tab" href="#tuesday">Tue</a></li>
-  <li class="active"><a data-toggle="tab" href="#wednesday">Wed</a></li>
-  <li><a data-toggle="tab" href="#thursday">Thu</a></li>
+  <li><a data-toggle="tab" href="#wednesday">Wed</a></li>
+  <li class="active"><a data-toggle="tab" href="#thursday">Thu</a></li>
   <li><a data-toggle="tab" href="#friday">Fri</a></li>
 </ul>
 <div class="tab-content">
@@ -380,7 +380,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
       </table>
     </div>
   </div>
-  <div id="wednesday" class="tab-pane fade in active">
+  <div id="wednesday" class="tab-pane fade">
     <!-- Wed -->
     <!-- <div class="table-responsive"> -->
     <!--                -->
@@ -575,7 +575,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
     <!-- </div> -->
     <!-- Wed -->
   </div>
-  <div id="thursday" class="tab-pane fade">
+  <div id="thursday" class="tab-pane fade in active">
     <!-- Thurs -->
     <!--                -->
     <!----First Stream --->
