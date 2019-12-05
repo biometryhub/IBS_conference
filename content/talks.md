@@ -598,7 +598,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Takeshi Kurosawa</td>
             <td>A new Liu estimator under a linear constraint</td>
             <td>8:50 - 9:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/j42wsc7nzxk1t197jjzzzl5282r63qgv">Download Here</a></td>
           </tr>
           <tr class="out budgets 32collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -609,7 +609,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Zhanglong Cao</td>
             <td>Model selection and principle of parsimony in statistical modelling in agriculture</td>
             <td>9:10 - 9:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/dasbb0op6djazvu44xaw8w8gbcct3d32">Download Here</a></td>
           </tr>
           <tr class="out budgets 33collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -620,7 +620,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Hwan-Jin Yoon</td>
             <td>On the effect of dependencies between regressors and random effects when analysing hierarchical structured data</td>
             <td>9:30 - 9:50</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/hhh597zy5dytw1yd3hz54wl90qlxa8hr">Download Here</a></td>
           </tr>
           <tr class="out budgets 34collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -642,7 +642,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Warren Muller</td>
             <td>Modelling and Parameterization of Soil-Water Retention Curves</td>
             <td>9:50 - 10:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/jib7s5060ilg9668tjsltaz60eu1b2eg">Download Here</a></td>
           </tr>
           <tr class="out budgets 36collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -676,7 +676,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Susan Wilson</td>
             <td>Big Biometric Data: A Biostatistical Perspective</td>
             <td>8:50 - 9:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/sazo9kqr3tn90qpn5ubhxm7guk3vbwj9">Download Here</a></td>
           </tr>
           <tr class="out budgets 37collapsed collapse multi-collapse10" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -687,7 +687,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Teresa Neeman</td>
             <td>Bridging the gap between science and statistics</td>
             <td>9:10 - 9:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/31z168p7ajoo34ktyc10gy2r7e2sgjg7">Download Here</a></td>
           </tr>
           <tr class="out budgets 38collapsed collapse multi-collapse10" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -698,7 +698,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Sharon Nielsen</td>
             <td>Statistics for agronomists: a constructive synthesis of workplace learning and community of practice</td>
             <td>9:30 - 9:50</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/9fu6rx2kbbou5mft5c310tapltv4qb3m">Download Here</a></td>
           </tr>
           <tr class="out budgets 39collapsed collapse multi-collapse10" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -709,7 +709,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Esther Meenken</td>
             <td>Uncertainty in digital agriculture: An interdisciplinary perspective</td>
             <td>9:50 - 10:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/5824rmbquvsr9dktp9mlkfnte0i4u286">Download Here</a></td>
           </tr>
           <tr class="out budgets 40collapsed collapse multi-collapse10" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -720,7 +720,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Peter Kasprzak&#42;</td>
             <td>Partial automation of sampling and data collection to yield better estimates for faba and canola seed emergence project</td>
             <td>10:10 - 10:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/3q9c9n0cqbsn1pbkmjgy0vie9q5q3lv3">Download Here</a></td>
           </tr>
           <tr class="out budgets 6collapsed collapse multi-collapse10" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -748,7 +748,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Claudia Czado</td>
             <td>Vine copulas and health applications</td>
             <td>11:00 - 12:00</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/n8gy56ywu8qdrzfkdl0jglc0rs0nf4fr">Download Here</a></td>
           </tr>
           <tr class="out budgets 41collapsed collapse multi-collapse11" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -759,7 +759,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Marti J. Anderson</td>
             <td>Copula models for ecological community data</td>
             <td>12:00 - 13:00</td>
-            <td></td>
+            <td><a href="">Download Here</a></td>
           </tr>
           <tr class="out budgets 42collapsed collapse multi-collapse11" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
