@@ -12,8 +12,8 @@ description = "Schedule for the conference and link to abstracts"
     <li><a data-toggle="tab" href="#sunday">Sunday</a></li>
     <li><a data-toggle="tab" href="#monday">Monday</a></li>
     <li><a data-toggle="tab" href="#tuesday">Tuesday</a></li>
-    <li class="active"><a data-toggle="tab" href="#wednesday">Wednesday</a></li>
-    <li><a data-toggle="tab" href="#thursday">Thursday</a></li>
+    <li><a data-toggle="tab" href="#wednesday">Wednesday</a></li>
+    <li class="active"><a data-toggle="tab" href="#thursday">Thursday</a></li>
     <li><a data-toggle="tab" href="#friday">Friday</a></li>
   </ul>
 
@@ -199,7 +199,7 @@ description = "Schedule for the conference and link to abstracts"
       </tr>
     </table>
     </div>
-    <div id="wednesday" class="tab-pane fade in active">
+    <div id="wednesday" class="tab-pane fade">
     <table>
       <tr>
         <th>TIME</th>
@@ -263,7 +263,7 @@ description = "Schedule for the conference and link to abstracts"
       </tr>
     </table>
     </div>
-    <div id="thursday" class="tab-pane fade">
+    <div id="thursday" class="tab-pane fade in active">
     <table>
       <tr>
         <th>TIME</th>
@@ -290,12 +290,12 @@ description = "Schedule for the conference and link to abstracts"
         <td>Sharon Nielsen (9:30-9:50)</td>
       </tr>
       <tr>
-        <td>Olena Kravchuk (9:50-10:10)</td>
+        <td>Warren Muller (9:50-10:10)</td>
         <td>Esther Meenken (9:50-10:10)</td>
       </tr>
       <tr>
-        <td>Warren Muller (10:10-10:30)</td>
         <td></td>
+        <td>Peter Kasprzak (10:10-10:30)</td>
       </tr>
       <tr>
         <td>10:30-11:00</td>
