@@ -790,7 +790,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Alice Richardson</td>
             <td>Determination of Indirect Reference Intervals for Immunoglobulin in an Australian Population</td>
             <td>14:10 - 14:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/3xbvxr1tsabb17ggs5sq7mfhnh03ok02">Download Here</a></td>
           </tr>
           <tr class="out budgets 43collapsed collapse multi-collapse12" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -801,7 +801,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Tugba Akkaya-Hocagil</td>
             <td>The Propensity Score with Semi-continuous Exposures</td>
             <td>14:30 - 14:50</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/op4utazy754zog7rv8a8hbjfvzhnmhgl">Download Here</a></td>
           </tr>
           <tr class="out budgets 44collapsed collapse multi-collapse12" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -812,7 +812,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Olivier Thas</td>
             <td>Compositional Rank Methods for Testing for Differential Abundance in Microbiome Studies</td>
             <td>14:50 - 15:10</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/35qnli9axf7feqdhiih9r3opg9ajflhz">Download Here</a></td>
           </tr>
           <tr class="out budgets 45collapsed collapse multi-collapse12" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -823,7 +823,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Tong Wang</td>
             <td>Comparison of Methods for the Detection of Outlier and Associated Biomarker in Mislabeled Omics Data</td>
             <td>15:10 - 15:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/9ltpdghqlulkd48qgdha6h7teoseblqs">Download Here</a></td>
           </tr>
           <tr class="out budgets 46collapsed collapse multi-collapse12" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -854,7 +854,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Robert Clark</td>
             <td>Statistical Efficiency of Distance Sampling</td>
             <td>14:10 - 14:30</td>
-            <td></td>
+            <td><a href="">Download Here</a></td>
           </tr>
           <tr class="out budgets 47collapsed collapse multi-collapse13" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -865,7 +865,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Scott Foster</td>
             <td>Being Random and Efficient for Transect-Based Ecological Surveys</td>
             <td>14:30 - 14:50</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/m5lvgc7hwior9a9mi0oc51ukg9r4cl4t">Download Here</a></td>
           </tr>
           <tr class="out budgets 48collapsed collapse multi-collapse13" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -876,7 +876,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Omer Ozturk</td>
             <td>Two-Stage Cluster Samples with Judgment Post-Stratification</td>
             <td>14:50 - 15:10</td>
-            <td></td>
+            <td><a href="">Download Here</a></td>
           </tr>
           <tr class="out budgets 49collapsed collapse multi-collapse13" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -887,7 +887,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Dan Gladish</td>
             <td>Optimal design for monitoring groundwater quality using geostatistical modelling</td>
             <td>15:10 - 15:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/uhu64vaymvl3fzkz3h2o7jhjae53pp0u">Download Here</a></td>
           </tr>
           <tr class="out budgets 50collapsed collapse multi-collapse13" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
