@@ -325,56 +325,72 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
         <tr>
           <th>Presenter</th>
           <th>Poster Title</th>
+          <th>Download link</th>
         </tr>
       </thead>
         <tbody>
           <tr>
             <td>Angela Anderson</td>
             <td>Cross-validation of pasture biomass predictions from handheld NDVI sensor measures</td>
+            <td><a href="/posters/Angela_Anderson_IBS-AR_poster.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Mohammad Javad Davoudabadi&#42;</td>
             <td>Bayesian Approaches to Carbon Cycle Modelling</td>
+            <td><a href="/posters/Mohammad_Javad_Davoudabadi_Poster_conference_Adelaide.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Nathaniel Jewell</td>
             <td>Analysis of continuous water use data for wheat plants grown on a Droughtspotter platform</td>
+            <td><a href="/posters/Nathaniel_Jewell_DrSpotter.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Olena Kravchuk</td>
             <td>Comparative study of probability models for agriculture field index data</td>
+            <td></td>
+            <!-- <td><a href="/posters/">Download poster</a></td> -->
           </tr>
           <tr>
             <td>Chris Lisle&#42;</td>
             <td>Fitting a nugget variance to the analysis of National Variety Trials</td>
+            <td></td>
+            <!-- <td><a href="/posters/">Download poster</a></td> -->
           </tr>
-          <tr>
+          <!-- <tr>
             <td>Esther Meenken</td>
             <td>Multivariate analysis for Greenhouse Gas Emissions from New Zealand Sheep and Beef Farm Systems</td>
-          </tr>
+            <td><a href="/posters/">Download poster</a></td>
+          </tr> -->
           <tr>
             <td>Lucas Peitton&#42;</td>
             <td>Is the SpATS model as good as we would like it to be for the spatial analysis of field trials?</td>
+            <td></td>
+            <!-- <td><a href="/posters/">Download poster</a></td> -->
           </tr>
           <tr>
             <td>Nishika Ranathunga&#42;</td>
             <td>Computation of the expected value of a function of a chi-distributed random variable</td>
+            <td><a href="/posters/Nishika_Ranathunga_Poster_IBS.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Sam Rogers</td>
             <td>A comparison of linear mixed model packages in R for analysis of plant breeding experiments</td>
+            <td><a href="/posters/Sam_Rogers_IBS_poster.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Eugenia Settecase&#42;</td>
             <td>Exploration of trait relationships in mungbean using a multivariate linear mixed model</td>
+            <td><a href="/posters/Eugenia_Settecase_Poster.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Alan Welsh</td>
             <td>Random thoughts on p-values</td>
+            <td><a href="/posters/Alan_Welsh_pvalues_poster.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Carole Wright</td>
             <td>NIRS Classification</td>
+            <td><a href="/posters/Carole_Wright_IBS_Poster.pdf">Download poster</a></td>
           </tr>
         </tbody>
       </table>
