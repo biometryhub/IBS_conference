@@ -1086,7 +1086,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>David Warton</td>
             <td>Generalised latent variable models for multivariate abundances in ecology</td>
             <td>10:00 - 10:30</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/1n1nphm5w6ep9ttqzjmm8w4m4a9r0orc">Download Here</a></td>
           </tr>
           <tr class="out budgets 61collapsed collapse multi-collapse16" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
