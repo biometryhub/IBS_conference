@@ -6,13 +6,13 @@ description = ""
 The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pdf).
 
 <ul class="nav nav-tabs">
-  <li><a data-toggle="tab" href="#tuesday">Tue</a></li>
+  <li class="active"><a data-toggle="tab" href="#tuesday">Tue</a></li>
   <li><a data-toggle="tab" href="#wednesday">Wed</a></li>
   <li><a data-toggle="tab" href="#thursday">Thu</a></li>
-  <li class="active"><a data-toggle="tab" href="#friday">Fri</a></li>
+  <li><a data-toggle="tab" href="#friday">Fri</a></li>
 </ul>
 <div class="tab-content">
-  <div id="tuesday" class="tab-pane fade">
+  <div id="tuesday" class="tab-pane fade in active">
   <h2>Opening Address</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
     <div class="table-responsive">
@@ -347,8 +347,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           <tr>
             <td>Olena Kravchuk</td>
             <td>Comparative study of probability models for agriculture field index data</td>
-            <td></td>
-            <!-- <td><a href="/posters/">Download poster</a></td> -->
+            <!-- <td></td> -->
+            <td><a href="/posters/Olena_Kravchuk_IBS_poster.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Chris Lisle&#42;</td>
@@ -364,8 +364,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           <tr>
             <td>Lucas Peitton&#42;</td>
             <td>Is the SpATS model as good as we would like it to be for the spatial analysis of field trials?</td>
-            <td></td>
-            <!-- <td><a href="/posters/">Download poster</a></td> -->
+            <!-- <td></td> -->
+            <td><a href="/posters/Lucas_Peitton_IBS_poster.pdf">Download poster</a></td>
           </tr>
           <tr>
             <td>Nishika Ranathunga&#42;</td>
@@ -1044,7 +1044,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
     </div>
     <!-- Thurs -->
   </div>
-  <div id="friday" class="tab-pane fade in active">
+  <div id="friday" class="tab-pane fade">
     <!-- Fri -->
     <h2>JABES/Biometrics Showcase</h2>
     <h4><i>Room: Exhibition Hall</i></h4>
@@ -1114,7 +1114,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Daniela Bustos-Korts</td>
             <td>Opportunities from combining statistical and crop growth models to predict Genotype × Environment interactions over time</td>
             <td>11:00 - 12:00</td>
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/th5miv2en6it9h6dg7kvjaj36ardd3w5">Download Here</a></td>
           </tr>
           <tr class="out budgets 62collapsed collapse multi-collapse17" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
