@@ -967,8 +967,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Petra Kuhnert</td>
             <td>Vizumap: An R package for visualizing uncertainty in spatial data</td>
             <td>17:00 - 17:20</td>
-            <!-- <td><a href="">Download Here</a></td> -->
-            <td></td>
+            <td><a href="https://universityofadelaide.box.com/s/a96whjh6dr5mkcardqw3li6l3sf8njle">Download Here</a></td>
           </tr>
           <tr class="out budgets 54collapsed collapse multi-collapse14" aria-expanded="false" style="height: 0px;">
           <td colspan="4">

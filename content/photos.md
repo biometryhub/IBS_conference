@@ -9,24 +9,25 @@ title: Conference Photos
 # Photos of Venue
 
 Coming soon!
-{{< gallery dir="/img/photos/venue" />}}
+
+ {{< gallery dir="img/photos/venue" />}}
 
 # Monday
 
-{{< gallery dir="/img/photos/monday" />}}
+<!--- {{< gallery dir="img/photos/monday" />}} -->
 
 # Tuesday
 
-{{< gallery dir="/img/photos/tuesday" />}}
+<!--- {{< gallery dir="img/photos/tuesday" />}} -->
 
 # Wednesday 
 
-{{< gallery dir="/img/photos/wednesday" />}}
+<!--- {{< gallery dir="img/photos/wednesday" />}} -->
 
 # Thursday
 
-{{< gallery dir="/img/photos/thursday" />}}
+<!--- {{< gallery dir="img/photos/thursday" />}} -->
 
 # Friday
 
-{{< gallery dir="/img/photos/friday" />}}
+<!--- {{< gallery dir="/img/photos/friday" />}} -->
