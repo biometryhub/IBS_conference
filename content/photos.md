@@ -12,9 +12,6 @@ Coming soon!
 
  {{< gallery dir="img/photos/venue" />}}
 
-# Monday
-
-<!--- {{< gallery dir="img/photos/monday" />}} -->
 
 # Tuesday
 
@@ -27,7 +24,3 @@ Coming soon!
 # Thursday
 
 <!--- {{< gallery dir="img/photos/thursday" />}} -->
-
-# Friday
-
-<!--- {{< gallery dir="/img/photos/friday" />}} -->
