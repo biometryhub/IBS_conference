@@ -353,8 +353,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
           <tr>
             <td>Chris Lisle&#42;</td>
             <td>Fitting a nugget variance to the analysis of National Variety Trials</td>
-            <td></td>
-            <!-- <td><a href="/posters/">Download poster</a></td> -->
+            <!-- <td></td> -->
+            <td><a href="/posters/Chris_Lisle_Poster_Final.pdf">Download poster</a></td>
           </tr>
           <!-- <tr>
             <td>Esther Meenken</td>
