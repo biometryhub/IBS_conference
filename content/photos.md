@@ -8,8 +8,6 @@ title: Conference Photos
 
 # Photos of Venue
 
-Coming soon!
-
  {{< gallery dir="img/photos/venue" />}}
 
 
