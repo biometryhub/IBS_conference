@@ -97,7 +97,13 @@ paginate = 10
         url  = "/school-posters/"
         parent = "prog"
         weight = 5
-	
+        
+    [[menu.main]]
+        name = "Conference photos"
+        url  = "/photos/"
+        parent = "prog"
+        weight = 6
+        
 [[menu.main]]
     name = "Visiting Adelaide"
     identifier = "tourism"
