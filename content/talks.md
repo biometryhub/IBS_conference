@@ -464,7 +464,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Michael Stewart</td>
             <td>Robust scale estimation under small measurement errors</td>
             <td>10:10 - 10:30</td>
-            <td><a href="https://universityofadelaide.box.com/s/r5hgo8jjv1fje6prqa8i9eulbfdpki2m">Download Here</a></td>
+            <td></td>
           </tr>
           <tr class="out budgets 24collapsed collapse multi-collapse6" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
