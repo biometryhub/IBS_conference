@@ -692,7 +692,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Susan Wilson</td>
             <td>Big Biometric Data: A Biostatistical Perspective</td>
             <td>8:50 - 9:10</td>
-            <td><a href="https://universityofadelaide.box.com/s/sazo9kqr3tn90qpn5ubhxm7guk3vbwj9">Download Here</a></td>
+            <td></td>
           </tr>
           <tr class="out budgets 37collapsed collapse multi-collapse10" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
