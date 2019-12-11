@@ -1063,7 +1063,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Dan Pagendam</td>
             <td>Improving Estimates of Fried’s Index from Mating Competitiveness Experiments</td>
             <td>9:00 - 9:30</td>
-            <td><a href="https://universityofadelaide.box.com/s/4c5qnbsyrhh4yvk7akbkt63gjyk7xjsj">Download Here</a></td>
+            <td></td>
           </tr>
           <tr class="out budgets 59collapsed collapse multi-collapse16" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
