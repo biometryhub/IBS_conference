@@ -160,13 +160,6 @@ paginate = 10
         parent = "about"
         weight = 3    
         
-    [[menu.main]]
-        name = "Wifi"
-        url  = "/wifi/"
-        parent = "about"
-        weight = 4    
-    
-        
         
 
 [params]
