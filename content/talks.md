@@ -448,8 +448,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Fernando Marmolejo-Ramos</td>
             <td>Towards distributional analyses of biomarker data</td>
             <td>9:10 - 9:30</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/qode1qid6ucpwbo6pb0vgmjbwfd6ua84">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/qode1qid6ucpwbo6pb0vgmjbwfd6ua84">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 21collapsed collapse multi-collapse6" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
