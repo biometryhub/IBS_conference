@@ -147,8 +147,8 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Jessica Kasza</td>
             <td>From the stepped wedge to the staircase: the information content of stepped wedge trials</td>
             <td>11:20 - 11:40</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/d99wdu89tyijsgbsepswzfnn34uiqzob">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/d99wdu89tyijsgbsepswzfnn34uiqzob">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 5collapsed collapse multi-collapse2" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -226,8 +226,8 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Francis Hui</td>
             <td>Spatial Confounding in GEEs – Why the Working Correlation Matters (well, sort of)</td>
             <td>11:20 - 11:40</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/voq83ki7ue777tkumo328e62a00j4dg6">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/voq83ki7ue777tkumo328e62a00j4dg6">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 10collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -238,8 +238,8 @@ The complete book of abstracts can be downloaded [here](/data/bookofabstracts.pd
             <td>Ian Renner</td>
             <td>Model reliability of presence-only species distribution models fitted with a lasso penalty</td>
             <td>11:40 - 12:00</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/nlgybb4kpn8gy8ezp31x653mstpzz9k4">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/nlgybb4kpn8gy8ezp31x653mstpzz9k4">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 12collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -295,8 +295,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Emlyn Williams</td>
             <td>Error variance bias in neighbour balance and evenness of distribution designs</td>
             <td>16:00 - 16:20</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/6q4phcvdod0ab33ay35uu8tb7qwqaz9d">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/6q4phcvdod0ab33ay35uu8tb7qwqaz9d">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 17collapsed collapse multi-collapse5" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -641,8 +641,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Takeshi Kurosawa</td>
             <td>A new Liu estimator under a linear constraint</td>
             <td>8:50 - 9:10</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/j42wsc7nzxk1t197jjzzzl5282r63qgv">Download Here</a></td> -->
-					<td></td>
+					  <td></td>
           </tr>
           <tr class="out budgets 32collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -653,8 +652,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Zhanglong Cao</td>
             <td>Model selection and principle of parsimony in statistical modelling in agriculture</td>
             <td>9:10 - 9:30</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/dasbb0op6djazvu44xaw8w8gbcct3d32">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/dasbb0op6djazvu44xaw8w8gbcct3d32">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 33collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -688,8 +687,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Warren Muller</td>
             <td>Modelling and Parameterization of Soil-Water Retention Curves</td>
             <td>9:50 - 10:10</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/jib7s5060ilg9668tjsltaz60eu1b2eg">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/jib7s5060ilg9668tjsltaz60eu1b2eg">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 36collapsed collapse multi-collapse9" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -843,8 +842,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Alice Richardson</td>
             <td>Determination of Indirect Reference Intervals for Immunoglobulin in an Australian Population</td>
             <td>14:10 - 14:30</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/3xbvxr1tsabb17ggs5sq7mfhnh03ok02">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/3xbvxr1tsabb17ggs5sq7mfhnh03ok02">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 43collapsed collapse multi-collapse12" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
