@@ -263,8 +263,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Louise McMillan</td>
             <td>clustglm and clustord: R packages for clustering with covariates for binary, count, and ordinal data</td>
             <td>12:20 - 12:40</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/jfpc6c3yzamcisd3e8qg4doi6v8kfl4f">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/jfpc6c3yzamcisd3e8qg4doi6v8kfl4f">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 13collapsed collapse multi-collapse3" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -436,8 +436,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Paul Kabaila</td>
             <td>Confidence intervals centred on bootstrap smoothed estimators</td>
             <td>8:50 - 9:10</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/qrsikvdhe1abds7ghsjp2y7mnqi6bojp">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/qrsikvdhe1abds7ghsjp2y7mnqi6bojp">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 20collapsed collapse multi-collapse6" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -746,8 +746,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Sharon Nielsen</td>
             <td>Statistics for agronomists: a constructive synthesis of workplace learning and community of practice</td>
             <td>9:30 - 9:50</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/9fu6rx2kbbou5mft5c310tapltv4qb3m">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/9fu6rx2kbbou5mft5c310tapltv4qb3m">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 39collapsed collapse multi-collapse10" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -935,8 +935,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Omer Ozturk</td>
             <td>Two-Stage Cluster Samples with Judgment Post-Stratification</td>
             <td>14:50 - 15:10</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/3nvi9l02vqhqeqzovi1h5w2ucxwb0hcc">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/3nvi9l02vqhqeqzovi1h5w2ucxwb0hcc">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 49collapsed collapse multi-collapse13" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -1059,8 +1059,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Beata Sznajder</td>
             <td>A multi-locus variable selection strategy for association mapping analysis</td>
             <td>16:20 - 16:40</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/sibyg277655krmha2e4yrxmt263rj5vs">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/6ehgu4h2etqtye1tki4d5nccg6agm4v3">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 56collapsed collapse multi-collapse15" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -1127,8 +1127,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Louise McMillan</td>
             <td>Visualization and measures of population differentiation based on the saddlepoint approximation</td>
             <td>9:30 - 10:00</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/isp760m0crlt221hnq2vkni7ki7kopna">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/isp760m0crlt221hnq2vkni7ki7kopna">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 60collapsed collapse multi-collapse16" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
