@@ -17,6 +17,10 @@ The full collection of photos can be found on the Society [Flickr page](https://
 
 <!--- {{< gallery dir="img/photos/tuesday" />}} -->
 
+## Poster Session
+
+{{< gallery dir="img/photos/posters" />}}
+
 # Wednesday 
 
 <!--- {{< gallery dir="img/photos/wednesday" />}} -->

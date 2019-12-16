@@ -563,8 +563,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Michael Mumford</td>
             <td>Clustering environments in a combined trial analysis of yield response to plant population</td>
             <td>10:10 - 10:30</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/e9atq1ri1s337zd8yobr5y7lqp7jdjuo">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/e9atq1ri1s337zd8yobr5y7lqp7jdjuo">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 29collapsed collapse multi-collapse7" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
@@ -733,8 +733,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Teresa Neeman</td>
             <td>Bridging the gap between science and statistics</td>
             <td>9:10 - 9:30</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/31z168p7ajoo34ktyc10gy2r7e2sgjg7">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/31z168p7ajoo34ktyc10gy2r7e2sgjg7">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 38collapsed collapse multi-collapse10" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
