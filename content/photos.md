@@ -24,3 +24,7 @@ The full collection of photos can be found on the Society [Flickr page](https://
 # Thursday
 
 <!--- {{< gallery dir="img/photos/thursday" />}} -->
+
+## Conference Dinner
+
+{{< gallery dir="img/photos/dinner" />}}
