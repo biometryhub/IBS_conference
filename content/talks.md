@@ -1002,8 +1002,8 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Kevin Wang&#42;</td>
             <td>mcvis: A new framework for collinearity discovery, diagnostic and visualization</td>
             <td>16:40 - 17:00</td>
-            <!-- <td><a href="https://kevinwang09.github.io/pres/mcvis_talk">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://kevinwang09.github.io/pres/mcvis_talk">Download Here</a></td>
+					<!-- <td></td> -->
           </tr>
           <tr class="out budgets 53collapsed collapse multi-collapse14" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
