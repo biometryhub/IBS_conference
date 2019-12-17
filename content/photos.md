@@ -15,7 +15,7 @@ The full collection of photos can be found on the Society [Flickr page](https://
 
 # Tuesday
 
-<!--- {{< gallery dir="img/photos/tuesday" />}} -->
+{{< gallery dir="img/photos/tuesday" />}}
 
 ## Poster Session
 
@@ -23,12 +23,16 @@ The full collection of photos can be found on the Society [Flickr page](https://
 
 # Wednesday 
 
-<!--- {{< gallery dir="img/photos/wednesday" />}} -->
+{{< gallery dir="img/photos/wednesday" />}}
 
 # Thursday
 
-<!--- {{< gallery dir="img/photos/thursday" />}} -->
+{{< gallery dir="img/photos/thursday" />}}
 
 ## Conference Dinner
 
 {{< gallery dir="img/photos/dinner" />}}
+
+# Friday
+
+{{< gallery dir="img/photos/friday" />}}
