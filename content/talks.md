@@ -319,8 +319,7 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>Richard Jarrett</td>
             <td>Designs with many singly replicated treatments</td>
             <td>16:40 - 17:00</td>
-            <!-- <td><a href="https://universityofadelaide.box.com/s/ds5xdoedni6rfmz60qoqdt6z5tkym0ok">Download Here</a></td> -->
-					<td></td>
+            <td><a href="https://universityofadelaide.box.com/s/ds5xdoedni6rfmz60qoqdt6z5tkym0ok">Download Here</a></td>
           </tr>
           <tr class="out budgets 19collapsed collapse multi-collapse5" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
