@@ -551,7 +551,6 @@ In this talk, I will present a new set of diagnostic tools that can provide insi
             <td>An across trials random regression approach to describe tolerance of wheat cultivars to disease</td>
             <td>9:50 - 10:10</td>
             <td><a href="https://universityofadelaide.box.com/s/6lap6iffw7fvxzuvl0iv7aidc00pjju7">Download Here</a></td>
-					<td></td>
           </tr>
           <tr class="out budgets 28collapsed collapse multi-collapse7" aria-expanded="false" style="height: 0px;">
           <td colspan="4">
