@@ -86,7 +86,8 @@ _________________________________________________________ -->
     <div class="container">
         <div class="col-md-12">
             {{ if isset .Site.Params "copyright" }}
-            <p class="pull-left">{{ .Site.Params.copyright | markdownify }}</p>
+            <p class="pull-left">&copy; <script type="text/javascript">
+              document.write(new Date().getFullYear());</script>, {{ .Site.Params.copyright | markdownify }}; All rights reserved.</p>
             {{ end }}
             <p class="pull-right">
               {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.

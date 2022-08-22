@@ -86,18 +86,13 @@ The following people are eligible to use the concessional rates to register for 
 1. PDF copies of the registration form are available. Please post or email the completed registration form to:
 
 Warren Müller  
-22 McLarty Court  
-Kambah ACT 2902  
-Australia
-
-Email : [warren.muller@csiro.au](mailto:warren.muller@csiro.au)  
-Tel : +61 (0) 407 916 868 or +61 2 6231 0825 (After Hours) 
+Email: [info@biometricsociety.org.au](mailto:info@biometricsociety.org.au)
 
 To ensure security of information, particularly credit card details, faxing forms is not desirable, but if necessary can be arranged by contacting Warren Müller.
 
 
 ### 11.	Questions
-1. 	Please contact the local organizing committee through the website (ausbiometric2019.org/contact) or via email [ausbiometric2019@adelaide.edu.au](mailto:ausbiometric2019@adelaide.edu.au).
+1. 	Please contact the local organizing committee through the website (ausbiometric2019.org/contact) or via email [info@biometricsociety.org.au](mailto:info@biometricsociety.org.au).
 
 {{% /md %}}
 </div>

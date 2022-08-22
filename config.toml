@@ -1,16 +1,7 @@
 baseurl = "https://ausbiometric2019.org/"
 title = "Biometrics by the Botanic Gardens"
 theme = "hugo-universal-theme"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-
-# To Do list
-# Book of Abstracts only as pdf
-# Programme table fixed first column
-# Choose colour by theme or by location
-# Detailed program with abstracts
-# Consistant formatting for outline program
-# Update numbers so abstracts expand properly
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "^/resources/"]
 
 
 languageCode = "en-au"
@@ -186,18 +177,16 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "ausbiometric2019@adelaide.edu.au"
+    email = "info@biometricsociety.org.au"
 
     about_us = 'The <a href="http://www.biometrics.org.au" target="_blank" rel="noreferrer">International Biometric Society (IBS)</a> is devoted to the development and application of statistical and mathematical theory and methods in the Biosciences, including agriculture, biomedical science and public health, ecology, environmental sciences, forestry, and allied disciplines. It welcomes as members statisticians, mathematicians, biological scientists, and others devoted to interdisciplinary efforts in advancing the collection and interpretation of information in the biosciences. If you require further information, please use the [contact form](/contact). Here is the full list of [people who made this conference happen](/acknowledgements/).'
-    copyright = """&copy; <script type="text/javascript">
-  document.write(new Date().getFullYear());
-</script>, [The Biometry Hub](https://biometryhubwaite.com), University of Adelaide; All rights reserved."""
+    copyright = "[The Biometry Hub](https://biometryhubwaite.com), University of Adelaide"
     
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
     logo = "img/logo.png"
 	
-    address = """<strong><a href="mailto:ausbiometric2019@adelaide.edu.au">Local Organising Committee</a></strong>, University of Adelaide<br><br>"""
+    address = """<strong><a href="mailto:info@biometricsociety.org.au">Local Organising Committee</a></strong>, University of Adelaide<br><br>"""
     
     #"""<p><strong>The Biometry Hub</strong>
     #    <br>Level 2, Main Waite Building
