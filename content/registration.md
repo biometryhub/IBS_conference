@@ -23,21 +23,12 @@ description = "Registration page"
 <li><b>Conference starts</b>: 3rd December 2019
 <li><b>Conference closes</b>: 6th December 2019
 
-    </div>
-    <div class="col-sm-7 col-md-7 col-lg-7">
+</div>
+<div class="col-sm-7 col-md-7 col-lg-7">
         
         
 <h2>Conference Fees</h2>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-0pky"></th>
@@ -85,7 +76,7 @@ description = "Registration page"
 <li>Social program costs are <i>not</i> included and are as displayed in registration form below or at <a href="/social/">Social program page</a>
 </ul>
         
-    </div>
+</div>
 </div>
 </div>
 

@@ -9,7 +9,7 @@ description = "Schedule for the conference and link to abstracts"
 
 #### For a more mobile-friendly programme, visit [mobile programme](/mobile_programme/)
 
-#### [Venue Map](https://wineaustralia.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf)
+#### [Venue Map](https://nationalwinecentre.com.au/uploads/general/NWC12064-Floor-Plan-Isometric-Web-002.pdf)
 
 <br>
 

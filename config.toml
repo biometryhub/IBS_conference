@@ -3,6 +3,13 @@ title = "Biometrics by the Botanic Gardens"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "^/resources/"]
 
+[markup]
+defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 
 languageCode = "en-au"
 # Site language. Available translations in the theme's `/i18n` directory.
