@@ -5,7 +5,8 @@ description = "Some tourism recommendations"
 
 There is something for everyone to see and do in Adelaide and South Australia! Some suggestions are listed below, and for more general information on South Australia including Whale watching, zoos, and festivals, visit [the tourism centre](http://southaustralia.com/), or for more CBD focused attractions, the [Adelaide city council](https://www.cityofadelaide.com.au/explore-the-city/see-and-do/) provides some good information.
 
-<img style="float: right;" src="/img/IMGP3981.JPG", class="responsive">
+
+![](/img/IMGP3981.JPG#responsive)
 <!-- ![Barossa Valley](/img/barossa.jpg) -->
 
 ### Wine Regions
@@ -21,7 +22,7 @@ World renowned for it's wine, a visit to SA is not complete without a wine tour.
 
 Adelaide is a lovely city to visit with stunning gardens dotted throughout the city.
 
-<img style="float: right;" src="/img/adelaide-botanic-garden.JPG", class="responsive">
+![](/img/adelaide-botanic-garden.JPG#responsive)
 <!-- ![Botanic gardens](/img/adelaide-botanic-garden.jpg) -->
 
 - [Waite Gardens and Arboretum](https://www.adelaide.edu.au/waite-historic/gardens/)
