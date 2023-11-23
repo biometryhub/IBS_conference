@@ -1,4 +1,4 @@
-baseurl = "https://ausbiometric2019.netlify.app/"
+baseurl = "https://ausbiometrics2019.netlify.app/"
 title = "Biometrics by the Botanic Gardens"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "^/resources/"]
